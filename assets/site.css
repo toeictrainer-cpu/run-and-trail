@@ -1,0 +1,158 @@
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+
+  /* ── 상단 게시판 메뉴 (모든 페이지 공통) ── */
+  .topnav {
+    background: #fff; border-bottom: 1px solid #eee;
+    position: sticky; top: 0; z-index: 40;
+  }
+  .topnav .inner {
+    max-width: 760px; margin: 0 auto; padding: 0 16px;
+    display: flex; align-items: center; gap: 4px; overflow-x: auto;
+  }
+  .topnav .brand {
+    font-weight: 800; font-size: 16px; margin-right: 10px;
+    white-space: nowrap; padding: 14px 0;
+  }
+  .topnav a {
+    padding: 14px 12px; font-size: 14.5px; color: #777;
+    text-decoration: none; white-space: nowrap;
+    border-bottom: 2.5px solid transparent; font-weight: 600;
+  }
+  .topnav a.active { color: #1a1a1a; border-bottom-color: #1a1a1a; }
+  .topnav a:hover { color: #1a1a1a; }
+
+  body {
+    font-family: "Apple SD Gothic Neo", "Pretendard", -apple-system, sans-serif;
+    background: #f6f7f9; color: #1a1a1a; line-height: 1.5;
+  }
+  .wrap { max-width: 760px; margin: 0 auto; padding: 24px 16px 80px; }
+  header h1 { font-size: 26px; margin-bottom: 4px; }
+  header p { color: #777; font-size: 14px; margin-bottom: 20px; }
+
+  .search {
+    width: 100%; padding: 12px 16px; font-size: 16px;
+    border: 1px solid #ddd; border-radius: 12px; margin-bottom: 12px;
+    background: #fff; outline: none;
+  }
+  .search:focus { border-color: #3b82f6; }
+  .chips { display: flex; gap: 6px; flex-wrap: wrap; margin-bottom: 10px; }
+  .chips .label { font-size: 13px; color: #999; align-self: center; min-width: 34px; }
+  .chip {
+    padding: 6px 13px; border-radius: 999px; font-size: 13.5px;
+    border: 1px solid #ddd; background: #fff; cursor: pointer; color: #444;
+  }
+  .chip.on { background: #1a1a1a; color: #fff; border-color: #1a1a1a; }
+
+  .chip.map-toggle { border-style: dashed; color: #3b82f6; border-color: #93c5fd; }
+  .chip.map-toggle.on { background: #3b82f6; color: #fff; border-color: #3b82f6; border-style: solid; }
+  .map-panel {
+    display: none; background: #fff; border: 1px solid #eee; border-radius: 14px;
+    padding: 14px 12px 8px; margin: 4px 0 12px;
+  }
+  .map-panel.show { display: block; }
+  .map-panel svg { width: 100%; max-width: 340px; display: block; margin: 0 auto; }
+  .map-panel .hint { text-align: center; font-size: 12px; color: #999; padding: 6px 0; }
+  .map-regions path { fill: #e9ecef; stroke: #fff; stroke-width: 1; cursor: pointer; transition: fill .15s; }
+  .map-regions path:hover { fill: #cbd5e1; }
+  .map-regions path.sel { fill: #1a1a1a; }
+  .map-regions path.sel:hover { fill: #3f3f3f; }
+  .map-labels text {
+    font-size: 12px; font-weight: 700; fill: #444; text-anchor: middle;
+    pointer-events: none; stroke: #fff; stroke-width: 3; paint-order: stroke;
+  }
+  .view-toggle { display: flex; gap: 0; margin: 16px 0 8px; border: 1px solid #ddd; border-radius: 10px; overflow: hidden; width: fit-content; }
+  .view-toggle button {
+    padding: 8px 20px; font-size: 14px; border: none; background: #fff; cursor: pointer; color: #666;
+  }
+  .view-toggle button.on { background: #1a1a1a; color: #fff; }
+
+  .month-title {
+    font-size: 18px; font-weight: 700; margin: 28px 0 12px;
+    display: flex; align-items: center; gap: 8px;
+  }
+  .month-title .cnt { font-size: 13px; color: #999; font-weight: 400; }
+  .card {
+    background: #fff; border-radius: 14px; padding: 16px;
+    margin-bottom: 10px; display: flex; gap: 14px;
+    border: 1px solid #eee; cursor: pointer; transition: border-color .15s;
+  }
+  .card:hover { border-color: #bbb; }
+  .date-box { text-align: center; min-width: 54px; }
+  .date-box .day { font-size: 22px; font-weight: 800; }
+  .date-box .dow { font-size: 12px; color: #888; }
+  .date-box .dow.sat { color: #3b82f6; }
+  .date-box .dow.sun { color: #ef4444; }
+  .dday {
+    font-size: 11px; font-weight: 700; margin-top: 4px;
+    padding: 2px 6px; border-radius: 6px; display: inline-block;
+    background: #eef2ff; color: #4353c8;
+  }
+  .dday.soon { background: #fee2e2; color: #dc2626; }
+  .info { flex: 1; min-width: 0; }
+  .info .name { font-weight: 700; font-size: 16px; display: flex; gap: 6px; align-items: center; flex-wrap: wrap; }
+  .badge { font-size: 11px; font-weight: 700; padding: 2px 7px; border-radius: 6px; }
+  .badge.open { background: #dcfce7; color: #15803d; }
+  .badge.closed { background: #f1f3f5; color: #999; }
+  .badge.upcoming { background: #fef3c7; color: #b45309; }
+  .info .meta { font-size: 13px; color: #666; margin-top: 3px; }
+  .region-tag { color: #3b82f6; font-weight: 600; }
+  .tags { margin-top: 8px; display: flex; gap: 6px; flex-wrap: wrap; }
+  .tag { font-size: 12px; padding: 3px 8px; border-radius: 6px; background: #f1f3f5; color: #555; }
+  .empty { text-align: center; color: #999; padding: 60px 0; }
+
+  /* 캘린더 */
+  .cal-nav { display: flex; align-items: center; gap: 12px; margin: 20px 0 10px; }
+  .cal-nav h2 { font-size: 18px; min-width: 120px; text-align: center; }
+  .cal-nav button {
+    width: 34px; height: 34px; border-radius: 8px; border: 1px solid #ddd;
+    background: #fff; cursor: pointer; font-size: 16px;
+  }
+  .cal-grid { display: grid; grid-template-columns: repeat(7, 1fr); gap: 4px; }
+  .cal-head { text-align: center; font-size: 12px; color: #888; padding: 6px 0; font-weight: 600; }
+  .cal-head.sun { color: #ef4444; } .cal-head.sat { color: #3b82f6; }
+  .cal-cell {
+    background: #fff; border: 1px solid #eee; border-radius: 8px;
+    min-height: 74px; padding: 4px; font-size: 11px; overflow: hidden;
+  }
+  .cal-cell.out { background: transparent; border-color: transparent; }
+  .cal-cell .num { font-size: 12px; font-weight: 700; color: #555; margin-bottom: 2px; }
+  .cal-cell.today-cell { border-color: #3b82f6; border-width: 2px; }
+  .cal-race {
+    display: block; background: #eef2ff; color: #4353c8; border-radius: 4px;
+    padding: 1px 4px; margin-bottom: 2px; white-space: nowrap; overflow: hidden;
+    text-overflow: ellipsis; cursor: pointer;
+  }
+  .cal-race.trail { background: #dcfce7; color: #15803d; }
+
+  /* 상세 모달 */
+  .modal-bg {
+    position: fixed; inset: 0; background: rgba(0,0,0,.45);
+    display: none; align-items: flex-end; justify-content: center; z-index: 50;
+  }
+  .modal-bg.show { display: flex; }
+  .modal {
+    position: relative;
+    background: #fff; border-radius: 20px 20px 0 0; width: 100%; max-width: 760px;
+    max-height: 82vh; overflow-y: auto; padding: 24px 20px 34px;
+  }
+  @media (min-width: 640px) { .modal-bg { align-items: center; } .modal { border-radius: 20px; width: 92%; } }
+  .modal h2 { font-size: 20px; margin-bottom: 2px; padding-right: 30px; }
+  .modal .close {
+    position: sticky; top: 0; float: right;
+    border: none; background: #f1f3f5; border-radius: 50%; width: 30px; height: 30px;
+    font-size: 15px; cursor: pointer; color: #555;
+  }
+  .modal .sub { color: #777; font-size: 13px; margin-bottom: 16px; }
+  .field { display: flex; gap: 12px; padding: 9px 0; border-bottom: 1px solid #f1f3f5; font-size: 14px; }
+  .field .k { color: #888; min-width: 68px; }
+  .field .v { flex: 1; word-break: break-all; }
+  .modal .desc { font-size: 13.5px; color: #555; background: #f8f9fa; border-radius: 10px; padding: 12px; margin-top: 14px; white-space: pre-line; }
+  .modal .actions { display: flex; gap: 8px; margin-top: 18px; }
+  .modal .actions a {
+    flex: 1; text-align: center; padding: 13px; border-radius: 12px;
+    text-decoration: none; font-weight: 700; font-size: 15px;
+  }
+  .btn-primary { background: #1a1a1a; color: #fff; }
+  .btn-secondary { background: #f1f3f5; color: #444; }
+  .modal .notice { font-size: 12px; color: #aaa; margin-top: 12px; text-align: center; }
+  footer { margin-top: 40px; font-size: 12px; color: #aaa; text-align: center; }

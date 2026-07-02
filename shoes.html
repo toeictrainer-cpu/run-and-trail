@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>러닝화 정보 — 러닝허브</title>
+<link rel="stylesheet" href="assets/site.css">
+<style>
+  .shoe-card { cursor: default; }
+  .shoe-card .spec { font-size: 13px; color: #666; margin-top: 3px; }
+  .shoe-card .note { font-size: 13.5px; color: #555; margin-top: 8px; }
+  .cat-icon { font-size: 22px; min-width: 54px; text-align: center; }
+</style>
+</head>
+<body>
+<nav class="topnav">
+  <div class="inner">
+    <span class="brand">🏃 러닝허브</span>
+    <a href="index.html">대회 일정</a>
+    <a href="shoes.html" class="active">러닝화</a>
+    <a href="crews.html">러닝크루</a>
+  </div>
+</nav>
+<div class="wrap">
+  <header>
+    <h1>👟 러닝화 정보</h1>
+    <p id="subtitle">불러오는 중...</p>
+  </header>
+
+  <input class="search" id="search" type="search" placeholder="모델명·브랜드 검색">
+  <div class="chips" id="cat-chips"><span class="label">용도</span></div>
+
+  <div id="list-view"></div>
+  <footer>가격·스펙은 시점에 따라 다를 수 있으니 구매 전 공식 정보를 확인하세요.</footer>
+</div>
+
+<script>
+const CATEGORIES = ["데일리", "템포", "레이스", "트레일"];
+const CAT_ICON = { "데일리": "👟", "템포": "⚡", "레이스": "🏅", "트레일": "⛰️" };
+let items = [], catFilter = "all", query = "";
+const esc = s => String(s ?? "").replace(/[&<>"']/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
+
+function render() {
+  const q = query.toLowerCase();
+  const shown = items.filter(it =>
+    (catFilter === "all" || it.category === catFilter) &&
+    (!q || (it.name + it.brand + it.category + (it.note || "")).toLowerCase().includes(q))
+  );
+  document.getElementById("subtitle").textContent = `등록된 러닝화 ${shown.length}개`;
+  const list = document.getElementById("list-view");
+  if (!shown.length) { list.innerHTML = '<div class="empty">조건에 맞는 러닝화가 없어요</div>'; return; }
+  list.innerHTML = shown.map(it => `
+    <div class="card shoe-card">
+      <div class="cat-icon">${CAT_ICON[it.category] || "👟"}</div>
+      <div class="info">
+        <div class="name">${it.link ? `<a href="${esc(it.link)}" target="_blank" rel="noopener">${esc(it.name)} ↗</a>` : esc(it.name)}</div>
+        <div class="spec">${esc(it.brand)}${it.weight ? ` · ${esc(it.weight)}` : ""}${it.drop ? ` · 드롭 ${esc(it.drop)}` : ""}</div>
+        <div class="tags"><span class="tag">${esc(it.category)}</span></div>
+        ${it.note ? `<div class="note">${esc(it.note)}</div>` : ""}
+      </div>
+    </div>`).join("");
+}
+
+const box = document.getElementById("cat-chips");
+box.insertAdjacentHTML("beforeend",
+  [{k:"all",l:"전체"}, ...CATEGORIES.map(c => ({k:c,l:c}))].map((f, i) =>
+    `<button class="chip ${i===0?"on":""}" data-key="${f.k}">${f.l}</button>`).join(""));
+box.addEventListener("click", e => {
+  const btn = e.target.closest(".chip"); if (!btn) return;
+  box.querySelectorAll(".chip").forEach(c => c.classList.toggle("on", c === btn));
+  catFilter = btn.dataset.key; render();
+});
+document.getElementById("search").addEventListener("input", e => { query = e.target.value.trim(); render(); });
+
+fetch("data/shoes.json")
+  .then(r => r.json())
+  .then(d => { items = d.items; render(); })
+  .catch(() => { document.getElementById("subtitle").textContent = "데이터를 불러오지 못했어요 (data/shoes.json 확인)"; });
+</script>
+</body>
+</html>

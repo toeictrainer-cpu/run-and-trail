@@ -1,0 +1,264 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>러닝 대회 일정 — 전국 마라톤·트레일런 캘린더</title>
+<link rel="stylesheet" href="assets/site.css">
+</head>
+<body>
+<nav class="topnav">
+  <div class="inner">
+    <span class="brand">🏃 러닝허브</span>
+    <a href="index.html" class="active">대회 일정</a>
+    <a href="shoes.html">러닝화</a>
+    <a href="crews.html">러닝크루</a>
+  </div>
+</nav>
+<div class="wrap">
+  <header>
+    <h1>🏃 러닝 대회 일정</h1>
+    <p id="subtitle">불러오는 중...</p>
+  </header>
+
+  <input class="search" id="search" type="search" placeholder="대회명·장소 검색 (예: 한강, 나이트런)">
+  <div class="chips" id="event-chips"><span class="label">종목</span></div>
+  <div class="chips" id="region-chips"><span class="label">지역</span><button class="chip map-toggle" id="map-toggle">🗺 지도</button></div>
+  <div class="map-panel" id="map-panel"></div>
+  <div class="chips" id="status-chips"><span class="label">접수</span></div>
+
+  <div class="view-toggle">
+    <button id="btn-list" class="on">목록</button>
+    <button id="btn-cal">캘린더</button>
+  </div>
+
+  <div id="list-view"></div>
+  <div id="cal-view" style="display:none">
+    <div class="cal-nav">
+      <button id="cal-prev">‹</button><h2 id="cal-title"></h2><button id="cal-next">›</button>
+    </div>
+    <div class="cal-grid" id="cal-grid"></div>
+  </div>
+
+  <footer>참가 전 반드시 대회 공식 홈페이지에서 일정·접수 정보를 확인하세요.</footer>
+</div>
+
+<div class="modal-bg" id="modal-bg">
+  <div class="modal" id="modal"></div>
+</div>
+
+<script>
+const EVENT_FILTERS = [
+  { key: "all", label: "전체", test: () => true },
+  { key: "full", label: "풀코스", test: e => /풀|42/.test(e) },
+  { key: "half", label: "하프", test: e => /하프|21/.test(e) },
+  { key: "10k", label: "10km", test: e => /10\s*k/i.test(e) },
+  { key: "5k", label: "5km", test: e => /5\s*k/i.test(e) },
+  { key: "trail", label: "트레일", test: (e, name) => /트레일|trail/i.test(e + name) },
+];
+const DOW = ["일","월","화","수","목","금","토"];
+const REGIONS = ["서울","인천","경기","강원","대전","세종","충남","충북","광주","전남","전북","대구","경북","경남","부산","울산","제주"];
+let races = [], statusFilter = "all", query = "";
+const eventSel = new Set(), regionSel = new Set(); // 비어 있으면 "전체"
+let calYear, calMonth; // 캘린더가 보여주는 연/월
+const today = new Date(); today.setHours(0,0,0,0);
+
+const esc = s => String(s ?? "").replace(/[&<>"']/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
+
+function dday(dateStr) {
+  const d = Math.round((new Date(dateStr) - today) / 86400000);
+  return d === 0 ? "D-DAY" : d > 0 ? `D-${d}` : null;
+}
+
+function regStatus(r) {
+  if (!r.reg_start && !r.reg_end) return null;
+  const s = r.reg_start ? new Date(r.reg_start) : null;
+  const e = r.reg_end ? new Date(r.reg_end) : null;
+  if (s && today < s) return { cls: "upcoming", label: "접수예정" };
+  if (e && today > e) return { cls: "closed", label: "접수마감" };
+  return { cls: "open", label: "접수중" };
+}
+
+function filtered() {
+  const q = query.toLowerCase();
+  const eventTests = [...eventSel].map(k => EVENT_FILTERS.find(f => f.key === k).test);
+  return races.filter(r =>
+    new Date(r.date) >= today &&
+    (!eventTests.length || eventTests.some(t => t(r.events, r.name))) &&
+    (!regionSel.size || regionSel.has(r.region)) &&
+    (statusFilter === "all" || regStatus(r)?.cls === statusFilter) &&
+    (!q || (r.name + r.location + r.events + (r.region || "")).toLowerCase().includes(q))
+  );
+}
+
+function render() {
+  const shown = filtered();
+  document.getElementById("subtitle").textContent = `다가오는 대회 ${shown.length}개`;
+  renderList(shown);
+  renderCalendar(shown);
+}
+
+function renderList(shown) {
+  const byMonth = {};
+  for (const r of shown) (byMonth[r.date.slice(0, 7)] ||= []).push(r);
+  const list = document.getElementById("list-view");
+  if (!shown.length) { list.innerHTML = '<div class="empty">조건에 맞는 대회가 없어요</div>'; return; }
+  list.innerHTML = Object.entries(byMonth).map(([month, items]) => {
+    const [y, m] = month.split("-");
+    return `<div class="month-title">${y}년 ${+m}월 <span class="cnt">${items.length}개</span></div>` +
+      items.map(r => {
+        const d = new Date(r.date), dow = d.getDay(), dd = dday(r.date), st = regStatus(r);
+        return `<div class="card" data-id="${esc(r.id)}">
+          <div class="date-box">
+            <div class="day">${d.getDate()}</div>
+            <div class="dow ${dow===6?"sat":dow===0?"sun":""}">${DOW[dow]}요일</div>
+            ${dd ? `<div class="dday ${dd==="D-DAY"||parseInt(dd.slice(2))<=7?"soon":""}">${dd}</div>` : ""}
+          </div>
+          <div class="info">
+            <div class="name">${esc(r.name)}${st ? `<span class="badge ${st.cls}">${st.label}</span>` : ""}</div>
+            <div class="meta">${r.region ? `<span class="region-tag">${esc(r.region)}</span> · ` : ""}📍 ${esc(r.location)}${r.organizer ? ` · ${esc(r.organizer)}` : ""}</div>
+            <div class="tags">${r.events.split(/[,/]/).map(e => e.trim()).filter(Boolean).slice(0,6).map(e => `<span class="tag">${esc(e)}</span>`).join("")}</div>
+          </div>
+        </div>`;
+      }).join("");
+  }).join("");
+}
+
+function renderCalendar(shown) {
+  document.getElementById("cal-title").textContent = `${calYear}년 ${calMonth + 1}월`;
+  const first = new Date(calYear, calMonth, 1);
+  const daysInMonth = new Date(calYear, calMonth + 1, 0).getDate();
+  const byDay = {};
+  for (const r of shown) {
+    const d = new Date(r.date);
+    if (d.getFullYear() === calYear && d.getMonth() === calMonth) (byDay[d.getDate()] ||= []).push(r);
+  }
+  let html = DOW.map((d, i) => `<div class="cal-head ${i===0?"sun":i===6?"sat":""}">${d}</div>`).join("");
+  for (let i = 0; i < first.getDay(); i++) html += '<div class="cal-cell out"></div>';
+  for (let day = 1; day <= daysInMonth; day++) {
+    const isToday = calYear === today.getFullYear() && calMonth === today.getMonth() && day === today.getDate();
+    const items = (byDay[day] || []).map(r =>
+      `<span class="cal-race ${/트레일|trail/i.test(r.events + r.name) ? "trail" : ""}" data-id="${esc(r.id)}" title="${esc(r.name)}">${esc(r.name)}</span>`).join("");
+    html += `<div class="cal-cell ${isToday ? "today-cell" : ""}"><div class="num">${day}</div>${items}</div>`;
+  }
+  document.getElementById("cal-grid").innerHTML = html;
+}
+
+function openModal(r) {
+  const st = regStatus(r);
+  const d = new Date(r.date);
+  document.getElementById("modal").innerHTML = `
+    <button class="close" id="modal-close">✕</button>
+    <h2>${esc(r.name)}</h2>
+    <div class="sub">${d.getFullYear()}년 ${d.getMonth()+1}월 ${d.getDate()}일 (${DOW[d.getDay()]}) ${dday(r.date) ? "· " + dday(r.date) : ""}</div>
+    ${[
+      ["지역", r.region],
+      ["장소", r.location],
+      ["종목", r.events],
+      ["출발", r.start_time],
+      ["접수기간", r.reg_period ? `${r.reg_period}${st ? ` <span class="badge ${st.cls}">${st.label}</span>` : ""}` : ""],
+      ["주최", r.organizer],
+      ["문의", r.phone],
+    ].filter(([,v]) => v).map(([k,v]) => `<div class="field"><span class="k">${k}</span><span class="v">${k==="접수기간" ? v : esc(v)}</span></div>`).join("")}
+    ${r.description ? `<div class="desc">${esc(r.description)}</div>` : ""}
+    <div class="actions">
+      ${r.homepage ? `<a class="btn-primary" href="${esc(r.homepage)}" target="_blank" rel="noopener">공식 홈페이지 ↗</a>` : ""}
+      ${r.source_detail ? `<a class="btn-secondary" href="${esc(r.source_detail)}" target="_blank" rel="noopener">로드런 정보</a>` : ""}
+    </div>
+    <div class="notice">일정·참가비·접수 정보는 공식 홈페이지 기준으로 확인하세요.</div>`;
+  document.getElementById("modal-bg").classList.add("show");
+  document.getElementById("modal").scrollTop = 0;
+  document.getElementById("modal-close").onclick = closeModal;
+}
+function closeModal() { document.getElementById("modal-bg").classList.remove("show"); }
+document.getElementById("modal-bg").addEventListener("click", e => { if (e.target.id === "modal-bg") closeModal(); });
+document.addEventListener("keydown", e => { if (e.key === "Escape") closeModal(); });
+
+document.addEventListener("click", e => {
+  const el = e.target.closest("[data-id]");
+  if (!el) return;
+  const r = races.find(x => x.id === el.dataset.id);
+  if (r) openModal(r);
+});
+
+function setupChips(containerId, defs, onChange, multi = false) {
+  const box = document.getElementById(containerId);
+  box.insertAdjacentHTML("beforeend", defs.map((f, i) =>
+    `<button class="chip ${i===0?"on":""}" data-key="${esc(f.key)}">${esc(f.label)}</button>`).join(""));
+  box.addEventListener("click", e => {
+    const btn = e.target.closest(".chip"); if (!btn || !btn.dataset.key) return;
+    const chips = [...box.querySelectorAll(".chip:not(.map-toggle)")];
+    if (!multi || btn.dataset.key === "all") {
+      chips.forEach(c => c.classList.toggle("on", c === btn));
+    } else {
+      btn.classList.toggle("on");
+      const anyOn = chips.some(c => c.dataset.key !== "all" && c.classList.contains("on"));
+      chips.find(c => c.dataset.key === "all").classList.toggle("on", !anyOn);
+    }
+    onChange(chips.filter(c => c.classList.contains("on") && c.dataset.key !== "all").map(c => c.dataset.key));
+    render();
+  });
+}
+
+document.getElementById("search").addEventListener("input", e => { query = e.target.value.trim(); render(); });
+document.getElementById("btn-list").addEventListener("click", () => switchView("list"));
+document.getElementById("btn-cal").addEventListener("click", () => switchView("cal"));
+function switchView(v) {
+  document.getElementById("btn-list").classList.toggle("on", v === "list");
+  document.getElementById("btn-cal").classList.toggle("on", v === "cal");
+  document.getElementById("list-view").style.display = v === "list" ? "" : "none";
+  document.getElementById("cal-view").style.display = v === "cal" ? "" : "none";
+}
+document.getElementById("cal-prev").addEventListener("click", () => { calMonth--; if (calMonth < 0) { calMonth = 11; calYear--; } render(); });
+document.getElementById("cal-next").addEventListener("click", () => { calMonth++; if (calMonth > 11) { calMonth = 0; calYear++; } render(); });
+
+// ── 지도에서 지역 선택 ──
+function syncMapSel() {
+  const all = regionSel.size === 0; // "전체" = 전 지역 선택 상태로 표시
+  document.querySelectorAll(".map-regions path").forEach(p =>
+    p.classList.toggle("sel", all || regionSel.has(p.dataset.region)));
+}
+function selectRegionOnMap(region) {
+  // 해당 지역 칩을 클릭한 것과 동일하게 동작 (다중 선택 토글)
+  [...document.querySelectorAll("#region-chips .chip")].find(c => c.dataset.key === region)?.click();
+}
+document.getElementById("map-toggle").addEventListener("click", () => {
+  document.getElementById("map-toggle").classList.toggle("on");
+  document.getElementById("map-panel").classList.toggle("show");
+});
+fetch("data/korea_map.svg")
+  .then(r => r.text())
+  .then(svg => {
+    const panel = document.getElementById("map-panel");
+    panel.innerHTML = svg + '<div class="hint">지역을 클릭하면 해당 지역 대회만 표시됩니다 · 다시 클릭하면 해제</div>';
+    panel.querySelectorAll(".map-regions path").forEach(p =>
+      p.addEventListener("click", () => selectRegionOnMap(p.dataset.region)));
+    syncMapSel();
+  })
+  .catch(() => { document.getElementById("map-toggle").style.display = "none"; });
+
+calYear = today.getFullYear(); calMonth = today.getMonth();
+setupChips("event-chips", EVENT_FILTERS, keys => {
+  eventSel.clear(); keys.forEach(k => eventSel.add(k));
+}, true);
+setupChips("region-chips", [{ key: "all", label: "전체" }, ...REGIONS.map(r => ({ key: r, label: r }))], keys => {
+  regionSel.clear(); keys.forEach(k => regionSel.add(k));
+  syncMapSel();
+}, true);
+setupChips("status-chips", [
+  { key: "all", label: "전체" },
+  { key: "open", label: "접수중" },
+  { key: "upcoming", label: "접수예정" },
+  { key: "closed", label: "접수마감" },
+], keys => statusFilter = keys[0] ?? "all");
+
+fetch("data/races.json")
+  .then(r => r.json())
+  .then(d => {
+    races = d.races;
+    render();
+  })
+  .catch(() => { document.getElementById("subtitle").textContent = "데이터를 불러오지 못했어요 (data/races.json 확인)"; });
+</script>
+</body>
+</html>
