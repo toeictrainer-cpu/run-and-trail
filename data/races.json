@@ -1,7 +1,7 @@
 {
-  "collected_at": "2026-07-02T15:14:32",
+  "collected_at": "2026-07-02T22:05:19",
   "source": "http://www.roadrun.co.kr/schedule/list.php",
-  "count": 125,
+  "count": 128,
   "races": [
     {
       "id": "roadrun-41611",
@@ -1163,6 +1163,25 @@
       "description": "2026 장수트레일레이스 Fall with 노스페이스\nJTR Miler, JTR 100, JTR 40J, JTR 38P, JTR 20, JTR 5"
     },
     {
+      "id": "roadrun-41666",
+      "name": "2026 안산마라톤",
+      "date": "2026-09-20",
+      "events": "하프,10km,5km",
+      "location": "대부향기테마파크",
+      "organizer": "안산시체육",
+      "phone": "00-1600-3962",
+      "homepage": "http://ansanrun.com",
+      "detail_no": "41666",
+      "source": "http://www.roadrun.co.kr/schedule/list.php (발견용)",
+      "source_detail": "http://www.roadrun.co.kr/schedule/view.php?no=41666",
+      "region": "경기",
+      "reg_period": "2026년7월6일~2026년7월20일",
+      "start_time": "오전",
+      "description": "안산마라",
+      "reg_start": "2026-07-06",
+      "reg_end": "2026-07-20"
+    },
+    {
       "id": "roadrun-41657",
       "name": "제2회 마포구청장배 마라톤 대회",
       "date": "2026-09-20",
@@ -1541,6 +1560,25 @@
       "reg_end": "2026-04-14",
       "start_time": "08:00",
       "description": "-이봉주 보스턴마라톤 제패기념 마라톤대회입니다\n-부상에서 완쾌되는 이봉주 선수와 함께하는 마라톤행사입니다\n-전국 제일의 먹거리를 준비합니다"
+    },
+    {
+      "id": "roadrun-41665",
+      "name": "제3회 성동구연맹회장기 마라톤",
+      "date": "2026-10-10",
+      "events": "10km,5km",
+      "location": "살곶이대운동장(축구장)",
+      "organizer": "성동구체육회 / 성동구육상연맹",
+      "phone": "010-2116-0148",
+      "homepage": "http://samsamis.com",
+      "detail_no": "41665",
+      "source": "http://www.roadrun.co.kr/schedule/list.php (발견용)",
+      "source_detail": "http://www.roadrun.co.kr/schedule/view.php?no=41665",
+      "region": "서울",
+      "reg_period": "2026년7월10일~2026년8월30일",
+      "start_time": "09:00",
+      "description": "성공구 체육회 및 성동구 육상연맹에서 마라톤대회를 개최 합니다.\n3회 맞이하는 대회 많은 관심 및 참가 부탁드립니다.",
+      "reg_start": "2026-07-10",
+      "reg_end": "2026-08-30"
     },
     {
       "id": "roadrun-41601",
@@ -2130,6 +2168,25 @@
       "reg_end": "2026-09-30",
       "start_time": "09:40",
       "description": "영천댐의 수려한 경관을 배경으로 달리는 환상적인 레이스에 여러분을 초대합니다."
+    },
+    {
+      "id": "roadrun-41667",
+      "name": "2026 서울구석구석 국제 트레일런",
+      "date": "2026-11-08",
+      "events": "트레일런 14km,트레일런 35km",
+      "location": "광화문 서울마당(서울신문)",
+      "organizer": "서울신문, 한국익스트림앤스포츠",
+      "phone": "070-7719-5788",
+      "homepage": "http://cafe.naver.com/seoultrailrun/?viewType=pc",
+      "detail_no": "41667",
+      "source": "http://www.roadrun.co.kr/schedule/list.php (발견용)",
+      "source_detail": "http://www.roadrun.co.kr/schedule/view.php?no=41667",
+      "region": "서울",
+      "reg_period": "2026년7월2일~2026년9월30일",
+      "start_time": "07:00~08:00",
+      "description": "2026년 11월 8일(일) 개최되는 서울 구석구석 트레일런대회는 서울신문사와 한국익스트림앤스포츠(KENS)에서 주최하는 대회입니다.\n최근 개방된 청와대 및 서울에 위치한 안산, 인왕산, 북악산의 잘 알려지지 않은 아름다운 코스를 구석구석 힐링 하면서 뛰는 트레일런 대회입니다.\n\"서울에도 이런 곳이 있었나?\" 하는 놀라움이 반복되는 대회",
+      "reg_start": "2026-07-02",
+      "reg_end": "2026-09-30"
     },
     {
       "id": "roadrun-41647",
