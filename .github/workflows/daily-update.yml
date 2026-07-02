@@ -1,0 +1,46 @@
+name: 매일 대회 데이터 갱신
+
+on:
+  schedule:
+    - cron: "0 21 * * *"   # 매일 06:00 KST (21:00 UTC)
+  workflow_dispatch:        # 수동 실행 버튼
+
+permissions:
+  contents: write
+  actions: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: 대회 데이터 수집
+        run: |
+          pip install --quiet beautifulsoup4
+          python scripts/collect_roadrun.py
+
+      - name: 변경사항 커밋 & 푸시
+        id: commit
+        run: |
+          git config user.name "runandtrail-bot"
+          git config user.email "actions@github.com"
+          git add data/races.json
+          if git diff --cached --quiet; then
+            echo "변경 없음 — 배포 생략"
+            echo "changed=false" >> "$GITHUB_OUTPUT"
+          else
+            git commit -m "자동 갱신: 대회 데이터 ($(date +%Y-%m-%d))"
+            git push
+            echo "changed=true" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: 사이트 재배포 트리거
+        if: steps.commit.outputs.changed == 'true'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: gh workflow run pages.yml --repo "$GITHUB_REPOSITORY"
