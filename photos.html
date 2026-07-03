@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>런앤트레일 — 대회사진</title>
+<link rel="icon" type="image/svg+xml" href="assets/logo.svg">
+<link rel="stylesheet" href="assets/site.css">
+<style>
+  .albums { display: grid; grid-template-columns: repeat(2, 1fr); gap: 14px; }
+  @media (max-width: 520px) { .albums { grid-template-columns: 1fr; } }
+  .album {
+    background: #fff; border: 1px solid #eee; border-radius: 14px; overflow: hidden;
+    cursor: pointer; transition: border-color .15s; display: block;
+    text-decoration: none; color: inherit;
+  }
+  .album:hover { border-color: #bbb; }
+  .album .cover { aspect-ratio: 4/3; background: #e9ecef; overflow: hidden; position: relative; }
+  .album .cover img { width: 100%; height: 100%; object-fit: cover; display: block; transition: transform .2s; }
+  .album:hover .cover img { transform: scale(1.04); }
+  .album .cover .cnt {
+    position: absolute; right: 8px; bottom: 8px; background: rgba(0,0,0,.6);
+    color: #fff; font-size: 12px; padding: 3px 9px; border-radius: 999px;
+  }
+  .album .body { padding: 12px 14px 14px; }
+  .album .race { font-weight: 700; font-size: 15.5px; }
+  .album .meta { font-size: 13px; color: #777; margin-top: 2px; }
+  .album .go {
+    margin-top: 10px; font-size: 13px; font-weight: 700; color: #03c75a;
+    display: flex; align-items: center; gap: 4px;
+  }
+  .album.no-link .go { color: #aaa; }
+</style>
+</head>
+<body>
+<nav class="topnav">
+  <div class="inner">
+    <span class="brand" id="brand"><img src="assets/logo.svg" alt="런앤트레일 로고">런앤트레일</span>
+    <a href="index.html">대회 일정</a>
+    <a href="shoes.html">러닝화</a>
+    <a href="crews.html">러닝크루</a>
+    <a href="photos.html" class="active">대회사진</a>
+  </div>
+</nav>
+<div class="wrap">
+  <header>
+    <h1>📸 대회사진</h1>
+    <p id="subtitle">불러오는 중...</p>
+  </header>
+
+  <div id="albums" class="albums"></div>
+  <footer>앨범을 누르면 네이버 MYBOX 사진첩으로 이동합니다.</footer>
+</div>
+
+<script>
+const esc = s => String(s ?? "").replace(/[&<>"']/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
+
+function render(items) {
+  document.getElementById("subtitle").textContent = `대회 사진첩 ${items.length}개`;
+  const box = document.getElementById("albums");
+  if (!items.length) { box.innerHTML = '<div class="empty" style="grid-column:1/-1">아직 올라온 사진첩이 없어요</div>'; return; }
+  box.innerHTML = items.map(it => {
+    const hasLink = !!it.link;
+    const tag = hasLink ? `a href="${esc(it.link)}" target="_blank" rel="noopener"` : "div";
+    return `<${tag} class="album ${hasLink ? "" : "no-link"}">
+      <div class="cover">
+        <img src="${esc(it.thumb)}" alt="${esc(it.race || it.id)}" loading="lazy">
+        ${it.count ? `<span class="cnt">📷 ${esc(it.count)}</span>` : ""}
+      </div>
+      <div class="body">
+        <div class="race">${esc(it.race || it.title || it.id)}</div>
+        <div class="meta">${esc(it.date || "")}${it.title && it.race ? " · " + esc(it.title) : ""}</div>
+        <div class="go">${hasLink ? "네이버 MYBOX에서 전체보기 →" : "사진첩 준비중"}</div>
+      </div>
+    </${hasLink ? "a" : "div"}>`;
+  }).join("");
+}
+
+fetch("data/photos.json")
+  .then(r => r.json())
+  .then(d => render(d.items))
+  .catch(() => render([]));
+</script>
+</body>
+</html>
