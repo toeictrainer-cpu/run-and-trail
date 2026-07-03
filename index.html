@@ -45,11 +45,13 @@
   <div class="chips" id="status-chips"><span class="label">접수</span></div>
 
   <div class="view-toggle">
-    <button id="btn-list" class="on">목록</button>
+    <button id="btn-card" class="on">카드</button>
+    <button id="btn-list">목록</button>
     <button id="btn-cal">캘린더</button>
   </div>
 
-  <div id="list-view"></div>
+  <div id="card-view" class="pcards"></div>
+  <div id="list-view" style="display:none"></div>
   <div id="cal-view" style="display:none">
     <div class="cal-nav">
       <button id="cal-prev">‹</button><h2 id="cal-title"></h2><button id="cal-next">›</button>
@@ -111,8 +113,50 @@ function filtered() {
 function render() {
   const shown = filtered();
   document.getElementById("subtitle").textContent = `다가오는 대회 ${shown.length}개`;
+  renderCards(shown);
   renderList(shown);
   renderCalendar(shown);
+}
+
+// ── 포스터풍 카드 뷰 (포스터 이미지가 없는 대회는 커버를 자동 생성) ──
+const CARD_GRADS = [
+  ["#2e7d4f", "#12472a"], ["#1e3a8a", "#0c1e52"], ["#b45309", "#7c2d12"],
+  ["#0e7490", "#134e5e"], ["#6d28d9", "#3b0764"], ["#be123c", "#520724"],
+  ["#334155", "#0f172a"], ["#0f766e", "#053f3a"],
+];
+function hashCode(s) { let h = 0; for (const c of s) h = (h * 31 + c.charCodeAt(0)) | 0; return Math.abs(h); }
+function coverEmoji(r) {
+  const t = r.events + r.name;
+  if (/트레일|trail/i.test(t)) return "⛰️";
+  if (/나이트|야간|문라이트|선셋|night/i.test(t)) return "🌙";
+  if (/걷기|워킹|맨발/.test(t)) return "🚶";
+  return "🏃";
+}
+function renderCards(shown) {
+  const box = document.getElementById("card-view");
+  if (!shown.length) { box.innerHTML = '<div class="empty" style="grid-column:1/-1">조건에 맞는 대회가 없어요</div>'; return; }
+  box.innerHTML = shown.map(r => {
+    const d = new Date(r.date), dd = dday(r.date), st = regStatus(r);
+    const g = CARD_GRADS[hashCode(r.id) % CARD_GRADS.length];
+    return `<div class="pcard" data-id="${esc(r.id)}">
+      <div class="cover" style="${r.poster ? "" : `background:linear-gradient(150deg,${g[0]},${g[1]})`}">
+        ${r.poster ? `<img class="poster" src="${esc(r.poster)}" alt="">` : ""}
+        <span class="emoji-bg">${coverEmoji(r)}</span>
+        <div class="top">
+          <span class="datebox"><span class="m">${d.getMonth() + 1}월</span><br><span class="d">${d.getDate()}</span></span>
+          ${st ? `<span class="badge ${st.cls}">${st.label}</span>` : ""}
+        </div>
+        <div class="name">${esc(r.name)}</div>
+      </div>
+      <div class="pbody">
+        <div class="evts">${esc(r.events)}</div>
+        <div class="row2">
+          <span>${r.region ? esc(r.region) + " · " : ""}${DOW[d.getDay()]}요일</span>
+          ${dd ? `<span class="dday ${dd === "D-DAY" || parseInt(dd.slice(2)) <= 7 ? "soon" : ""}">${dd}</span>` : ""}
+        </div>
+      </div>
+    </div>`;
+  }).join("");
 }
 
 function renderList(shown) {
@@ -218,13 +262,15 @@ function setupChips(containerId, defs, onChange, multi = false) {
 }
 
 document.getElementById("search").addEventListener("input", e => { query = e.target.value.trim(); render(); });
+document.getElementById("btn-card").addEventListener("click", () => switchView("card"));
 document.getElementById("btn-list").addEventListener("click", () => switchView("list"));
 document.getElementById("btn-cal").addEventListener("click", () => switchView("cal"));
 function switchView(v) {
-  document.getElementById("btn-list").classList.toggle("on", v === "list");
-  document.getElementById("btn-cal").classList.toggle("on", v === "cal");
-  document.getElementById("list-view").style.display = v === "list" ? "" : "none";
-  document.getElementById("cal-view").style.display = v === "cal" ? "" : "none";
+  const views = { card: "card-view", list: "list-view", cal: "cal-view" };
+  for (const [key, id] of Object.entries(views)) {
+    document.getElementById("btn-" + key).classList.toggle("on", v === key);
+    document.getElementById(id).style.display = v === key ? "" : "none";
+  }
 }
 document.getElementById("cal-prev").addEventListener("click", () => { calMonth--; if (calMonth < 0) { calMonth = 11; calYear--; } render(); });
 document.getElementById("cal-next").addEventListener("click", () => { calMonth++; if (calMonth > 11) { calMonth = 0; calYear++; } render(); });

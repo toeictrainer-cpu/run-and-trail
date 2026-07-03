@@ -68,6 +68,39 @@
   }
   .view-toggle button.on { background: #1a1a1a; color: #fff; }
 
+  /* ── 포스터 카드 뷰 ── */
+  .pcards { display: grid; grid-template-columns: repeat(3, 1fr); gap: 12px; margin-top: 16px; }
+  @media (max-width: 640px) { .pcards { grid-template-columns: repeat(2, 1fr); gap: 9px; } }
+  .pcard {
+    border-radius: 14px; overflow: hidden; cursor: pointer; background: #fff;
+    border: 1px solid #eee; transition: transform .15s, box-shadow .15s;
+  }
+  .pcard:hover { transform: translateY(-3px); box-shadow: 0 10px 22px rgba(0,0,0,.12); }
+  .pcard .cover {
+    aspect-ratio: 3/4; position: relative; overflow: hidden;
+    display: flex; flex-direction: column; justify-content: space-between;
+    padding: 11px; color: #fff;
+  }
+  .pcard .cover .emoji-bg {
+    position: absolute; right: -16px; bottom: -20px; font-size: 110px;
+    opacity: .18; line-height: 1; pointer-events: none;
+  }
+  .pcard .cover .top { display: flex; justify-content: space-between; align-items: flex-start; gap: 6px; position: relative; }
+  .pcard .cover .datebox {
+    background: rgba(255,255,255,.2); border-radius: 8px; padding: 3px 9px;
+    text-align: center; line-height: 1.1;
+  }
+  .pcard .cover .datebox .m { font-size: 11px; opacity: .9; }
+  .pcard .cover .datebox .d { font-size: 20px; font-weight: 800; }
+  .pcard .cover .name {
+    position: relative; font-weight: 800; font-size: 16px; line-height: 1.32;
+    word-break: keep-all; text-shadow: 0 1px 5px rgba(0,0,0,.3);
+  }
+  .pcard .cover img.poster { position: absolute; inset: 0; width: 100%; height: 100%; object-fit: cover; }
+  .pcard .pbody { padding: 9px 11px 11px; }
+  .pcard .pbody .evts { font-size: 12px; color: #666; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+  .pcard .pbody .row2 { margin-top: 5px; display: flex; justify-content: space-between; align-items: center; font-size: 12px; color: #888; }
+
   .month-title {
     font-size: 18px; font-weight: 700; margin: 28px 0 12px;
     display: flex; align-items: center; gap: 8px;
