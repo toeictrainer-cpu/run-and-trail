@@ -185,6 +185,9 @@ def main() -> None:
             for k in DETAIL_FIELDS:
                 if k in cached:
                     race[k] = cached[k]
+        # 포스터는 별도 스크립트(fetch_posters.py)가 채우므로 항상 보존
+        if cached.get("poster"):
+            race["poster"] = cached["poster"]
 
     OUT_PATH.parent.mkdir(parents=True, exist_ok=True)
     payload = {
