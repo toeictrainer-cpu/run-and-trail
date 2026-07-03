@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-07-02T22:05:19",
+  "collected_at": "2026-07-03T22:03:00",
   "source": "http://www.roadrun.co.kr/schedule/list.php",
   "count": 128,
   "races": [
@@ -1210,10 +1210,10 @@
       "source_detail": "http://www.roadrun.co.kr/schedule/view.php?no=41666",
       "region": "경기",
       "reg_period": "2026년7월6일~2026년7월20일",
-      "start_time": "오전",
-      "description": "안산마라",
       "reg_start": "2026-07-06",
-      "reg_end": "2026-07-20"
+      "reg_end": "2026-07-20",
+      "start_time": "오전",
+      "description": "안산마라"
     },
     {
       "id": "roadrun-41657",
@@ -1238,7 +1238,7 @@
       "id": "roadrun-41630",
       "name": "2026 한돈런",
       "date": "2026-09-20",
-      "events": "10km,5km",
+      "events": "10km,6km코스",
       "location": "미사 조정경기장",
       "organizer": "한돈자조금위원회, 런코리아",
       "phone": "070-1566-1936",
@@ -1615,17 +1615,17 @@
       "events": "10km,5km",
       "location": "살곶이대운동장(축구장)",
       "organizer": "성동구체육회 / 성동구육상연맹",
-      "phone": "010-2116-0148",
+      "phone": "010-7469-1526",
       "homepage": "http://samsamis.com",
       "detail_no": "41665",
       "source": "http://www.roadrun.co.kr/schedule/list.php (발견용)",
       "source_detail": "http://www.roadrun.co.kr/schedule/view.php?no=41665",
       "region": "서울",
       "reg_period": "2026년7월10일~2026년8월30일",
-      "start_time": "09:00",
-      "description": "성공구 체육회 및 성동구 육상연맹에서 마라톤대회를 개최 합니다.\n3회 맞이하는 대회 많은 관심 및 참가 부탁드립니다.",
       "reg_start": "2026-07-10",
       "reg_end": "2026-08-30",
+      "start_time": "09:00",
+      "description": "성공구 체육회 및 성동구 육상연맹에서 마라톤대회를 개최 합니다.\n3회 맞이하는 대회 많은 관심 및 참가 부탁드립니다.",
       "poster": "posters/roadrun-41665.jpg"
     },
     {
@@ -2236,7 +2236,7 @@
       "name": "2026 서울구석구석 국제 트레일런",
       "date": "2026-11-08",
       "events": "트레일런 14km,트레일런 35km",
-      "location": "광화문 서울마당(서울신문)",
+      "location": "서울마당(지하철1호선 시청역 4번출구)",
       "organizer": "서울신문, 한국익스트림앤스포츠",
       "phone": "070-7719-5788",
       "homepage": "http://cafe.naver.com/seoultrailrun/?viewType=pc",
@@ -2245,10 +2245,10 @@
       "source_detail": "http://www.roadrun.co.kr/schedule/view.php?no=41667",
       "region": "서울",
       "reg_period": "2026년7월2일~2026년9월30일",
-      "start_time": "07:00~08:00",
-      "description": "2026년 11월 8일(일) 개최되는 서울 구석구석 트레일런대회는 서울신문사와 한국익스트림앤스포츠(KENS)에서 주최하는 대회입니다.\n최근 개방된 청와대 및 서울에 위치한 안산, 인왕산, 북악산의 잘 알려지지 않은 아름다운 코스를 구석구석 힐링 하면서 뛰는 트레일런 대회입니다.\n\"서울에도 이런 곳이 있었나?\" 하는 놀라움이 반복되는 대회",
       "reg_start": "2026-07-02",
-      "reg_end": "2026-09-30"
+      "reg_end": "2026-09-30",
+      "start_time": "07:00~08:00",
+      "description": "2026년 11월 8일(일) 개최되는 서울 구석구석 트레일런대회는 서울신문사와 한국익스트림앤스포츠(KENS)에서 주최하는 대회입니다.\n최근 개방된 청와대 및 서울에 위치한 안산, 인왕산, 북악산의 잘 알려지지 않은 아름다운 코스를 구석구석 힐링 하면서 뛰는 트레일런 대회입니다.\n\"서울에도 이런 곳이 있었나?\" 하는 놀라움이 반복되는 대회"
     },
     {
       "id": "roadrun-41647",
