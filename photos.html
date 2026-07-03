@@ -69,6 +69,7 @@ function render(items) {
       <div class="body">
         <div class="race">${esc(it.race || it.title || it.id)}</div>
         <div class="meta">${esc(it.date || "")}${it.title && it.race ? " · " + esc(it.title) : ""}</div>
+        ${it.pw ? `<div class="meta">🔒 열람 비밀번호: <b>${esc(it.pw)}</b></div>` : ""}
         <div class="go">${hasLink ? "네이버 MYBOX에서 전체보기 →" : "사진첩 준비중"}</div>
       </div>
     </${hasLink ? "a" : "div"}>`;

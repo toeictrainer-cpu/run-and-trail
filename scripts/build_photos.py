@@ -75,6 +75,7 @@ def main() -> None:
             "date": prev.get("date") or photo_date(src),
             "link": prev.get("link", ""),          # 네이버 MYBOX 공유 링크
             "count": prev.get("count", ""),        # 앨범 사진 장수 (선택, 예: "58장")
+            "pw": prev.get("pw", ""),              # MYBOX 열람 비밀번호 (선택)
         }
         items.append(item)
         if not item["link"]:
