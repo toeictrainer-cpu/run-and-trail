@@ -1,7 +1,7 @@
 {
-  "collected_at": "2026-07-04T21:57:58",
+  "collected_at": "2026-07-05T22:00:19",
   "source": "http://www.roadrun.co.kr/schedule/list.php",
-  "count": 128,
+  "count": 130,
   "races": [
     {
       "id": "roadrun-41611",
@@ -1138,6 +1138,25 @@
       "poster": "posters/roadrun-41137.jpg"
     },
     {
+      "id": "roadrun-41668",
+      "name": "2026 JUST RUN10 김해 대동",
+      "date": "2026-09-19",
+      "events": "10km,5km",
+      "location": "김해 대동생태체육공원 축구장",
+      "organizer": "(주)러닝브레이커, 전국러닝협회",
+      "phone": "042-710-2058",
+      "homepage": "http://runten.co.kr",
+      "detail_no": "41668",
+      "source": "http://www.roadrun.co.kr/schedule/list.php (발견용)",
+      "source_detail": "http://www.roadrun.co.kr/schedule/view.php?no=41668",
+      "region": "경남",
+      "reg_period": "2026년7월3일~2026년7월31일",
+      "start_time": "08:00",
+      "description": "PB 달성이 가장 쉬운 확실한 공식대회\n- 병목없는 레이스, 티어별 스타트\n- 업힐 없는 국내 최고의 평지 코스\n- 강변을 따라 달리는 힐링 코스\n- 차량통제 필요없는 안전한 코스\n- 10K, 5K 모두 기록칩 완벽 지원\n- 100명 이상의 경품, 최고 수준의 상금",
+      "reg_start": "2026-07-03",
+      "reg_end": "2026-07-31"
+    },
+    {
       "id": "roadrun-41629",
       "name": "제18회 사이버 영토 수호 마라톤",
       "date": "2026-09-19",
@@ -1977,6 +1996,25 @@
       "reg_end": "2026-06-29",
       "start_time": "오전",
       "description": "선착순 5000명 1차 접수 마감 완료\n(4km 1,000명 / 10km 2,500명 / Half 1,500명)\n감사합니다!"
+    },
+    {
+      "id": "roadrun-41669",
+      "name": "2026 익산 기부런",
+      "date": "2026-10-24",
+      "events": "10km,6.4km",
+      "location": "익산시종합운동장",
+      "organizer": "(사)크레파스",
+      "phone": "063-832-0033",
+      "homepage": "http://iksangiverun.or.kr",
+      "detail_no": "41669",
+      "source": "http://www.roadrun.co.kr/schedule/list.php (발견용)",
+      "source_detail": "http://www.roadrun.co.kr/schedule/view.php?no=41669",
+      "region": "전북",
+      "reg_period": "2026년7월14일~2026년8월31일",
+      "start_time": "09:00",
+      "description": "7월 14일부터 1500명 선착순 접수\n참가자에게는 기부금 영수증 발급\n수익금은 어려운 이웃, 육상 꿈나무에게\n배번호 등은 대회당일 현장에서 지급",
+      "reg_start": "2026-07-14",
+      "reg_end": "2026-08-31"
     },
     {
       "id": "roadrun-41637",
