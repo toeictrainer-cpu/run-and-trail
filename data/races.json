@@ -1,7 +1,7 @@
 {
-  "collected_at": "2026-07-05T22:00:19",
+  "collected_at": "2026-07-06T22:12:35",
   "source": "http://www.roadrun.co.kr/schedule/list.php",
-  "count": 130,
+  "count": 133,
   "races": [
     {
       "id": "roadrun-41611",
@@ -648,6 +648,25 @@
       "description": "https://www.wmac2026.com/kr/\n(위 주소를 꾹 누르면, 열기 화면창 연결됩니다)\n- 개회식 축하콘서트 티켓 1인1매 증정(선착순 8,000명)\n★ K-POP 가수 : 아이브, 우주소녀 다영 등 5개팀, 트로트 : 김용빈, 전유진, 손빈아, 추혁진 ★\n- 대구로페이 2만원권 선불카드 증정\n- 「2027대구마라톤」 참가신청 우선권 제공(하프, 10km 참가자 선착순)\n- 대폭 할인된 국내 참가비 적용(해외선수 대비 30%)\n- 대한육상연맹 승인 태극마크 부착 공식 유니폼 제공\n- 국제대회 참가 기념메달 증정\n- 개"
     },
     {
+      "id": "roadrun-41672",
+      "name": "사우나런 in 뚝섬한강공원",
+      "date": "2026-08-31",
+      "events": "10km,5km",
+      "location": "뚝섬한강공원 인근",
+      "organizer": "사우나런",
+      "phone": "070-4571-8805",
+      "homepage": "http://saunarun.com",
+      "detail_no": "41672",
+      "source": "http://www.roadrun.co.kr/schedule/list.php (발견용)",
+      "source_detail": "http://www.roadrun.co.kr/schedule/view.php?no=41672",
+      "region": "서울",
+      "reg_period": "2026년7월6일~2026년8월31일",
+      "start_time": "상시",
+      "description": "※ 참가비·접수기간·코스 등 자세한 모집요강은 해당 대회 홈페이지에서 확인해 주세요.",
+      "reg_start": "2026-07-06",
+      "reg_end": "2026-08-31"
+    },
+    {
       "id": "roadrun-41639",
       "name": "제12회 I LOVE 방송대 마라톤",
       "date": "2026-09-05",
@@ -1151,10 +1170,10 @@
       "source_detail": "http://www.roadrun.co.kr/schedule/view.php?no=41668",
       "region": "경남",
       "reg_period": "2026년7월3일~2026년7월31일",
-      "start_time": "08:00",
-      "description": "PB 달성이 가장 쉬운 확실한 공식대회\n- 병목없는 레이스, 티어별 스타트\n- 업힐 없는 국내 최고의 평지 코스\n- 강변을 따라 달리는 힐링 코스\n- 차량통제 필요없는 안전한 코스\n- 10K, 5K 모두 기록칩 완벽 지원\n- 100명 이상의 경품, 최고 수준의 상금",
       "reg_start": "2026-07-03",
-      "reg_end": "2026-07-31"
+      "reg_end": "2026-07-31",
+      "start_time": "08:00",
+      "description": "PB 달성이 가장 쉬운 확실한 공식대회\n- 병목없는 레이스, 티어별 스타트\n- 업힐 없는 국내 최고의 평지 코스\n- 강변을 따라 달리는 힐링 코스\n- 차량통제 필요없는 안전한 코스\n- 10K, 5K 모두 기록칩 완벽 지원\n- 100명 이상의 경품, 최고 수준의 상금"
     },
     {
       "id": "roadrun-41629",
@@ -1216,6 +1235,25 @@
       "poster": "posters/roadrun-41349.jpg"
     },
     {
+      "id": "roadrun-41670",
+      "name": "2026 인천송도국제하프마라톤",
+      "date": "2026-09-20",
+      "events": "하프,10km,5km",
+      "location": "송도인천대캠퍼스 정문앞",
+      "organizer": "(주)경인일보",
+      "phone": "00-1866-1718",
+      "homepage": "http://songdorun.net",
+      "detail_no": "41670",
+      "source": "http://www.roadrun.co.kr/schedule/list.php (발견용)",
+      "source_detail": "http://www.roadrun.co.kr/schedule/view.php?no=41670",
+      "region": "인천",
+      "reg_period": "2026년7월8일~2026년8월7일",
+      "start_time": "08:00",
+      "description": "2026.7.8(수) 14:00 접수 오픈.",
+      "reg_start": "2026-07-08",
+      "reg_end": "2026-08-07"
+    },
+    {
       "id": "roadrun-41666",
       "name": "2026 안산마라톤",
       "date": "2026-09-20",
@@ -1260,7 +1298,7 @@
       "events": "10km,6km코스",
       "location": "미사 조정경기장",
       "organizer": "한돈자조금위원회, 런코리아",
-      "phone": "070-1566-1936",
+      "phone": "00-1566-1936",
       "homepage": "http://handonrun.com/",
       "detail_no": "41630",
       "source": "http://www.roadrun.co.kr/schedule/list.php (발견용)",
@@ -2011,10 +2049,10 @@
       "source_detail": "http://www.roadrun.co.kr/schedule/view.php?no=41669",
       "region": "전북",
       "reg_period": "2026년7월14일~2026년8월31일",
-      "start_time": "09:00",
-      "description": "7월 14일부터 1500명 선착순 접수\n참가자에게는 기부금 영수증 발급\n수익금은 어려운 이웃, 육상 꿈나무에게\n배번호 등은 대회당일 현장에서 지급",
       "reg_start": "2026-07-14",
-      "reg_end": "2026-08-31"
+      "reg_end": "2026-08-31",
+      "start_time": "09:00",
+      "description": "7월 14일부터 1500명 선착순 접수\n참가자에게는 기부금 영수증 발급\n수익금은 어려운 이웃, 육상 꿈나무에게\n배번호 등은 대회당일 현장에서 지급"
     },
     {
       "id": "roadrun-41637",
@@ -2287,6 +2325,25 @@
       "reg_end": "2026-09-30",
       "start_time": "07:00~08:00",
       "description": "2026년 11월 8일(일) 개최되는 서울 구석구석 트레일런대회는 서울신문사와 한국익스트림앤스포츠(KENS)에서 주최하는 대회입니다.\n최근 개방된 청와대 및 서울에 위치한 안산, 인왕산, 북악산의 잘 알려지지 않은 아름다운 코스를 구석구석 힐링 하면서 뛰는 트레일런 대회입니다.\n\"서울에도 이런 곳이 있었나?\" 하는 놀라움이 반복되는 대회"
+    },
+    {
+      "id": "roadrun-41671",
+      "name": "2026 과천마라톤",
+      "date": "2026-11-08",
+      "events": "하프,10km,5km",
+      "location": "관문체육공원",
+      "organizer": "과천시체육회",
+      "phone": "031-575-7243",
+      "homepage": "http://gcrun.co.kr",
+      "detail_no": "41671",
+      "source": "http://www.roadrun.co.kr/schedule/list.php (발견용)",
+      "source_detail": "http://www.roadrun.co.kr/schedule/view.php?no=41671",
+      "region": "경기",
+      "reg_period": "2026년7월20일~2026년7월31일",
+      "start_time": "08:00",
+      "description": "2026 과천마라톤대회에 오신 것을 환영합니다.",
+      "reg_start": "2026-07-20",
+      "reg_end": "2026-07-31"
     },
     {
       "id": "roadrun-41647",
