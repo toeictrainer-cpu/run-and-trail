@@ -1,7 +1,7 @@
 {
-  "collected_at": "2026-07-09T22:26:00",
+  "collected_at": "2026-07-10T22:00:23",
   "source": "http://www.roadrun.co.kr/schedule/list.php",
-  "count": 146,
+  "count": 153,
   "races": [
     {
       "id": "roadrun-41611",
@@ -297,6 +297,25 @@
       "description": "청계산과 인릉산릉산을 달립니다.."
     },
     {
+      "id": "roadrun-41692",
+      "name": "순천만국가정원 챌린지가든런",
+      "date": "2026-07-25",
+      "events": "10km",
+      "location": "순천만국가정원 동문",
+      "organizer": "순천만국가정원",
+      "phone": "070-5088-1180",
+      "homepage": "http://projectruntrip.com/",
+      "detail_no": "41692",
+      "source": "http://www.roadrun.co.kr/schedule/list.php (발견용)",
+      "source_detail": "http://www.roadrun.co.kr/schedule/view.php?no=41692",
+      "region": "전남",
+      "reg_period": "2026년7월9일~2026년7월17일",
+      "start_time": "07:30",
+      "description": "총 상금 : 200만원\n이번 대회는 순천의 심장이자 세계가 주목하는 순천만국가정원에서 개최됩니다. 푸른 잔디와 정교한 정원 언덕을 배경으로 달리는 이번 코스는,\n발걸음마다 자연의 생동감을 온전히 느낄 수 있는 특별한 순간을 선사합니다.\n대한민국에서 가장 아름다운 정원에서 당신의 최고 기록을 갱신해 보세요.",
+      "reg_start": "2026-07-09",
+      "reg_end": "2026-07-17"
+    },
+    {
       "id": "roadrun-41625",
       "name": "사우나런 in 올림픽공원",
       "date": "2026-07-31",
@@ -439,7 +458,7 @@
       "name": "영남알프스9봉 트레일 레이스",
       "date": "2026-08-15",
       "events": "9봉 87k,5봉 45k",
-      "location": "청운산장",
+      "location": "가늘산장",
       "organizer": "JYD자연을달린다",
       "phone": "010-4539-6887",
       "homepage": "http://jyd.creatorlink.net",
@@ -1118,7 +1137,7 @@
     },
     {
       "id": "roadrun-41591",
-      "name": "제 16회 스마일 런 페스티벌",
+      "name": "제16회 스마일 런 페스티벌",
       "date": "2026-09-13",
       "events": "하프,10km,5km,걷기",
       "location": "상암동 평화의공원 평화광장",
@@ -1663,6 +1682,25 @@
       "poster": "posters/roadrun-41571.jpg"
     },
     {
+      "id": "roadrun-41690",
+      "name": "제12회 시흥시 전국하프마라톤",
+      "date": "2026-10-05",
+      "events": "하프,10km,5km",
+      "location": "한국공학대학교 제2캠퍼스",
+      "organizer": "경기일보, 시흥시체육회",
+      "phone": "031-575-7243",
+      "homepage": "http://shmarathon.kr",
+      "detail_no": "41690",
+      "source": "http://www.roadrun.co.kr/schedule/list.php (발견용)",
+      "source_detail": "http://www.roadrun.co.kr/schedule/view.php?no=41690",
+      "region": "경기",
+      "reg_period": "2026년7월22일~2026년7월22일",
+      "start_time": "09:00",
+      "description": "안녕하세요. 시흥시전국하프마라톤대회에 오신 것을 환영합니다.",
+      "reg_start": "2026-07-22",
+      "reg_end": "2026-07-22"
+    },
+    {
       "id": "roadrun-41677",
       "name": "런센스 2026",
       "date": "2026-10-05",
@@ -1759,6 +1797,25 @@
       "start_time": "08:00",
       "description": "-이봉주 보스턴마라톤 제패기념 마라톤대회입니다\n-부상에서 완쾌되는 이봉주 선수와 함께하는 마라톤행사입니다\n-전국 제일의 먹거리를 준비합니다",
       "poster": "posters/roadrun-41352.jpg"
+    },
+    {
+      "id": "roadrun-41689",
+      "name": "제4회 강서허준런(RUN)",
+      "date": "2026-10-10",
+      "events": "10km,5km,3km 패밀리런",
+      "location": "서울식물원 초지원",
+      "organizer": "강서구",
+      "phone": "02-2600-6795",
+      "homepage": "http://강서허준런.com",
+      "detail_no": "41689",
+      "source": "http://www.roadrun.co.kr/schedule/list.php (발견용)",
+      "source_detail": "http://www.roadrun.co.kr/schedule/view.php?no=41689",
+      "region": "서울",
+      "reg_period": "2026년7월9일~2026년7월17일",
+      "start_time": "오전",
+      "description": "\"아름다운 강서의 자연을 만끽하는 달리기 축제\"\n강서허준런(RUN)\n\"강서허준런(RUN)\"은 강서구에서 태어나고 돌아가신 우리나라를 대표하는 의학자\n의성 허준 선생님의 업적을 기리는 강서구의 대표 축제 \"허준축제\"의 힘찬 시작을 알리는 행사로\n남녀노소 누구나 즐길 수 있는 \"런 페스티벌\"입니다.\n녹색도시 강서, 정원도시 서울의 대표 랜드마크인 서울식물원을 달리는 유일한 달리기 축제\n허준런(RUN)에서 우리 함께 달려요~",
+      "reg_start": "2026-07-09",
+      "reg_end": "2026-07-17"
     },
     {
       "id": "roadrun-41665",
@@ -1894,6 +1951,25 @@
       "reg_end": "2026-08-28",
       "start_time": "09:00",
       "description": "2026 문경 오미자 하프마라톤대회 많은 참여 부탁 드립니다."
+    },
+    {
+      "id": "roadrun-41687",
+      "name": "2026 핑크런",
+      "date": "2026-10-11",
+      "events": "10km,5km",
+      "location": "상암월드컵공원 평화광장",
+      "organizer": "한국유방건강재단",
+      "phone": "070-4633-1233",
+      "homepage": "http://www.pinkrun.kr",
+      "detail_no": "41687",
+      "source": "http://www.roadrun.co.kr/schedule/list.php (발견용)",
+      "source_detail": "http://www.roadrun.co.kr/schedule/view.php?no=41687",
+      "region": "서울",
+      "reg_period": "2026년7월27일~2026년8월7일",
+      "start_time": "08시",
+      "description": "여성들의 소중한 유방건강을 위한 핑크리본 캠페인의 일환으로 진행 되는 캠페인 러닝행사.\n참가비 전액이 저소득층 유방암 환우 수술 치료비지원을 위해 기부되는 여성건강 대표 러닝행사.\n2001년부터 시작하여 올해 26회째를 맞이하는 국내 최대 핑크리본 캠페인",
+      "reg_start": "2026-07-27",
+      "reg_end": "2026-08-07"
     },
     {
       "id": "roadrun-41546",
@@ -2207,6 +2283,25 @@
       "description": "높고 푸른 하늘 아래 가을빛으로 물든 하남에서, 소중한 사람과 함께 달리는 뜻깊은 자리를 마련했습니다. 오늘의 출발선에는 저마다 다른 목표가 있겠지만, 서로의 보폭을 살피고 응원하며 나누는 시간만큼은 우리 모두에게 특별한 기억이 될 것입니다."
     },
     {
+      "id": "roadrun-41688",
+      "name": "2026 경기옛길 함께RUN",
+      "date": "2026-10-24",
+      "events": "10km,5km",
+      "location": "도농체육공원",
+      "organizer": "경기도",
+      "phone": "00-1600-3962",
+      "homepage": "http://ggcrun.kr/",
+      "detail_no": "41688",
+      "source": "http://www.roadrun.co.kr/schedule/list.php (발견용)",
+      "source_detail": "http://www.roadrun.co.kr/schedule/view.php?no=41688",
+      "region": "경기",
+      "reg_period": "2026년7월9일~2026년8월8일",
+      "start_time": "9시",
+      "description": "참가자 기념품 준비중",
+      "reg_start": "2026-07-09",
+      "reg_end": "2026-08-08"
+    },
+    {
       "id": "roadrun-41669",
       "name": "2026 익산 기부런",
       "date": "2026-10-24",
@@ -2340,6 +2435,25 @@
       "reg_end": "2026-08-30",
       "start_time": "10시",
       "description": "많은 관심과 참여 부탁드립니다."
+    },
+    {
+      "id": "roadrun-41691",
+      "name": "2026 DMZ OPEN 평화마라톤",
+      "date": "2026-11-01",
+      "events": "하프,10km",
+      "location": "파주 임진각 평화누리 일원",
+      "organizer": "경기도",
+      "phone": "031-575-7243",
+      "homepage": "http://dmzopenrun.kr",
+      "detail_no": "41691",
+      "source": "http://www.roadrun.co.kr/schedule/list.php (발견용)",
+      "source_detail": "http://www.roadrun.co.kr/schedule/view.php?no=41691",
+      "region": "경기",
+      "reg_period": "2026년8월1일~2026년8월1일",
+      "start_time": "09:00",
+      "description": "안녕하세요?",
+      "reg_start": "2026-08-01",
+      "reg_end": "2026-08-01"
     },
     {
       "id": "roadrun-41638",
@@ -2714,6 +2828,25 @@
       "description": "종목별 접수 인원\n4.4km 2,000명 / 10km 3,000명 /\nHalf 2,500명 / Full 2,500명\n총 10,000명 신청 및 입금자순 선착순 1차 접수 마감 완료"
     },
     {
+      "id": "roadrun-41686",
+      "name": "2026 9회 서울평화마라톤",
+      "date": "2026-11-15",
+      "events": "10km,5km",
+      "location": "신정교하부육상트랙구장",
+      "organizer": "서울자주통일평화연대",
+      "phone": "010-3408-8150",
+      "homepage": "http://seoultongilrun.org",
+      "detail_no": "41686",
+      "source": "http://www.roadrun.co.kr/schedule/list.php (발견용)",
+      "source_detail": "http://www.roadrun.co.kr/schedule/view.php?no=41686",
+      "region": "서울",
+      "reg_period": "2026년7월8일~2026년10월16일",
+      "start_time": "9시",
+      "description": "9회째 개최되는 서울평화마라톤입니다.\n가족, 연인, 친구와 함께 편한 마음으로 함께 해 주세요",
+      "reg_start": "2026-07-08",
+      "reg_end": "2026-10-16"
+    },
+    {
       "id": "roadrun-41644",
       "name": "제24회 고창고인돌마라톤",
       "date": "2026-11-15",
@@ -2833,7 +2966,7 @@
       "name": "2026 전국마라톤협회 금산 골드런 마라톤",
       "date": "2026-12-05",
       "events": "5km,12km",
-      "location": "금산",
+      "location": "금산 엑스포 주차장",
       "organizer": "전국마라톤협회",
       "phone": "042-638-1080",
       "homepage": "http://mara1080.com/event/df4b4e7d-4fbc-4843-858c-f15c032e92cb",
