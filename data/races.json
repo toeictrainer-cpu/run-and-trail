@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-07-10T22:00:23",
+  "collected_at": "2026-07-11T21:47:47",
   "source": "http://www.roadrun.co.kr/schedule/list.php",
   "count": 153,
   "races": [
@@ -310,10 +310,10 @@
       "source_detail": "http://www.roadrun.co.kr/schedule/view.php?no=41692",
       "region": "전남",
       "reg_period": "2026년7월9일~2026년7월17일",
-      "start_time": "07:30",
-      "description": "총 상금 : 200만원\n이번 대회는 순천의 심장이자 세계가 주목하는 순천만국가정원에서 개최됩니다. 푸른 잔디와 정교한 정원 언덕을 배경으로 달리는 이번 코스는,\n발걸음마다 자연의 생동감을 온전히 느낄 수 있는 특별한 순간을 선사합니다.\n대한민국에서 가장 아름다운 정원에서 당신의 최고 기록을 갱신해 보세요.",
       "reg_start": "2026-07-09",
-      "reg_end": "2026-07-17"
+      "reg_end": "2026-07-17",
+      "start_time": "07:30",
+      "description": "총 상금 : 200만원\n이번 대회는 순천의 심장이자 세계가 주목하는 순천만국가정원에서 개최됩니다. 푸른 잔디와 정교한 정원 언덕을 배경으로 달리는 이번 코스는,\n발걸음마다 자연의 생동감을 온전히 느낄 수 있는 특별한 순간을 선사합니다.\n대한민국에서 가장 아름다운 정원에서 당신의 최고 기록을 갱신해 보세요."
     },
     {
       "id": "roadrun-41625",
@@ -323,7 +323,7 @@
       "location": "올림픽 공원 인근",
       "organizer": "사우나런",
       "phone": "070-4571-8805",
-      "homepage": "http://saunarun.com/category/?idx=119",
+      "homepage": "http://saunarun.com",
       "detail_no": "41625",
       "source": "http://www.roadrun.co.kr/schedule/list.php (발견용)",
       "source_detail": "http://www.roadrun.co.kr/schedule/view.php?no=41625",
@@ -1695,10 +1695,10 @@
       "source_detail": "http://www.roadrun.co.kr/schedule/view.php?no=41690",
       "region": "경기",
       "reg_period": "2026년7월22일~2026년7월22일",
-      "start_time": "09:00",
-      "description": "안녕하세요. 시흥시전국하프마라톤대회에 오신 것을 환영합니다.",
       "reg_start": "2026-07-22",
-      "reg_end": "2026-07-22"
+      "reg_end": "2026-07-22",
+      "start_time": "09:00",
+      "description": "안녕하세요. 시흥시전국하프마라톤대회에 오신 것을 환영합니다."
     },
     {
       "id": "roadrun-41677",
@@ -1812,10 +1812,10 @@
       "source_detail": "http://www.roadrun.co.kr/schedule/view.php?no=41689",
       "region": "서울",
       "reg_period": "2026년7월9일~2026년7월17일",
-      "start_time": "오전",
-      "description": "\"아름다운 강서의 자연을 만끽하는 달리기 축제\"\n강서허준런(RUN)\n\"강서허준런(RUN)\"은 강서구에서 태어나고 돌아가신 우리나라를 대표하는 의학자\n의성 허준 선생님의 업적을 기리는 강서구의 대표 축제 \"허준축제\"의 힘찬 시작을 알리는 행사로\n남녀노소 누구나 즐길 수 있는 \"런 페스티벌\"입니다.\n녹색도시 강서, 정원도시 서울의 대표 랜드마크인 서울식물원을 달리는 유일한 달리기 축제\n허준런(RUN)에서 우리 함께 달려요~",
       "reg_start": "2026-07-09",
-      "reg_end": "2026-07-17"
+      "reg_end": "2026-07-17",
+      "start_time": "오전",
+      "description": "\"아름다운 강서의 자연을 만끽하는 달리기 축제\"\n강서허준런(RUN)\n\"강서허준런(RUN)\"은 강서구에서 태어나고 돌아가신 우리나라를 대표하는 의학자\n의성 허준 선생님의 업적을 기리는 강서구의 대표 축제 \"허준축제\"의 힘찬 시작을 알리는 행사로\n남녀노소 누구나 즐길 수 있는 \"런 페스티벌\"입니다.\n녹색도시 강서, 정원도시 서울의 대표 랜드마크인 서울식물원을 달리는 유일한 달리기 축제\n허준런(RUN)에서 우리 함께 달려요~"
     },
     {
       "id": "roadrun-41665",
@@ -1966,10 +1966,10 @@
       "source_detail": "http://www.roadrun.co.kr/schedule/view.php?no=41687",
       "region": "서울",
       "reg_period": "2026년7월27일~2026년8월7일",
-      "start_time": "08시",
-      "description": "여성들의 소중한 유방건강을 위한 핑크리본 캠페인의 일환으로 진행 되는 캠페인 러닝행사.\n참가비 전액이 저소득층 유방암 환우 수술 치료비지원을 위해 기부되는 여성건강 대표 러닝행사.\n2001년부터 시작하여 올해 26회째를 맞이하는 국내 최대 핑크리본 캠페인",
       "reg_start": "2026-07-27",
-      "reg_end": "2026-08-07"
+      "reg_end": "2026-08-07",
+      "start_time": "08시",
+      "description": "여성들의 소중한 유방건강을 위한 핑크리본 캠페인의 일환으로 진행 되는 캠페인 러닝행사.\n참가비 전액이 저소득층 유방암 환우 수술 치료비지원을 위해 기부되는 여성건강 대표 러닝행사.\n2001년부터 시작하여 올해 26회째를 맞이하는 국내 최대 핑크리본 캠페인"
     },
     {
       "id": "roadrun-41546",
@@ -2296,10 +2296,10 @@
       "source_detail": "http://www.roadrun.co.kr/schedule/view.php?no=41688",
       "region": "경기",
       "reg_period": "2026년7월9일~2026년8월8일",
-      "start_time": "9시",
-      "description": "참가자 기념품 준비중",
       "reg_start": "2026-07-09",
-      "reg_end": "2026-08-08"
+      "reg_end": "2026-08-08",
+      "start_time": "9시",
+      "description": "참가자 기념품 준비중"
     },
     {
       "id": "roadrun-41669",
@@ -2450,10 +2450,10 @@
       "source_detail": "http://www.roadrun.co.kr/schedule/view.php?no=41691",
       "region": "경기",
       "reg_period": "2026년8월1일~2026년8월1일",
-      "start_time": "09:00",
-      "description": "안녕하세요?",
       "reg_start": "2026-08-01",
-      "reg_end": "2026-08-01"
+      "reg_end": "2026-08-01",
+      "start_time": "09:00",
+      "description": "안녕하세요?"
     },
     {
       "id": "roadrun-41638",
@@ -2841,10 +2841,10 @@
       "source_detail": "http://www.roadrun.co.kr/schedule/view.php?no=41686",
       "region": "서울",
       "reg_period": "2026년7월8일~2026년10월16일",
-      "start_time": "9시",
-      "description": "9회째 개최되는 서울평화마라톤입니다.\n가족, 연인, 친구와 함께 편한 마음으로 함께 해 주세요",
       "reg_start": "2026-07-08",
-      "reg_end": "2026-10-16"
+      "reg_end": "2026-10-16",
+      "start_time": "9시",
+      "description": "9회째 개최되는 서울평화마라톤입니다.\n가족, 연인, 친구와 함께 편한 마음으로 함께 해 주세요"
     },
     {
       "id": "roadrun-41644",
