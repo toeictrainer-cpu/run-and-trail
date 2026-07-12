@@ -67,6 +67,25 @@
 <script>
 const esc = s => String(s ?? "").replace(/[&<>"']/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
 
+// ── 앨범 클릭 수 (무료 카운터 API, 키는 영문만 허용이라 id를 해시로 변환) ──
+const COUNT_API = "https://abacus.jasoncameron.dev";
+const COUNT_NS = "runandtrail-kr";
+function ckey(id) {
+  let h = 0; for (const c of id) h = (h * 31 + c.charCodeAt(0)) | 0;
+  return "album-" + id.replace(/[^A-Za-z0-9_.-]/g, "").slice(0, 40) + "-" + Math.abs(h) % 100000;
+}
+function loadCounts(items) {
+  items.forEach(it => {
+    fetch(`${COUNT_API}/get/${COUNT_NS}/${ckey(it.id)}`)
+      .then(r => r.json())
+      .then(d => {
+        const el = document.getElementById("cnt-" + ckey(it.id));
+        if (el && d.value > 0) el.textContent = `👁 ${d.value.toLocaleString()}회 열람`;
+      })
+      .catch(() => {});
+  });
+}
+
 function render(items) {
   document.getElementById("subtitle").textContent = `대회 사진첩 ${items.length}개`;
   const box = document.getElementById("albums");
@@ -74,7 +93,7 @@ function render(items) {
   box.innerHTML = items.map(it => {
     const hasLink = !!it.link;
     const tag = hasLink ? `a href="${esc(it.link)}" target="_blank" rel="noopener"` : "div";
-    return `<${tag} class="album ${hasLink ? "" : "no-link"}">
+    return `<${tag} class="album ${hasLink ? "" : "no-link"}" data-ckey="${ckey(it.id)}">
       <div class="cover">
         <img src="${esc(it.thumb)}" alt="${esc(it.race || it.id)}" loading="lazy">
         ${it.count ? `<span class="cnt">📷 ${esc(it.count)}</span>` : ""}
@@ -83,11 +102,21 @@ function render(items) {
         <div class="race">${esc(it.race || it.title || it.id)}</div>
         <div class="meta">${esc(it.date || "")}${it.title && it.race ? " · " + esc(it.title) : ""}</div>
         ${it.pw ? `<div class="meta">🔒 열람 비밀번호: <b>${esc(it.pw)}</b></div>` : ""}
+        <div class="meta" id="cnt-${ckey(it.id)}"></div>
         <div class="go">${hasLink ? "네이버 MYBOX에서 전체보기 →" : "사진첩 준비중"}</div>
       </div>
     </${hasLink ? "a" : "div"}>`;
   }).join("");
+  loadCounts(items);
 }
+
+// 앨범 클릭 시 +1 (새 탭으로 열리므로 keepalive로 전송 보장)
+document.getElementById("albums").addEventListener("click", e => {
+  const a = e.target.closest("a.album");
+  if (a && a.dataset.ckey) {
+    fetch(`${COUNT_API}/hit/${COUNT_NS}/${a.dataset.ckey}`, { keepalive: true }).catch(() => {});
+  }
+});
 
 fetch("data/photos.json")
   .then(r => r.json())
