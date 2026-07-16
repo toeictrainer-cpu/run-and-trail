@@ -1,7 +1,7 @@
 {
-  "collected_at": "2026-07-15T21:58:49",
+  "collected_at": "2026-07-16T22:02:46",
   "source": "http://www.roadrun.co.kr/schedule/list.php",
-  "count": 167,
+  "count": 171,
   "races": [
     {
       "id": "roadrun-41611",
@@ -660,10 +660,10 @@
       "source_detail": "http://www.roadrun.co.kr/schedule/view.php?no=41705",
       "region": "서울",
       "reg_period": "2026년7월15일~2026년8월10일",
-      "start_time": "08:00",
-      "description": "아름다운 성북에서 제16회 성북구청장배육상(마라톤) 대회를 개최합니다. 풍족한 먹거리를 준비했습니다.\n기념-기능성 츄리닝 바지, 기록칩, 온라인 기록증 제공",
       "reg_start": "2026-07-15",
-      "reg_end": "2026-08-10"
+      "reg_end": "2026-08-10",
+      "start_time": "08:00",
+      "description": "아름다운 성북에서 제16회 성북구청장배육상(마라톤) 대회를 개최합니다. 풍족한 먹거리를 준비했습니다.\n기념-기능성 츄리닝 바지, 기록칩, 온라인 기록증 제공"
     },
     {
       "id": "roadrun-41590",
@@ -737,10 +737,10 @@
       "source_detail": "http://www.roadrun.co.kr/schedule/view.php?no=41707",
       "region": "경북",
       "reg_period": "2026년7월14일~2026년8월18일",
-      "start_time": "16:30",
-      "description": "슈바이처박사와 동역하시고 울릉도에서 18년간 의사로 목사로 농촌운동가로 봉사, 헌신하신 이일선박사님을 기리며 진행하는 특별한 마라톤대회",
       "reg_start": "2026-07-14",
-      "reg_end": "2026-08-18"
+      "reg_end": "2026-08-18",
+      "start_time": "16:30",
+      "description": "슈바이처박사와 동역하시고 울릉도에서 18년간 의사로 목사로 농촌운동가로 봉사, 헌신하신 이일선박사님을 기리며 진행하는 특별한 마라톤대회"
     },
     {
       "id": "roadrun-41639",
@@ -1029,9 +1029,28 @@
       "source_detail": "http://www.roadrun.co.kr/schedule/view.php?no=41708",
       "region": "서울",
       "reg_period": "2026년7월20일~2026년8월31일",
-      "start_time": "08시",
-      "description": "에너지 취약계층을 위한 ‘2026 에너지 히어로 레이스’ 함께 달리며\n지구를 지키는 영웅이 되어주세요.\n대회 참가비는 에너지 취약계층의 에너지 효율 개선사업(고효율 LED 기기 및 가전제품 지원)에 사용됩니다.",
       "reg_start": "2026-07-20",
+      "reg_end": "2026-08-31",
+      "start_time": "08시",
+      "description": "에너지 취약계층을 위한 ‘2026 에너지 히어로 레이스’ 함께 달리며\n지구를 지키는 영웅이 되어주세요.\n대회 참가비는 에너지 취약계층의 에너지 효율 개선사업(고효율 LED 기기 및 가전제품 지원)에 사용됩니다."
+    },
+    {
+      "id": "roadrun-41709",
+      "name": "2026 장수 레드푸드레이스",
+      "date": "2026-09-12",
+      "events": "10km,5km,16Km",
+      "location": "장수말역사체험관",
+      "organizer": "주식회사 락앤런",
+      "phone": "010-5056-1523",
+      "homepage": "http://rocknrun.kr/REDFOODRACE",
+      "detail_no": "41709",
+      "source": "http://www.roadrun.co.kr/schedule/list.php (발견용)",
+      "source_detail": "http://www.roadrun.co.kr/schedule/view.php?no=41709",
+      "region": "전북",
+      "reg_period": "2026년7월16일~2026년8월31일",
+      "start_time": "8:00",
+      "description": "달리고, 먹고, 즐기는 장수의 가을 하루\n레드푸드레이스는 장수군 대표 가을축제인\n‘장수 한우랑 사과랑 축제’ 기간에 열리는 특별한 숲길 마라톤입니다.\n잔디가 깔린 승마로드를 달리며 장수의 자연을 온몸으로 느끼고,\n레이스 후에는 차로 5분 거리의 축제장에서 전국 최대 규모의 한우마당과 장수 특산물, 다양한 체험 프로그램을 즐겨보세요.\n같은 날 저녁에는 한우랑사과랑 음악 콘서트에서\n민경훈과 먼데이키즈의 공연도 만나볼 수 있습니다.",
+      "reg_start": "2026-07-16",
       "reg_end": "2026-08-31"
     },
     {
@@ -1126,10 +1145,10 @@
       "source_detail": "http://www.roadrun.co.kr/schedule/view.php?no=41702",
       "region": "대전",
       "reg_period": "2026년7월15일~2026년8월31일",
-      "start_time": "오전",
-      "description": "5km / 10km /  10km(매니아)\n선착순 3,000명 신청 및 입금 달성 시 접수 마감\n참가 기념품 월드런 러닝 쇼츠 증정! (블랙/민트)\n많은 관심과 참여바랍니다!",
       "reg_start": "2026-07-15",
-      "reg_end": "2026-08-31"
+      "reg_end": "2026-08-31",
+      "start_time": "오전",
+      "description": "5km / 10km /  10km(매니아)\n선착순 3,000명 신청 및 입금 달성 시 접수 마감\n참가 기념품 월드런 러닝 쇼츠 증정! (블랙/민트)\n많은 관심과 참여바랍니다!"
     },
     {
       "id": "roadrun-41697",
@@ -1303,10 +1322,10 @@
       "source_detail": "http://www.roadrun.co.kr/schedule/view.php?no=41704",
       "region": "경기",
       "reg_period": "2026년7월16일~2026년8월31일",
-      "start_time": "08시",
-      "description": "‘시포레’는 2017년 도심 속 건강한 활기를 불어넣기 위해 시작된 운동 페스티벌로,\n매년 활동적으로 웰니스 라이프를 즐기는 2039 남녀와 함께합니다.\n올해는 일산호수공원 일대를 달릴 수 있는 러닝 10K와 함께\n액티비티한 운동프로그램으로 에너지 가득 채울 수 있는 건강한 도파민을 경험해 보세요!\n일산호수공원 일대를 뛰는 10K 러닝을 시작으로\n심으뜸 (전신운동) 올블랑 TV (타바타), 흥둥이 (다이어트 댄스), 요가쿨라 3인 (요가) 등\n최강의 선생님들과 함께 다양한 오후 운동 프로그램 및 부스 이벤트, 먹거리를 통해\n건강한",
       "reg_start": "2026-07-16",
-      "reg_end": "2026-08-31"
+      "reg_end": "2026-08-31",
+      "start_time": "08시",
+      "description": "‘시포레’는 2017년 도심 속 건강한 활기를 불어넣기 위해 시작된 운동 페스티벌로,\n매년 활동적으로 웰니스 라이프를 즐기는 2039 남녀와 함께합니다.\n올해는 일산호수공원 일대를 달릴 수 있는 러닝 10K와 함께\n액티비티한 운동프로그램으로 에너지 가득 채울 수 있는 건강한 도파민을 경험해 보세요!\n일산호수공원 일대를 뛰는 10K 러닝을 시작으로\n심으뜸 (전신운동) 올블랑 TV (타바타), 흥둥이 (다이어트 댄스), 요가쿨라 3인 (요가) 등\n최강의 선생님들과 함께 다양한 오후 운동 프로그램 및 부스 이벤트, 먹거리를 통해\n건강한"
     },
     {
       "id": "roadrun-41694",
@@ -1621,7 +1640,7 @@
     },
     {
       "id": "roadrun-41700",
-      "name": "2026 JUST RUN10 청주",
+      "name": "2026 하반기 JUST RUN10 청주",
       "date": "2026-10-03",
       "events": "10km,5km",
       "location": "무심천체육공원",
@@ -1753,6 +1772,44 @@
       "reg_end": "2026-09-03",
       "start_time": "오전",
       "description": "선착순 7000명 마감됩니다.\n조기 마감될 수 있으므로 신청 및 입금을 서둘러주세요!\n감사합니다."
+    },
+    {
+      "id": "roadrun-41714",
+      "name": "제14회 광명시장배건강달리기",
+      "date": "2026-10-04",
+      "events": "10km,5km",
+      "location": "광명 찬빛광장(안양천)",
+      "organizer": "광명시육상연맹",
+      "phone": "010-2234-2248",
+      "homepage": "http://gmaf.kr",
+      "detail_no": "41714",
+      "source": "http://www.roadrun.co.kr/schedule/list.php (발견용)",
+      "source_detail": "http://www.roadrun.co.kr/schedule/view.php?no=41714",
+      "region": "경기",
+      "reg_period": "2026년7월20일~2026년7월31일",
+      "start_time": "09:00",
+      "description": "일시:2026년10월4일(일요일) 집결8시20분\n장소:광명찬빛광장\n종목:10km,5km\n참가비:30,000원\n먹거리:수육,두부,김치,막걸리\n기념품:원목도마\n접수방법:홈페이지 참가접수\nhttps://gmaf.kr/",
+      "reg_start": "2026-07-20",
+      "reg_end": "2026-07-31"
+    },
+    {
+      "id": "roadrun-41711",
+      "name": "2026 S오일 감동의 마라톤",
+      "date": "2026-10-04",
+      "events": "하프,10km,5km",
+      "location": "상암동 평화의 광장",
+      "organizer": "더윙, S오일",
+      "phone": "010-2499-6616",
+      "homepage": "http://xn--439ar1m25cg1c810a7ro.com",
+      "detail_no": "41711",
+      "source": "http://www.roadrun.co.kr/schedule/list.php (발견용)",
+      "source_detail": "http://www.roadrun.co.kr/schedule/view.php?no=41711",
+      "region": "서울",
+      "reg_period": "2026년8월1일~2026년8월31일",
+      "start_time": "07:00",
+      "description": "S오일 마라톤",
+      "reg_start": "2026-08-01",
+      "reg_end": "2026-08-31"
     },
     {
       "id": "roadrun-41660",
@@ -2002,10 +2059,10 @@
       "source_detail": "http://www.roadrun.co.kr/schedule/view.php?no=41701",
       "region": "충북",
       "reg_period": "2026년7월15일~2026년9월10일",
-      "start_time": "오전",
-      "description": "선착순 1,500명 접수 및 입금순 마갑됩니다.\n조기 마감 될 수 있으므로 신청을 서둘러주세요.",
       "reg_start": "2026-07-15",
-      "reg_end": "2026-09-10"
+      "reg_end": "2026-09-10",
+      "start_time": "오전",
+      "description": "선착순 1,500명 접수 및 입금순 마갑됩니다.\n조기 마감 될 수 있으므로 신청을 서둘러주세요."
     },
     {
       "id": "roadrun-41689",
@@ -2311,10 +2368,10 @@
       "source_detail": "http://www.roadrun.co.kr/schedule/view.php?no=41706",
       "region": "세종",
       "reg_period": "2026년7월22일~2026년9월14일",
-      "start_time": "11:00",
-      "description": "행동으로 숭고한 희생을 기억하는 방법.\n2026 U+ 119 메모리얼런",
       "reg_start": "2026-07-22",
-      "reg_end": "2026-09-14"
+      "reg_end": "2026-09-14",
+      "start_time": "11:00",
+      "description": "행동으로 숭고한 희생을 기억하는 방법.\n2026 U+ 119 메모리얼런"
     },
     {
       "id": "roadrun-41587",
@@ -2375,6 +2432,25 @@
       "start_time": "07:00",
       "description": "대전 보문산과 대전둘레산길\n성심당과 늑구의 길을 품은 2026 D트레일레이스\n도심과 자연이 어울어진 중부권 최대 트레일러닝대회에 초대합니다.",
       "poster": "posters/roadrun-41646.jpg"
+    },
+    {
+      "id": "roadrun-41712",
+      "name": "제19회 중랑구청장배 장미 마라톤",
+      "date": "2026-10-18",
+      "events": "하프,10km,5km",
+      "location": "중화체육공원",
+      "organizer": "중랑구육상연맹",
+      "phone": "02-3285-5556",
+      "homepage": "http://www.jnrun.co.kr",
+      "detail_no": "41712",
+      "source": "http://www.roadrun.co.kr/schedule/list.php (발견용)",
+      "source_detail": "http://www.roadrun.co.kr/schedule/view.php?no=41712",
+      "region": "서울",
+      "reg_period": "2026년7월15일~2026년10월11일",
+      "start_time": "09:00",
+      "description": "제19회 중랑구청장배 장미 마라톤 중랑구 마라톤 대회는 생활체육의 활성화와 지역 주민의 건강 증진 및 스포츠 문화 발전을 통하여 지역 이미지 향상과 구민 화합의 한마당을 목적으로 개최하게 되었습니다.",
+      "reg_start": "2026-07-15",
+      "reg_end": "2026-10-11"
     },
     {
       "id": "roadrun-41603",
@@ -2644,25 +2720,6 @@
       "reg_end": "2026-08-30",
       "start_time": "10시",
       "description": "많은 관심과 참여 부탁드립니다."
-    },
-    {
-      "id": "roadrun-41691",
-      "name": "2026 DMZ OPEN 평화마라톤",
-      "date": "2026-11-01",
-      "events": "하프,10km",
-      "location": "파주 임진각 평화누리 일원",
-      "organizer": "경기도",
-      "phone": "031-575-7243",
-      "homepage": "http://dmzopenrun.kr",
-      "detail_no": "41691",
-      "source": "http://www.roadrun.co.kr/schedule/list.php (발견용)",
-      "source_detail": "http://www.roadrun.co.kr/schedule/view.php?no=41691",
-      "region": "경기",
-      "reg_period": "2026년8월1일~2026년8월1일",
-      "reg_start": "2026-08-01",
-      "reg_end": "2026-08-01",
-      "start_time": "09:00",
-      "description": "안녕하세요?"
     },
     {
       "id": "roadrun-41638",
@@ -3245,6 +3302,25 @@
       "reg_end": "2026-09-01",
       "start_time": "9시",
       "description": "2026 전국마라톤협회 금산 골드런 마라톤대회"
+    },
+    {
+      "id": "roadrun-41710",
+      "name": "2026 부산브릿지 마라톤",
+      "date": "2026-12-06",
+      "events": "풀,10km",
+      "location": "부산 벡스코 제1전시장",
+      "organizer": "KNN,부산시",
+      "phone": "070-4111-5620",
+      "homepage": "http://www.busanmarathon.com",
+      "detail_no": "41710",
+      "source": "http://www.roadrun.co.kr/schedule/list.php (발견용)",
+      "source_detail": "http://www.roadrun.co.kr/schedule/view.php?no=41710",
+      "region": "부산",
+      "reg_period": "2026년8월1일~2026년8월16일",
+      "start_time": "08:00",
+      "description": "광안대교를 가로지르는 풀코스 마라톤",
+      "reg_start": "2026-08-01",
+      "reg_end": "2026-08-16"
     }
   ]
 }
