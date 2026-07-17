@@ -1,7 +1,7 @@
 {
-  "collected_at": "2026-07-16T22:02:46",
+  "collected_at": "2026-07-17T21:52:09",
   "source": "http://www.roadrun.co.kr/schedule/list.php",
-  "count": 171,
+  "count": 172,
   "races": [
     {
       "id": "roadrun-41611",
@@ -1016,6 +1016,25 @@
       "poster": "posters/roadrun-41032.jpg"
     },
     {
+      "id": "roadrun-41715",
+      "name": "2026 여수 백리섬섬트레일런",
+      "date": "2026-09-12",
+      "events": "40K, 27K, 16K",
+      "location": "청심 국제해양청소년수련원",
+      "organizer": "스피드에이전시",
+      "phone": "010-6449-5073",
+      "homepage": "http://speedtrailrun.kr/",
+      "detail_no": "41715",
+      "source": "http://www.roadrun.co.kr/schedule/list.php (발견용)",
+      "source_detail": "http://www.roadrun.co.kr/schedule/view.php?no=41715",
+      "region": "전남",
+      "reg_period": "2026년7월17일~2026년7월17일",
+      "start_time": "09:00",
+      "description": "2026년 여수세계섬박람회의 성공적인 개최와 발 맞추어\n세계 최초·해안 절벽 테마를 향해 힘차게 출발하는 글로벌 스포츠 투어리즘 레이스입니다.",
+      "reg_start": "2026-07-17",
+      "reg_end": "2026-07-17"
+    },
+    {
       "id": "roadrun-41708",
       "name": "2026 에너지 히어로 레이스",
       "date": "2026-09-12",
@@ -1048,10 +1067,10 @@
       "source_detail": "http://www.roadrun.co.kr/schedule/view.php?no=41709",
       "region": "전북",
       "reg_period": "2026년7월16일~2026년8월31일",
-      "start_time": "8:00",
-      "description": "달리고, 먹고, 즐기는 장수의 가을 하루\n레드푸드레이스는 장수군 대표 가을축제인\n‘장수 한우랑 사과랑 축제’ 기간에 열리는 특별한 숲길 마라톤입니다.\n잔디가 깔린 승마로드를 달리며 장수의 자연을 온몸으로 느끼고,\n레이스 후에는 차로 5분 거리의 축제장에서 전국 최대 규모의 한우마당과 장수 특산물, 다양한 체험 프로그램을 즐겨보세요.\n같은 날 저녁에는 한우랑사과랑 음악 콘서트에서\n민경훈과 먼데이키즈의 공연도 만나볼 수 있습니다.",
       "reg_start": "2026-07-16",
-      "reg_end": "2026-08-31"
+      "reg_end": "2026-08-31",
+      "start_time": "8:00",
+      "description": "달리고, 먹고, 즐기는 장수의 가을 하루\n레드푸드레이스는 장수군 대표 가을축제인\n‘장수 한우랑 사과랑 축제’ 기간에 열리는 특별한 숲길 마라톤입니다.\n잔디가 깔린 승마로드를 달리며 장수의 자연을 온몸으로 느끼고,\n레이스 후에는 차로 5분 거리의 축제장에서 전국 최대 규모의 한우마당과 장수 특산물, 다양한 체험 프로그램을 즐겨보세요.\n같은 날 저녁에는 한우랑사과랑 음악 콘서트에서\n민경훈과 먼데이키즈의 공연도 만나볼 수 있습니다."
     },
     {
       "id": "roadrun-41549",
@@ -1787,10 +1806,10 @@
       "source_detail": "http://www.roadrun.co.kr/schedule/view.php?no=41714",
       "region": "경기",
       "reg_period": "2026년7월20일~2026년7월31일",
-      "start_time": "09:00",
-      "description": "일시:2026년10월4일(일요일) 집결8시20분\n장소:광명찬빛광장\n종목:10km,5km\n참가비:30,000원\n먹거리:수육,두부,김치,막걸리\n기념품:원목도마\n접수방법:홈페이지 참가접수\nhttps://gmaf.kr/",
       "reg_start": "2026-07-20",
-      "reg_end": "2026-07-31"
+      "reg_end": "2026-07-31",
+      "start_time": "09:00",
+      "description": "일시:2026년10월4일(일요일) 집결8시20분\n장소:광명찬빛광장\n종목:10km,5km\n참가비:30,000원\n먹거리:수육,두부,김치,막걸리\n기념품:원목도마\n접수방법:홈페이지 참가접수\nhttps://gmaf.kr/"
     },
     {
       "id": "roadrun-41711",
@@ -1806,10 +1825,10 @@
       "source_detail": "http://www.roadrun.co.kr/schedule/view.php?no=41711",
       "region": "서울",
       "reg_period": "2026년8월1일~2026년8월31일",
-      "start_time": "07:00",
-      "description": "S오일 마라톤",
       "reg_start": "2026-08-01",
-      "reg_end": "2026-08-31"
+      "reg_end": "2026-08-31",
+      "start_time": "07:00",
+      "description": "S오일 마라톤"
     },
     {
       "id": "roadrun-41660",
@@ -2447,10 +2466,10 @@
       "source_detail": "http://www.roadrun.co.kr/schedule/view.php?no=41712",
       "region": "서울",
       "reg_period": "2026년7월15일~2026년10월11일",
-      "start_time": "09:00",
-      "description": "제19회 중랑구청장배 장미 마라톤 중랑구 마라톤 대회는 생활체육의 활성화와 지역 주민의 건강 증진 및 스포츠 문화 발전을 통하여 지역 이미지 향상과 구민 화합의 한마당을 목적으로 개최하게 되었습니다.",
       "reg_start": "2026-07-15",
-      "reg_end": "2026-10-11"
+      "reg_end": "2026-10-11",
+      "start_time": "09:00",
+      "description": "제19회 중랑구청장배 장미 마라톤 중랑구 마라톤 대회는 생활체육의 활성화와 지역 주민의 건강 증진 및 스포츠 문화 발전을 통하여 지역 이미지 향상과 구민 화합의 한마당을 목적으로 개최하게 되었습니다."
     },
     {
       "id": "roadrun-41603",
@@ -3317,10 +3336,10 @@
       "source_detail": "http://www.roadrun.co.kr/schedule/view.php?no=41710",
       "region": "부산",
       "reg_period": "2026년8월1일~2026년8월16일",
-      "start_time": "08:00",
-      "description": "광안대교를 가로지르는 풀코스 마라톤",
       "reg_start": "2026-08-01",
-      "reg_end": "2026-08-16"
+      "reg_end": "2026-08-16",
+      "start_time": "08:00",
+      "description": "광안대교를 가로지르는 풀코스 마라톤"
     }
   ]
 }
