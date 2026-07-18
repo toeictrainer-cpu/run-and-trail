@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-07-17T21:52:09",
+  "collected_at": "2026-07-18T21:49:04",
   "source": "http://www.roadrun.co.kr/schedule/list.php",
   "count": 172,
   "races": [
@@ -1029,10 +1029,10 @@
       "source_detail": "http://www.roadrun.co.kr/schedule/view.php?no=41715",
       "region": "전남",
       "reg_period": "2026년7월17일~2026년7월17일",
-      "start_time": "09:00",
-      "description": "2026년 여수세계섬박람회의 성공적인 개최와 발 맞추어\n세계 최초·해안 절벽 테마를 향해 힘차게 출발하는 글로벌 스포츠 투어리즘 레이스입니다.",
       "reg_start": "2026-07-17",
-      "reg_end": "2026-07-17"
+      "reg_end": "2026-07-17",
+      "start_time": "09:00",
+      "description": "2026년 여수세계섬박람회의 성공적인 개최와 발 맞추어\n세계 최초·해안 절벽 테마를 향해 힘차게 출발하는 글로벌 스포츠 투어리즘 레이스입니다."
     },
     {
       "id": "roadrun-41708",
