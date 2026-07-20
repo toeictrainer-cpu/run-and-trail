@@ -1,7 +1,7 @@
 {
-  "collected_at": "2026-07-19T21:50:35",
+  "collected_at": "2026-07-20T21:58:23",
   "source": "http://www.roadrun.co.kr/schedule/list.php",
-  "count": 172,
+  "count": 174,
   "races": [
     {
       "id": "roadrun-41611",
@@ -279,7 +279,7 @@
     },
     {
       "id": "roadrun-41140",
-      "name": "2026 청계산.인릉산TrailRunn",
+      "name": "2026 청계산.인릉산 TrailRunn",
       "date": "2026-07-19",
       "events": "하프,12km",
       "location": "화물터미널 청계산옛골",
@@ -2065,6 +2065,25 @@
       "poster": "posters/roadrun-41352.jpg"
     },
     {
+      "id": "roadrun-41716",
+      "name": "제주풍차런",
+      "date": "2026-10-10",
+      "events": "10km,5km",
+      "location": "한림수협다목적어업인종합지원센터",
+      "organizer": "주식회사 어디감수광, 수원리",
+      "phone": "010-4281-4624",
+      "homepage": "http://jejuwindmillrun.com",
+      "detail_no": "41716",
+      "source": "http://www.roadrun.co.kr/schedule/list.php (발견용)",
+      "source_detail": "http://www.roadrun.co.kr/schedule/view.php?no=41716",
+      "region": "제주",
+      "reg_period": "2026년7월8일~2026년9월4일",
+      "start_time": "09:00",
+      "description": "제주풍차런은 제주시 한림읍의 아름다운 풍력발전 해안도로를 달리는 러닝 페스티벌입니다.\n5km와 10km 코스로 누구나 자신의 수준에 맞게 참가할 수 있습니다.\n제주의 자연과 바다, 풍차가 어우러진 특별한 러닝 경험을 선사합니다.\n행사 운영에는 지역 주민과 자원봉사단체가 함께 참여해 지역 축제로 만들어갑니다.\n또한 참가비의 일부는 지역 사회를 위한 나눔에 사용되어 달리기의 즐거움과 따뜻한 가치를 함께 전합니다.",
+      "reg_start": "2026-07-08",
+      "reg_end": "2026-09-04"
+    },
+    {
       "id": "roadrun-41701",
       "name": "충주 앙성 비내길 마라톤 대회",
       "date": "2026-10-10",
@@ -2454,7 +2473,7 @@
     },
     {
       "id": "roadrun-41712",
-      "name": "제19회 중랑구청장배 장미 마라톤",
+      "name": "제19회 중랑구청장배 장미 마라톤 준비중",
       "date": "2026-10-18",
       "events": "하프,10km,5km",
       "location": "중화체육공원",
@@ -2642,6 +2661,25 @@
       "reg_end": "2026-09-07",
       "start_time": "09:00",
       "description": "🎮 2026 제3회 감성런 개최 안내 🎮\n추억과 감성이 가득한 2026 제3회 감성런이 개최됩니다.\n올해는 더욱 업그레이드된 레트로 감성과 다양한 즐길 거리로 참가자 여러분을 찾아갑니다. 오락실 감성을 담은 특별한 러닝 축제를 함께 즐겨보세요.\n감성 가득한 추억을 만들고 싶다면 지금 바로 신청하세요!\n※ 참가 접수는 선착순으로 진행되며, 조기 마감될 수 있습니다."
+    },
+    {
+      "id": "roadrun-41718",
+      "name": "2026 부산바다마라톤",
+      "date": "2026-10-25",
+      "events": "10km,5km,15km코스",
+      "location": "부산 벡스코 일원",
+      "organizer": "부산일보사",
+      "phone": "051-461-4046",
+      "homepage": "http://marathon.busan.com",
+      "detail_no": "41718",
+      "source": "http://www.roadrun.co.kr/schedule/list.php (발견용)",
+      "source_detail": "http://www.roadrun.co.kr/schedule/view.php?no=41718",
+      "region": "부산",
+      "reg_period": "2026년7월28일~2026년8월18일",
+      "start_time": "오전",
+      "description": "부산을 대표하는 해양 스포츠 축제, 광안대교와 부산의 아름다운 해안 풍경을 배경으로 달리는 도심형 마라톤 대회입니다.\n부산의 바다와 도시가 어우러진 특별한 코스를 달리며, 일상에서는 경험하기 어려운 색다른 러닝의 즐거움을 느낄 수 있습니다.\n도시의 해안 경관과 러닝을 결합한 도시형 글로벌 러닝 페스티벌\n2026년도에도 함께 합니다!",
+      "reg_start": "2026-07-28",
+      "reg_end": "2026-08-18"
     },
     {
       "id": "roadrun-41661",
@@ -2922,8 +2960,8 @@
       "events": "10km,5km",
       "location": "다대포 해수욕장",
       "organizer": "아시아경제",
-      "phone": "02-338-6564",
-      "homepage": "http://heritage.co.kr",
+      "phone": "02-338-0344",
+      "homepage": "http://heritagerun.co.kr",
       "detail_no": "41696",
       "source": "http://www.roadrun.co.kr/schedule/list.php (발견용)",
       "source_detail": "http://www.roadrun.co.kr/schedule/view.php?no=41696",
@@ -3138,7 +3176,7 @@
       "events": "하프,10km,5km",
       "location": "울주군 영남알프스 일원",
       "organizer": "울산광역시 울주군육상연맹",
-      "phone": "010-4741-5959",
+      "phone": "052-269-1001",
       "homepage": "http://영남알프스마라톤.kr",
       "detail_no": "41565",
       "source": "http://www.roadrun.co.kr/schedule/list.php (발견용)",
