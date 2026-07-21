@@ -1,7 +1,7 @@
 {
-  "collected_at": "2026-07-20T21:58:23",
+  "collected_at": "2026-07-21T22:02:20",
   "source": "http://www.roadrun.co.kr/schedule/list.php",
-  "count": 174,
+  "count": 178,
   "races": [
     {
       "id": "roadrun-41611",
@@ -1658,6 +1658,25 @@
       "poster": "posters/roadrun-41351.jpg"
     },
     {
+      "id": "roadrun-41722",
+      "name": "2026 춘천연합마라톤",
+      "date": "2026-10-03",
+      "events": "하프,10km,5km",
+      "location": "춘천시 엘리시안 강촌",
+      "organizer": "연합뉴스, 춘천시육상연맹",
+      "phone": "033-244-7758",
+      "homepage": "http://www.yonma.kr",
+      "detail_no": "41722",
+      "source": "http://www.roadrun.co.kr/schedule/list.php (발견용)",
+      "source_detail": "http://www.roadrun.co.kr/schedule/view.php?no=41722",
+      "region": "강원",
+      "reg_period": "2026년7월16일~2026년8월31일",
+      "start_time": "9:00",
+      "description": "국가기간뉴스통신사 연합뉴스와 춘천시육상연맹이 공동 주최하는 ‘2026 춘천연합마라톤’이 오는 10월 3일 개천절, 강원 춘천시 남산면 엘리시안 강촌 일원과 북한강변에서 화려하게 개최됩니다.\nICT 전문기업 더픽트와 사단법인 한국스카우트연맹이 공동 주관하는 이번 대회는 ‘하늘을 달리다’라는 슬로건 아래, 강촌 지역에 활력을 불어넣었던 지난 2025년 첫 대회의 성공을 발판 삼아 한층 더 진화한 모습으로 러너들을 맞이합니다.\n2026년 대회의 가장 큰 변화는 첨단 기술을 통한 안전 강화와 실질적인 지역 상생입니다. 올해 대회는 드론과",
+      "reg_start": "2026-07-16",
+      "reg_end": "2026-08-31"
+    },
+    {
       "id": "roadrun-41700",
       "name": "2026 하반기 JUST RUN10 청주",
       "date": "2026-10-03",
@@ -2078,10 +2097,10 @@
       "source_detail": "http://www.roadrun.co.kr/schedule/view.php?no=41716",
       "region": "제주",
       "reg_period": "2026년7월8일~2026년9월4일",
-      "start_time": "09:00",
-      "description": "제주풍차런은 제주시 한림읍의 아름다운 풍력발전 해안도로를 달리는 러닝 페스티벌입니다.\n5km와 10km 코스로 누구나 자신의 수준에 맞게 참가할 수 있습니다.\n제주의 자연과 바다, 풍차가 어우러진 특별한 러닝 경험을 선사합니다.\n행사 운영에는 지역 주민과 자원봉사단체가 함께 참여해 지역 축제로 만들어갑니다.\n또한 참가비의 일부는 지역 사회를 위한 나눔에 사용되어 달리기의 즐거움과 따뜻한 가치를 함께 전합니다.",
       "reg_start": "2026-07-08",
-      "reg_end": "2026-09-04"
+      "reg_end": "2026-09-04",
+      "start_time": "09:00",
+      "description": "제주풍차런은 제주시 한림읍의 아름다운 풍력발전 해안도로를 달리는 러닝 페스티벌입니다.\n5km와 10km 코스로 누구나 자신의 수준에 맞게 참가할 수 있습니다.\n제주의 자연과 바다, 풍차가 어우러진 특별한 러닝 경험을 선사합니다.\n행사 운영에는 지역 주민과 자원봉사단체가 함께 참여해 지역 축제로 만들어갑니다.\n또한 참가비의 일부는 지역 사회를 위한 나눔에 사용되어 달리기의 즐거움과 따뜻한 가치를 함께 전합니다."
     },
     {
       "id": "roadrun-41701",
@@ -2587,6 +2606,25 @@
       "description": "선착순 5000명 1차 접수 마감 완료\n(4km 1,000명 / 10km 2,500명 / Half 1,500명)\n감사합니다!"
     },
     {
+      "id": "roadrun-41721",
+      "name": "RUN&MUSIC FESTIVAL in 안동",
+      "date": "2026-10-24",
+      "events": "하프,10km",
+      "location": "안동시민운동장",
+      "organizer": "K-WATER, 안동시, SBS",
+      "phone": "02-1566-1936",
+      "homepage": "http://runmusicfestival.localvibehub.com/",
+      "detail_no": "41721",
+      "source": "http://www.roadrun.co.kr/schedule/list.php (발견용)",
+      "source_detail": "http://www.roadrun.co.kr/schedule/view.php?no=41721",
+      "region": "경북",
+      "reg_period": "2026년7월24일~2026년9월19일",
+      "start_time": "08:30",
+      "description": "K-STAR와 함께 달리는 올가을 최고의 페스티벌\nK-STAR와 함께 안동의 아름다운 가을을 달리고, 저녁에는 최고의 K-POP 콘서트까지. 러닝과 음악이 하나 되는 특별한 축제를 만나보세요.",
+      "reg_start": "2026-07-24",
+      "reg_end": "2026-09-19"
+    },
+    {
       "id": "roadrun-41682",
       "name": "2026 하남 어텀 패밀리 마라톤",
       "date": "2026-10-24",
@@ -2676,10 +2714,10 @@
       "source_detail": "http://www.roadrun.co.kr/schedule/view.php?no=41718",
       "region": "부산",
       "reg_period": "2026년7월28일~2026년8월18일",
-      "start_time": "오전",
-      "description": "부산을 대표하는 해양 스포츠 축제, 광안대교와 부산의 아름다운 해안 풍경을 배경으로 달리는 도심형 마라톤 대회입니다.\n부산의 바다와 도시가 어우러진 특별한 코스를 달리며, 일상에서는 경험하기 어려운 색다른 러닝의 즐거움을 느낄 수 있습니다.\n도시의 해안 경관과 러닝을 결합한 도시형 글로벌 러닝 페스티벌\n2026년도에도 함께 합니다!",
       "reg_start": "2026-07-28",
-      "reg_end": "2026-08-18"
+      "reg_end": "2026-08-18",
+      "start_time": "오전",
+      "description": "부산을 대표하는 해양 스포츠 축제, 광안대교와 부산의 아름다운 해안 풍경을 배경으로 달리는 도심형 마라톤 대회입니다.\n부산의 바다와 도시가 어우러진 특별한 코스를 달리며, 일상에서는 경험하기 어려운 색다른 러닝의 즐거움을 느낄 수 있습니다.\n도시의 해안 경관과 러닝을 결합한 도시형 글로벌 러닝 페스티벌\n2026년도에도 함께 합니다!"
     },
     {
       "id": "roadrun-41661",
@@ -2875,6 +2913,25 @@
       "start_time": "08:00",
       "description": "참가비 풀코스 15만원, 10km 10만원",
       "poster": "posters/roadrun-41259.jpg"
+    },
+    {
+      "id": "roadrun-41719",
+      "name": "2026 해양수도 부산 런페스타",
+      "date": "2026-11-07",
+      "events": "10km",
+      "location": "부산 북항친수공원",
+      "organizer": "한국해운신문, 부산항발전협의회",
+      "phone": "031-821-9949",
+      "homepage": "http://runfesta.co.kr",
+      "detail_no": "41719",
+      "source": "http://www.roadrun.co.kr/schedule/list.php (발견용)",
+      "source_detail": "http://www.roadrun.co.kr/schedule/view.php?no=41719",
+      "region": "부산",
+      "reg_period": "2026년7월27일~2026년10월16일",
+      "start_time": "08:30",
+      "description": "0 부산에서 두번째 열리는 해양수산가족 달리기 축제\n0 해양수산부 부산 이전 1주년과 부산항 개항 150주년을 기념하는 의미\n0 최근 완성된 부산 북항친수공원을 달림으로 해양수도 부산의 위상을 드높임\n0 해양수산부, 부산광역시, 부산항만공사, 부산상공회의소 등 부산의 공공기관\n적극적인 후원과 지원을 받아 실시하는 부산의 대표적인 마라톤 축제",
+      "reg_start": "2026-07-27",
+      "reg_end": "2026-10-16"
     },
     {
       "id": "roadrun-41662",
@@ -3340,6 +3397,25 @@
       "reg_end": "2026-08-30",
       "start_time": "7:30",
       "description": "행사명\n목욕런 2026\n행사일\n2026. 11. 28(토) 오전 8시 00분\n신청기간\n1차 신청 기간: 2026.8.10(월) ~ 2026.8.16(일)\n2차 신청 기간: 2026.8.24(월) ~ 2026.8.30(일)\n행사장소\n상암 월드컵공원(평화광장 집결)\n코스\n10km(10킬로미터), 5km(5킬로미터)\n참가비\n50,000원(5km), 60,000원(10km)\n참가자 지급품\n콜드플런지, 피니시팩(기념품), 기록칩, 메달, 음료, 간식 등\n* 지급품 목록은 변경될 수 있습니다."
+    },
+    {
+      "id": "roadrun-41720",
+      "name": "제23회 한강시민마라톤",
+      "date": "2026-12-05",
+      "events": "하프,10km,5km",
+      "location": "여의도 물빛무대 앞 광장",
+      "organizer": "(사)대한생활체육회",
+      "phone": "00-1644-4219",
+      "homepage": "http://www.hangangmarathon.kr/",
+      "detail_no": "41720",
+      "source": "http://www.roadrun.co.kr/schedule/list.php (발견용)",
+      "source_detail": "http://www.roadrun.co.kr/schedule/view.php?no=41720",
+      "region": "서울",
+      "reg_period": "2026년8월1일~2026년10월28일",
+      "start_time": "09:00",
+      "description": "제23회 한강시민마라톤대회가 여의도 한강공원 물빛무대 앞 광장에서\n개최됩니다. 한강에서의 2026년 마지막  도전~!!! 많은 참여 바랍니다.",
+      "reg_start": "2026-08-01",
+      "reg_end": "2026-10-28"
     },
     {
       "id": "roadrun-41676",
