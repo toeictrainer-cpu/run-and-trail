@@ -2,6 +2,9 @@
   "note": "자동 수집 후 덮어쓸 수동 수정값. 대회 id별로 바꿀 필드만 적으면 매 수집마다 다시 적용됨.",
   "roadrun-41727": {
     "homepage": "https://run.uaf.co.kr/",
-    "poster": "posters/roadrun-41727.jpg"
+    "poster": "posters/roadrun-41727.jpg",
+    "reg_period": "2026년7월27일 오전10시 ~ 2026년9월30일 (선착순)",
+    "reg_start": "2026-07-27",
+    "reg_end": "2026-09-30"
   }
 }
