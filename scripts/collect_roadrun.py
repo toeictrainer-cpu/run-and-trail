@@ -189,6 +189,14 @@ def main() -> None:
         if cached.get("poster"):
             race["poster"] = cached["poster"]
 
+    # 수동 수정값(overrides) 적용 — 자동 수집이 덮어쓰지 못하게 매번 재적용
+    overrides_path = OUT_PATH.parent / "overrides.json"
+    if overrides_path.exists():
+        overrides = json.loads(overrides_path.read_text(encoding="utf-8"))
+        for race in races:
+            if race["id"] in overrides:
+                race.update(overrides[race["id"]])
+
     OUT_PATH.parent.mkdir(parents=True, exist_ok=True)
     payload = {
         "collected_at": datetime.now().isoformat(timespec="seconds"),
