@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-07-25T14:27:24",
+  "collected_at": "2026-07-25T22:56:00",
   "source": "http://www.roadrun.co.kr/schedule/list.php",
   "count": 187,
   "races": [
@@ -602,10 +602,10 @@
       "source_detail": "http://www.roadrun.co.kr/schedule/view.php?no=41732",
       "region": "경기",
       "reg_period": "2026년7월25일~2026년8월21일",
-      "start_time": "08시",
-      "description": "참 가 비 : 전 종목 55,000원\n입금계좌 : 카카오뱅크 3333-37-7088290 박주민(펀앤런코리아)",
       "reg_start": "2026-07-25",
-      "reg_end": "2026-08-21"
+      "reg_end": "2026-08-21",
+      "start_time": "08시",
+      "description": "참 가 비 : 전 종목 55,000원\n입금계좌 : 카카오뱅크 3333-37-7088290 박주민(펀앤런코리아)"
     },
     {
       "id": "roadrun-41624",
@@ -1863,10 +1863,10 @@
       "source_detail": "http://www.roadrun.co.kr/schedule/view.php?no=41733",
       "region": "서울",
       "reg_period": "2026년7월31일~2026년8월2일",
-      "start_time": "07:30",
-      "description": "뉴발란스 주최대회",
       "reg_start": "2026-07-31",
-      "reg_end": "2026-08-02"
+      "reg_end": "2026-08-02",
+      "start_time": "07:30",
+      "description": "뉴발란스 주최대회"
     },
     {
       "id": "roadrun-41711",
@@ -2425,10 +2425,10 @@
       "source_detail": "http://www.roadrun.co.kr/schedule/view.php?no=41731",
       "region": "광주",
       "reg_period": "2026년7월10일~2026년9월17일",
-      "start_time": "09:00",
-      "description": "전남광주통합특별시남구 주민들의 화합과 건강 증진을 위한 대회입니다",
       "reg_start": "2026-07-10",
-      "reg_end": "2026-09-17"
+      "reg_end": "2026-09-17",
+      "start_time": "09:00",
+      "description": "전남광주통합특별시남구 주민들의 화합과 건강 증진을 위한 대회입니다"
     },
     {
       "id": "roadrun-41724",
@@ -2734,10 +2734,10 @@
       "source_detail": "http://www.roadrun.co.kr/schedule/view.php?no=41730",
       "region": "세종",
       "reg_period": "2026년7월24일~2026년9월24일",
-      "start_time": "09:00",
-      "description": "일의 여유, 달리는 즐거움! 네이버웍스와 함께하는 세종런 26에 여러분을 초대합니다.",
       "reg_start": "2026-07-24",
-      "reg_end": "2026-09-24"
+      "reg_end": "2026-09-24",
+      "start_time": "09:00",
+      "description": "일의 여유, 달리는 즐거움! 네이버웍스와 함께하는 세종런 26에 여러분을 초대합니다."
     },
     {
       "id": "roadrun-41682",
@@ -3120,10 +3120,10 @@
       "source_detail": "http://www.roadrun.co.kr/schedule/view.php?no=41729",
       "region": "서울",
       "reg_period": "2026년7월27일~2026년10월18일",
-      "start_time": "09:00",
-      "description": "세상을 바꾸는 착한 발걸음, 자원봉사 사랑 굿펀마라톤대회가\n20주년을 맞이했습니다. 다양한 이벤트도 준비 되어있으니,\n많은 참여 바랍니다.\n감사합니다.",
       "reg_start": "2026-07-27",
-      "reg_end": "2026-10-18"
+      "reg_end": "2026-10-18",
+      "start_time": "09:00",
+      "description": "세상을 바꾸는 착한 발걸음, 자원봉사 사랑 굿펀마라톤대회가\n20주년을 맞이했습니다. 다양한 이벤트도 준비 되어있으니,\n많은 참여 바랍니다.\n감사합니다."
     },
     {
       "id": "roadrun-41667",
