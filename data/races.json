@@ -1,7 +1,7 @@
 {
-  "collected_at": "2026-07-26T09:49:43",
+  "collected_at": "2026-07-26T14:24:41",
   "source": "http://www.roadrun.co.kr/schedule/list.php",
-  "count": 187,
+  "count": 188,
   "races": [
     {
       "id": "roadrun-41611",
@@ -1168,6 +1168,25 @@
       "start_time": "08:00",
       "description": "빵 따라 산 달리는 <빵트레일런2026>",
       "poster": "posters/roadrun-41354.jpg"
+    },
+    {
+      "id": "roadrun-41734",
+      "name": "제19회 구로구청장배 안양천 단풍마라톤",
+      "date": "2026-09-13",
+      "events": "10km,5km",
+      "location": "구일역 하부 인라인스케이트장",
+      "organizer": "구로구육상연맹",
+      "phone": "010-7734-3840",
+      "homepage": "http://cafe.daum.net/guro-run/LvM7/45",
+      "detail_no": "41734",
+      "source": "http://www.roadrun.co.kr/schedule/list.php (발견용)",
+      "source_detail": "http://www.roadrun.co.kr/schedule/view.php?no=41734",
+      "region": "서울",
+      "reg_period": "2026년8월3일~2026년8월14일",
+      "start_time": "09:30",
+      "description": "안녕하세요. 마라톤을 사랑하는 러너 여러분! 🏃‍♂️🏃‍♀️\n선선한 바람이 불어오는 9월,\n9월 13일 안양천 단풍마라톤대회가 여러분을 기다립니다!",
+      "reg_start": "2026-08-03",
+      "reg_end": "2026-08-14"
     },
     {
       "id": "roadrun-41702",
