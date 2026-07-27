@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-07-27T11:00:48",
+  "collected_at": "2026-07-27T15:37:39",
   "source": "http://www.roadrun.co.kr/schedule/list.php",
   "count": 189,
   "races": [
@@ -1048,10 +1048,10 @@
       "source_detail": "http://www.roadrun.co.kr/schedule/view.php?no=41735",
       "region": "서울",
       "reg_period": "2026년7월27일~2026년8월21일",
-      "start_time": "오전",
-      "description": "9월 12일(토) 서울 여의도 한강공원 물빛무대 앞 광장에서 펼쳐지는 기부 러닝 페스티벌, 굿네이버스 레이스 with 띵크어스!",
       "reg_start": "2026-07-27",
-      "reg_end": "2026-08-21"
+      "reg_end": "2026-08-21",
+      "start_time": "오전",
+      "description": "9월 12일(토) 서울 여의도 한강공원 물빛무대 앞 광장에서 펼쳐지는 기부 러닝 페스티벌, 굿네이버스 레이스 with 띵크어스!"
     },
     {
       "id": "roadrun-41715",
