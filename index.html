@@ -86,14 +86,18 @@ const today = new Date(); today.setHours(0,0,0,0);
 const esc = s => String(s ?? "").replace(/[&<>"']/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
 
 function dday(dateStr) {
-  const d = Math.round((new Date(dateStr) - today) / 86400000);
+  const d = Math.round((pd(dateStr) - today) / 86400000);
   return d === 0 ? "D-DAY" : d > 0 ? `D-${d}` : null;
 }
 
+// "2026-07-27" 같은 날짜 문자열을 한국(로컬) 자정 기준으로 해석
+// (new Date("2026-07-27")는 UTC 자정이라 접수 시작일 당일에 상태가 하루 늦게 바뀌는 버그가 있었음)
+const pd = s => new Date(s + "T00:00:00");
+
 function regStatus(r) {
   if (!r.reg_start && !r.reg_end) return null;
-  const s = r.reg_start ? new Date(r.reg_start) : null;
-  const e = r.reg_end ? new Date(r.reg_end) : null;
+  const s = r.reg_start ? pd(r.reg_start) : null;
+  const e = r.reg_end ? pd(r.reg_end) : null;
   if (s && today < s) return { cls: "upcoming", label: "접수예정" };
   if (e && today > e) return { cls: "closed", label: "접수마감" };
   return { cls: "open", label: "접수중" };
@@ -103,7 +107,7 @@ function filtered() {
   const q = query.toLowerCase();
   const eventTests = [...eventSel].map(k => EVENT_FILTERS.find(f => f.key === k).test);
   return races.filter(r =>
-    new Date(r.date) >= today &&
+    pd(r.date) >= today &&
     (!eventTests.length || eventTests.some(t => t(r.events, r.name))) &&
     (!regionSel.size || regionSel.has(r.region)) &&
     (statusFilter === "all" || regStatus(r)?.cls === statusFilter) &&
