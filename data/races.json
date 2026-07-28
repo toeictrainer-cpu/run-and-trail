@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-07-28T10:22:27",
+  "collected_at": "2026-07-28T15:13:18",
   "source": "http://www.roadrun.co.kr/schedule/list.php",
   "count": 193,
   "races": [
@@ -1398,10 +1398,10 @@
       "source_detail": "http://www.roadrun.co.kr/schedule/view.php?no=41743",
       "region": "경북",
       "reg_period": "2026년7월30일~2026년8월9일",
-      "start_time": "16:30",
-      "description": "경주의 보물을 찾아 달리는 선셋 마라톤\n「2026 무한도전 Run in 경주」\n장소 : 경주시민운동장\n일시 : 9월 19일 (토) 16:30\n컨셉 : 보물찾기 – 포졸과 도적",
       "reg_start": "2026-07-30",
-      "reg_end": "2026-08-09"
+      "reg_end": "2026-08-09",
+      "start_time": "16:30",
+      "description": "경주의 보물을 찾아 달리는 선셋 마라톤\n「2026 무한도전 Run in 경주」\n장소 : 경주시민운동장\n일시 : 9월 19일 (토) 16:30\n컨셉 : 보물찾기 – 포졸과 도적"
     },
     {
       "id": "roadrun-41704",
@@ -2346,10 +2346,10 @@
       "source_detail": "http://www.roadrun.co.kr/schedule/view.php?no=41742",
       "region": "충남",
       "reg_period": "2026년7월31일~2026년8월28일",
-      "start_time": "오전",
-      "description": "결제순 선착순 마감",
       "reg_start": "2026-07-31",
-      "reg_end": "2026-08-28"
+      "reg_end": "2026-08-28",
+      "start_time": "오전",
+      "description": "결제순 선착순 마감"
     },
     {
       "id": "roadrun-41727",
@@ -2664,7 +2664,7 @@
     },
     {
       "id": "roadrun-41712",
-      "name": "제19회 중랑구청장배 장미 마라톤 준비중",
+      "name": "제19회 중랑구청장배 마라톤 8월5일 접수시작",
       "date": "2026-10-18",
       "events": "하프,10km,5km",
       "location": "중화체육공원",
@@ -3021,10 +3021,10 @@
       "source_detail": "http://www.roadrun.co.kr/schedule/view.php?no=41740",
       "region": "서울",
       "reg_period": "2026년7월8일~2026년9월30일",
-      "start_time": "09:00",
-      "description": "오티즘 레이스는 오티즘(자폐성 장애) 당사자와 비장애인이 함께 달리며 서로의 다름을 존중하고 이해하는 사회를 만드는 인식개선 캠페인입니다.",
       "reg_start": "2026-07-08",
-      "reg_end": "2026-09-30"
+      "reg_end": "2026-09-30",
+      "start_time": "09:00",
+      "description": "오티즘 레이스는 오티즘(자폐성 장애) 당사자와 비장애인이 함께 달리며 서로의 다름을 존중하고 이해하는 사회를 만드는 인식개선 캠페인입니다."
     },
     {
       "id": "roadrun-41638",
@@ -3679,10 +3679,10 @@
       "source_detail": "http://www.roadrun.co.kr/schedule/view.php?no=41741",
       "region": "충남",
       "reg_period": "2026년7월31일~2026년11월28일",
-      "start_time": "09:00",
-      "description": "역사를 품은 길, 자유를 향한 러닝!\n제2회 천안독립기념관 마라톤대회에 참가자 여러분을 초청합니다.\n숭고한 독립정신이 숨 쉬는 천안독립기념관에서 시원한 바람을 가르며 달리는 뜻깊은 레이스가 펼쳐집니다.\n가족, 연인, 동료와 함께 건강한 에너지를 나누고 잊지 못할 추억을 만들어 보세요. 러너 여러분의 도전과 열정을 응원합니다!",
       "reg_start": "2026-07-31",
-      "reg_end": "2026-11-28"
+      "reg_end": "2026-11-28",
+      "start_time": "09:00",
+      "description": "역사를 품은 길, 자유를 향한 러닝!\n제2회 천안독립기념관 마라톤대회에 참가자 여러분을 초청합니다.\n숭고한 독립정신이 숨 쉬는 천안독립기념관에서 시원한 바람을 가르며 달리는 뜻깊은 레이스가 펼쳐집니다.\n가족, 연인, 동료와 함께 건강한 에너지를 나누고 잊지 못할 추억을 만들어 보세요. 러너 여러분의 도전과 열정을 응원합니다!"
     },
     {
       "id": "roadrun-41720",
