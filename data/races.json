@@ -1,7 +1,7 @@
 {
-  "collected_at": "2026-07-29T05:47:43",
+  "collected_at": "2026-07-29T10:28:11",
   "source": "http://www.roadrun.co.kr/schedule/list.php",
-  "count": 196,
+  "count": 195,
   "races": [
     {
       "id": "roadrun-41611",
@@ -1048,10 +1048,10 @@
       "source_detail": "http://www.roadrun.co.kr/schedule/view.php?no=41750",
       "region": "충북",
       "reg_period": "2026년7월29일~2026년8월23일",
-      "start_time": "18:00",
-      "description": "러닝이 축제가 되는 순간\n단순한 완주가 아닙니다. 도심의 야경, 라이브 음악, 로컬 푸드, 그리고 함께 뛰는 사람들.\n나이트런은 도심의 밤을 통째로 경험하는 러닝 페스티벌입니다.",
       "reg_start": "2026-07-29",
-      "reg_end": "2026-08-23"
+      "reg_end": "2026-08-23",
+      "start_time": "18:00",
+      "description": "러닝이 축제가 되는 순간\n단순한 완주가 아닙니다. 도심의 야경, 라이브 음악, 로컬 푸드, 그리고 함께 뛰는 사람들.\n나이트런은 도심의 밤을 통째로 경험하는 러닝 페스티벌입니다."
     },
     {
       "id": "roadrun-41735",
@@ -1436,10 +1436,10 @@
       "source_detail": "http://www.roadrun.co.kr/schedule/view.php?no=41744",
       "region": "전남",
       "reg_period": "2026년7월28일~2026년9월18일",
-      "start_time": "09:00",
-      "description": "수천만 년 전 백악기 공룡들의 숨결이 그대로 남아있는 공룡 발자국 화석지, 다도해의 푸른 절경을 품은 해안 트레킹 코스, 자연과 문화가 어우러진 천혜의 섬 낭도를 한바퀴 도는 힐링 트레일 런",
       "reg_start": "2026-07-28",
-      "reg_end": "2026-09-18"
+      "reg_end": "2026-09-18",
+      "start_time": "09:00",
+      "description": "수천만 년 전 백악기 공룡들의 숨결이 그대로 남아있는 공룡 발자국 화석지, 다도해의 푸른 절경을 품은 해안 트레킹 코스, 자연과 문화가 어우러진 천혜의 섬 낭도를 한바퀴 도는 힐링 트레일 런"
     },
     {
       "id": "roadrun-41704",
@@ -2384,10 +2384,10 @@
       "source_detail": "http://www.roadrun.co.kr/schedule/view.php?no=41747",
       "region": "전북",
       "reg_period": "2026년8월10일~2026년9월15일",
-      "start_time": "8:00",
-      "description": "10월 10일, 10월 11일 양일간 동일종목 개최합니다.",
       "reg_start": "2026-08-10",
-      "reg_end": "2026-09-15"
+      "reg_end": "2026-09-15",
+      "start_time": "8:00",
+      "description": "10월 10일, 10월 11일 양일간 동일종목 개최합니다."
     },
     {
       "id": "roadrun-41742",
@@ -2871,25 +2871,6 @@
       "reg_end": "2026-09-24",
       "start_time": "09:00",
       "description": "일의 여유, 달리는 즐거움! 네이버웍스와 함께하는 세종런 26에 여러분을 초대합니다."
-    },
-    {
-      "id": "roadrun-41682",
-      "name": "해당 대회는 취소되었습니다",
-      "date": "2026-10-24",
-      "events": "10km,5km",
-      "location": "하남 미사 경정 공원",
-      "organizer": "청운의꿈(주)",
-      "phone": "02-2606-8187",
-      "homepage": "http://hnrun.kr",
-      "detail_no": "41682",
-      "source": "http://www.roadrun.co.kr/schedule/list.php (발견용)",
-      "source_detail": "http://www.roadrun.co.kr/schedule/view.php?no=41682",
-      "region": "경기",
-      "reg_period": "2026년7월7일~2026년10월14일",
-      "reg_start": "2026-07-07",
-      "reg_end": "2026-10-14",
-      "start_time": "09:00",
-      "description": "높고 푸른 하늘 아래 가을빛으로 물든 하남에서, 소중한 사람과 함께 달리는 뜻깊은 자리를 마련했습니다. 오늘의 출발선에는 저마다 다른 목표가 있겠지만, 서로의 보폭을 살피고 응원하며 나누는 시간만큼은 우리 모두에게 특별한 기억이 될 것입니다."
     },
     {
       "id": "roadrun-41688",
