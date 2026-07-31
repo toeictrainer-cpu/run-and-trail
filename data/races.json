@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-07-31T06:08:16",
+  "collected_at": "2026-07-31T10:27:32",
   "source": "http://www.roadrun.co.kr/schedule/list.php",
   "count": 202,
   "races": [
@@ -2752,10 +2752,10 @@
       "source_detail": "http://www.roadrun.co.kr/schedule/view.php?no=41751",
       "region": "경남",
       "reg_period": "2026년8월5일~2026년9월20일",
-      "start_time": "09:00",
-      "description": "창원사랑 한마음갖기 제28회 시민건강달리기대회는 6km코스의 비경쟁 달리기 대회입니다.\n많은 관심과 참가신청 부탁드립니다.",
       "reg_start": "2026-08-05",
-      "reg_end": "2026-09-20"
+      "reg_end": "2026-09-20",
+      "start_time": "09:00",
+      "description": "창원사랑 한마음갖기 제28회 시민건강달리기대회는 6km코스의 비경쟁 달리기 대회입니다.\n많은 관심과 참가신청 부탁드립니다."
     },
     {
       "id": "roadrun-41603",
@@ -2867,10 +2867,10 @@
       "source_detail": "http://www.roadrun.co.kr/schedule/view.php?no=41756",
       "region": "인천",
       "reg_period": "2026년8월3일~2026년9월18일",
-      "start_time": "09:00",
-      "description": "가을 바다를 가르며,\n새로운 나를 만나는 시간.\n바람과 파도가 끝없이 펼쳐진\n탁 트인 해변 도로 위.\n새로운 변화를 갈망하는 러너들과 함께\n가을 바다의 청량한 공기를 느끼며 달립니다.",
       "reg_start": "2026-08-03",
-      "reg_end": "2026-09-18"
+      "reg_end": "2026-09-18",
+      "start_time": "09:00",
+      "description": "가을 바다를 가르며,\n새로운 나를 만나는 시간.\n바람과 파도가 끝없이 펼쳐진\n탁 트인 해변 도로 위.\n새로운 변화를 갈망하는 러너들과 함께\n가을 바다의 청량한 공기를 느끼며 달립니다."
     },
     {
       "id": "roadrun-41721",
@@ -3272,10 +3272,10 @@
       "source_detail": "http://www.roadrun.co.kr/schedule/view.php?no=41755",
       "region": "강원",
       "reg_period": "2026년8월7일~2026년10월23일",
-      "start_time": "09:00",
-      "description": "참가비\n5km - 45,000원 / 10km - 50,000원 / 하프 - 55,000원\n선착순 5,000명 마감\n스킨케어패키지, 기념티셔츠, 완주메달, 간식 및 음료 제공",
       "reg_start": "2026-08-07",
-      "reg_end": "2026-10-23"
+      "reg_end": "2026-10-23",
+      "start_time": "09:00",
+      "description": "참가비\n5km - 45,000원 / 10km - 50,000원 / 하프 - 55,000원\n선착순 5,000명 마감\n스킨케어패키지, 기념티셔츠, 완주메달, 간식 및 음료 제공"
     },
     {
       "id": "roadrun-41754",
@@ -3291,10 +3291,10 @@
       "source_detail": "http://www.roadrun.co.kr/schedule/view.php?no=41754",
       "region": "경남",
       "reg_period": "2026년8월19일~2026년10월9일",
-      "start_time": "09:00",
-      "description": "전국에서 유일하게 해군 영내를 달리는 ‘해군과 함께 달리는 제19회 진해마라톤대회’가 오는 11월 7일(토) 진해공설운동장에서 열립니다.\n해군 창설 81주년을 기념하는 11.11km 특별 코스를 해군 장병들과 함께 달리며 해군 창설의 역사적 의미를 되새기고, 마라톤 인구의 저변 확대와 시민 건강 증진을 도모하기 위해 마련한 이번 대회에 달림이 여러분의 많은 관심과 참여를 바랍니다.",
       "reg_start": "2026-08-19",
-      "reg_end": "2026-10-09"
+      "reg_end": "2026-10-09",
+      "start_time": "09:00",
+      "description": "전국에서 유일하게 해군 영내를 달리는 ‘해군과 함께 달리는 제19회 진해마라톤대회’가 오는 11월 7일(토) 진해공설운동장에서 열립니다.\n해군 창설 81주년을 기념하는 11.11km 특별 코스를 해군 장병들과 함께 달리며 해군 창설의 역사적 의미를 되새기고, 마라톤 인구의 저변 확대와 시민 건강 증진을 도모하기 위해 마련한 이번 대회에 달림이 여러분의 많은 관심과 참여를 바랍니다."
     },
     {
       "id": "roadrun-41726",
@@ -3348,10 +3348,10 @@
       "source_detail": "http://www.roadrun.co.kr/schedule/view.php?no=41752",
       "region": "부산",
       "reg_period": "2026년8월10일~2026년10월11일",
-      "start_time": "10:00",
-      "description": "삼락 생태공원에서자연과 도시가 만납니다!\n당신의 관심이 더해져 더욱 새롭게 바뀔\n'국가정원 지정 기원' 2026 전국사상에코마라톤이\n8월 11일부터 참가자 접수를 시작합니다.\n달림이 여러분들의 많은 성원 바랍니다!",
       "reg_start": "2026-08-10",
-      "reg_end": "2026-10-11"
+      "reg_end": "2026-10-11",
+      "start_time": "10:00",
+      "description": "삼락 생태공원에서자연과 도시가 만납니다!\n당신의 관심이 더해져 더욱 새롭게 바뀔\n'국가정원 지정 기원' 2026 전국사상에코마라톤이\n8월 11일부터 참가자 접수를 시작합니다.\n달림이 여러분들의 많은 성원 바랍니다!"
     },
     {
       "id": "roadrun-41667",
@@ -3755,10 +3755,10 @@
       "source_detail": "http://www.roadrun.co.kr/schedule/view.php?no=41748",
       "region": "경남",
       "reg_period": "2026년8월10일~2026년10월15일",
-      "start_time": "7:00",
-      "description": "42km, 30km, 12km\n남해트레일레이스입니다.",
       "reg_start": "2026-08-10",
-      "reg_end": "2026-10-15"
+      "reg_end": "2026-10-15",
+      "start_time": "7:00",
+      "description": "42km, 30km, 12km\n남해트레일레이스입니다."
     },
     {
       "id": "roadrun-41673",
@@ -3907,10 +3907,10 @@
       "source_detail": "http://www.roadrun.co.kr/schedule/view.php?no=41745",
       "region": "경남",
       "reg_period": "2026년10월22일~2026년11월16일",
-      "start_time": "9:30",
-      "description": "시민들이 만드는 풀뿌리 마라톤대회",
       "reg_start": "2026-10-22",
-      "reg_end": "2026-11-16"
+      "reg_end": "2026-11-16",
+      "start_time": "9:30",
+      "description": "시민들이 만드는 풀뿌리 마라톤대회"
     }
   ]
 }
