@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-08-02T22:56:58",
+  "collected_at": "2026-08-03T06:17:18",
   "source": "http://www.roadrun.co.kr/schedule/list.php",
   "count": 185,
   "races": [
@@ -2869,6 +2869,25 @@
       "poster": "posters/roadrun-41259.jpg"
     },
     {
+      "id": "roadrun-41754",
+      "name": "제19회 진해마라톤",
+      "date": "2026-11-07",
+      "events": "5km,11.11km",
+      "location": "진해공설운동장",
+      "organizer": "(주)경남신문사",
+      "phone": "055-210-6103",
+      "homepage": "http://www.jinhaemarathon.co.kr",
+      "detail_no": "41754",
+      "source": "http://www.roadrun.co.kr/schedule/list.php (발견용)",
+      "source_detail": "http://www.roadrun.co.kr/schedule/view.php?no=41754",
+      "region": "경남",
+      "reg_period": "2026년8월19일~2026년10월9일",
+      "reg_start": "2026-08-19",
+      "reg_end": "2026-10-09",
+      "start_time": "09:00",
+      "description": "전국에서 유일하게 해군 영내를 달리는 ‘해군과 함께 달리는 제19회 진해마라톤대회’가 오는 11월 7일(토) 진해공설운동장에서 열립니다.\n해군 창설 81주년을 기념하는 11.11km 특별 코스를 해군 장병들과 함께 달리며 해군 창설의 역사적 의미를 되새기고, 마라톤 인구의 저변 확대와 시민 건강 증진을 도모하기 위해 마련한 이번 대회에 달림이 여러분의 많은 관심과 참여를 바랍니다."
+    },
+    {
       "id": "roadrun-41719",
       "name": "2026 해양수도 부산 런페스타",
       "date": "2026-11-07",
@@ -2944,25 +2963,6 @@
       "reg_end": "2026-10-23",
       "start_time": "09:00",
       "description": "참가비\n5km - 45,000원 / 10km - 50,000원 / 하프 - 55,000원\n선착순 5,000명 마감\n스킨케어패키지, 기념티셔츠, 완주메달, 간식 및 음료 제공"
-    },
-    {
-      "id": "roadrun-41754",
-      "name": "제19회 진해마라톤",
-      "date": "2026-11-08",
-      "events": "5km,11.11km",
-      "location": "진해공설운동장",
-      "organizer": "(주)경남신문사",
-      "phone": "055-210-6103",
-      "homepage": "http://www.jinhaemarathon.co.kr",
-      "detail_no": "41754",
-      "source": "http://www.roadrun.co.kr/schedule/list.php (발견용)",
-      "source_detail": "http://www.roadrun.co.kr/schedule/view.php?no=41754",
-      "region": "경남",
-      "reg_period": "2026년8월19일~2026년10월9일",
-      "reg_start": "2026-08-19",
-      "reg_end": "2026-10-09",
-      "start_time": "09:00",
-      "description": "전국에서 유일하게 해군 영내를 달리는 ‘해군과 함께 달리는 제19회 진해마라톤대회’가 오는 11월 7일(토) 진해공설운동장에서 열립니다.\n해군 창설 81주년을 기념하는 11.11km 특별 코스를 해군 장병들과 함께 달리며 해군 창설의 역사적 의미를 되새기고, 마라톤 인구의 저변 확대와 시민 건강 증진을 도모하기 위해 마련한 이번 대회에 달림이 여러분의 많은 관심과 참여를 바랍니다."
     },
     {
       "id": "roadrun-41726",
@@ -3568,7 +3568,7 @@
       "events": "풀,하프,10km,5km",
       "location": "진주종합경기장",
       "organizer": "진주시육상연맹",
-      "phone": "010-5488-8322",
+      "phone": "010-3931-1356",
       "homepage": "http://www.jinma.co.kr",
       "detail_no": "41745",
       "source": "http://www.roadrun.co.kr/schedule/list.php (발견용)",
