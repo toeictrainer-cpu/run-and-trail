@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-08-03T23:00:40",
+  "collected_at": "2026-08-04T05:43:21",
   "source": "http://www.roadrun.co.kr/schedule/list.php",
   "count": 192,
   "races": [
@@ -2649,10 +2649,10 @@
       "source_detail": "http://www.roadrun.co.kr/schedule/view.php?no=41761",
       "region": "인천",
       "reg_period": "2026년7월31일~2026년7월31일",
-      "start_time": "08:30",
-      "description": "정서진마라톤대회\n2026년 10월 25일 개최!\n8월 5일(수) 14:00 접수시작됩니다",
       "reg_start": "2026-07-31",
-      "reg_end": "2026-07-31"
+      "reg_end": "2026-07-31",
+      "start_time": "08:30",
+      "description": "정서진마라톤대회\n2026년 10월 25일 개최!\n8월 5일(수) 14:00 접수시작됩니다"
     },
     {
       "id": "roadrun-41718",
@@ -3163,17 +3163,17 @@
       "events": "하프,10km,5km",
       "location": "신정교 하부 영롱이 억새구장",
       "organizer": "(사)대한생활체육연맹",
-      "phone": "02-3285-5556",
+      "phone": "02-888-8805",
       "homepage": "http://maplerun.kr",
       "detail_no": "41760",
       "source": "http://www.roadrun.co.kr/schedule/list.php (발견용)",
       "source_detail": "http://www.roadrun.co.kr/schedule/view.php?no=41760",
       "region": "서울",
       "reg_period": "2026년7월31일~2026년11월5일",
-      "start_time": "09:00",
-      "description": "붉게 물든 단풍길을 따라 달리는 순간순간이\n참가자 여러분께 잊지 못할 추억으로 남기를 바라며,\n함께하는 걸음 속에서 건강과 기쁨을 찾으시길 바랍니다.",
       "reg_start": "2026-07-31",
-      "reg_end": "2026-11-05"
+      "reg_end": "2026-11-05",
+      "start_time": "09:00",
+      "description": "붉게 물든 단풍길을 따라 달리는 순간순간이\n참가자 여러분께 잊지 못할 추억으로 남기를 바라며,\n함께하는 걸음 속에서 건강과 기쁨을 찾으시길 바랍니다."
     },
     {
       "id": "roadrun-41725",
@@ -3316,8 +3316,8 @@
       "id": "roadrun-41585",
       "name": "제17회 행복트레일런 축제",
       "date": "2026-11-15",
-      "events": "29km,9km",
-      "location": "수서역 6번출구 광장",
+      "events": "20km,10km",
+      "location": "청계산수변공원",
       "organizer": "{사}소아암환우돕기 조직위",
       "phone": "02-2647-4488",
       "homepage": "http://happytrailrun.com",
@@ -3499,10 +3499,10 @@
       "source_detail": "http://www.roadrun.co.kr/schedule/view.php?no=41763",
       "region": "서울",
       "reg_period": "2026년8월3일~2026년11월15일",
-      "start_time": "08:00",
-      "description": "평화를 향해 달리고 숲길의 내일을 이어갑니다.\n자연과 사람이 어우러진 상암 월드컵공원 평화광장에서\n평화의 의미를 함께 나누는 특별한 하루를 시작합니다.",
       "reg_start": "2026-08-03",
-      "reg_end": "2026-11-15"
+      "reg_end": "2026-11-15",
+      "start_time": "08:00",
+      "description": "평화를 향해 달리고 숲길의 내일을 이어갑니다.\n자연과 사람이 어우러진 상암 월드컵공원 평화광장에서\n평화의 의미를 함께 나누는 특별한 하루를 시작합니다."
     },
     {
       "id": "roadrun-41749",
@@ -3518,18 +3518,18 @@
       "source_detail": "http://www.roadrun.co.kr/schedule/view.php?no=41749",
       "region": "전북",
       "reg_period": "2026년8월31일~2026년10월31일",
-      "start_time": "07:00",
-      "description": "무진장트레일레이스 본대회 전 프리레이스입니다.",
       "reg_start": "2026-08-31",
-      "reg_end": "2026-10-31"
+      "reg_end": "2026-10-31",
+      "start_time": "07:00",
+      "description": "무진장트레일레이스 본대회 전 프리레이스입니다."
     },
     {
       "id": "roadrun-41766",
-      "name": "2027 서울 세계청년대회 성공 기원 평화런",
+      "name": "2027 평화런",
       "date": "2026-11-28",
       "events": "10km,5km",
       "location": "여의도공원 문화의마당",
-      "organizer": "2027 서울WYD, CPBC",
+      "organizer": "가톨릭평화방송/런코리아",
       "phone": "00-1566-1936",
       "homepage": "http://www.peacerun.kr",
       "detail_no": "41766",
@@ -3537,10 +3537,10 @@
       "source_detail": "http://www.roadrun.co.kr/schedule/view.php?no=41766",
       "region": "서울",
       "reg_period": "2026년8월14일~2026년10월24일",
-      "start_time": "07:30",
-      "description": "2027 서울 세계청년대회 성공 기원 평화런\n전 세계 청년들이 서울에 모여 평화와 환대를 나누는 축제!\n누구나 참여할 수 있는 달리기를 통해 사람과 사람을 연결하고,\n평화를 이루는 용기를 함께 경험하며,\n세계청년대회가 전하는 평화와 희망의 메시지를 우리의 일상으로 이어가고자 합니다.",
       "reg_start": "2026-08-14",
-      "reg_end": "2026-10-24"
+      "reg_end": "2026-10-24",
+      "start_time": "07:30",
+      "description": "2027 서울 세계청년대회 성공 기원 평화런\n전 세계 청년들이 서울에 모여 평화와 환대를 나누는 축제!\n누구나 참여할 수 있는 달리기를 통해 사람과 사람을 연결하고,\n평화를 이루는 용기를 함께 경험하며,\n세계청년대회가 전하는 평화와 희망의 메시지를 우리의 일상으로 이어가고자 합니다."
     },
     {
       "id": "roadrun-41675",
@@ -3594,10 +3594,10 @@
       "source_detail": "http://www.roadrun.co.kr/schedule/view.php?no=41759",
       "region": "서울",
       "reg_period": "2026년7월31일~2026년11월22일",
-      "start_time": "07:30",
-      "description": "기억을 넘어 실천으로, 달림으로 이어가는 평화의 길!! 함께 달리는 오늘의 한 걸음이 더 나은 내일을 만드는 용기가 되고, 우리 모두의 마음속에 평화를 향한 의지를 오래 남기기를 소망합니다.",
       "reg_start": "2026-07-31",
-      "reg_end": "2026-11-22"
+      "reg_end": "2026-11-22",
+      "start_time": "07:30",
+      "description": "기억을 넘어 실천으로, 달림으로 이어가는 평화의 길!! 함께 달리는 오늘의 한 걸음이 더 나은 내일을 만드는 용기가 되고, 우리 모두의 마음속에 평화를 향한 의지를 오래 남기기를 소망합니다."
     },
     {
       "id": "roadrun-41741",
@@ -3632,10 +3632,10 @@
       "source_detail": "http://www.roadrun.co.kr/schedule/view.php?no=41762",
       "region": "경기",
       "reg_period": "2026년8월3일~2026년11월26일",
-      "start_time": "09:00",
-      "description": "기록과 순위를 넘어 서로를 응원하며 즐겁게 달릴 수 있는 축제의 장이 되기를 바라며 참가자 모두 기쁘게 달릴 수 있길 희망합니다.",
       "reg_start": "2026-08-03",
-      "reg_end": "2026-11-26"
+      "reg_end": "2026-11-26",
+      "start_time": "09:00",
+      "description": "기록과 순위를 넘어 서로를 응원하며 즐겁게 달릴 수 있는 축제의 장이 되기를 바라며 참가자 모두 기쁘게 달릴 수 있길 희망합니다."
     },
     {
       "id": "roadrun-41720",
