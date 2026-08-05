@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-08-05T15:09:00",
+  "collected_at": "2026-08-05T22:58:43",
   "source": "http://www.roadrun.co.kr/schedule/list.php",
   "count": 199,
   "races": [
@@ -3612,10 +3612,10 @@
       "source_detail": "http://www.roadrun.co.kr/schedule/view.php?no=41774",
       "region": "서울",
       "reg_period": "2026년8월17일~2026년10월30일",
-      "start_time": "08:30",
-      "description": "서울 한강과 안양천의 상징 억새풀 마라톤행사입니다",
       "reg_start": "2026-08-17",
-      "reg_end": "2026-10-30"
+      "reg_end": "2026-10-30",
+      "start_time": "08:30",
+      "description": "서울 한강과 안양천의 상징 억새풀 마라톤행사입니다"
     },
     {
       "id": "roadrun-41763",
