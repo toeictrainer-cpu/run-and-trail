@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-08-05T05:42:10",
+  "collected_at": "2026-08-05T10:23:27",
   "source": "http://www.roadrun.co.kr/schedule/list.php",
   "count": 199,
   "races": [
@@ -735,10 +735,10 @@
       "source_detail": "http://www.roadrun.co.kr/schedule/view.php?no=41772",
       "region": "경기",
       "reg_period": "2026년8월6일~2026년8월26일",
-      "start_time": "오전",
-      "description": "제 6회 계란 마라톤",
       "reg_start": "2026-08-06",
-      "reg_end": "2026-08-26"
+      "reg_end": "2026-08-26",
+      "start_time": "오전",
+      "description": "제 6회 계란 마라톤"
     },
     {
       "id": "roadrun-41735",
@@ -773,10 +773,10 @@
       "source_detail": "http://www.roadrun.co.kr/schedule/view.php?no=41773",
       "region": "경기",
       "reg_period": "2026년8월5일~2026년8월5일",
-      "start_time": "오전",
-      "description": "서울올림픽기념 88RUN",
       "reg_start": "2026-08-05",
-      "reg_end": "2026-08-05"
+      "reg_end": "2026-08-05",
+      "start_time": "오전",
+      "description": "서울올림픽기념 88RUN"
     },
     {
       "id": "roadrun-41715",
@@ -1936,10 +1936,10 @@
       "source_detail": "http://www.roadrun.co.kr/schedule/view.php?no=41771",
       "region": "서울",
       "reg_period": "2026년8월5일~2026년8월5일",
-      "start_time": "07시30분출발",
-      "description": "건강한세상을 꿈꾸며",
       "reg_start": "2026-08-05",
-      "reg_end": "2026-08-05"
+      "reg_end": "2026-08-05",
+      "start_time": "07시30분출발",
+      "description": "건강한세상을 꿈꾸며"
     },
     {
       "id": "roadrun-41716",
@@ -2109,10 +2109,10 @@
       "source_detail": "http://www.roadrun.co.kr/schedule/view.php?no=41769",
       "region": "인천",
       "reg_period": "2026년8월7일~2026년9월4일",
-      "start_time": "08:30",
-      "description": "서해구 출범기념\n2026 인천로봇랜드 퓨처런\n8월 7일(금) 오후 2시 접수!",
       "reg_start": "2026-08-07",
-      "reg_end": "2026-09-04"
+      "reg_end": "2026-09-04",
+      "start_time": "08:30",
+      "description": "서해구 출범기념\n2026 인천로봇랜드 퓨처런\n8월 7일(금) 오후 2시 접수!"
     },
     {
       "id": "roadrun-41747",
@@ -2630,10 +2630,10 @@
       "source_detail": "http://www.roadrun.co.kr/schedule/view.php?no=41770",
       "region": "충북",
       "reg_period": "2026년7월21일~2026년8월31일",
-      "start_time": "9시",
-      "description": "무쓰런은 \"무심천, 쓰레기없는마라톤\"의 줄임말입니다. 다회용기록칩, 다회용컵, 쇼핑백 배번호 등을 사용해 일회용 쓰레기를 최소화하며 달립니다. 환경을 지키는 실천과 러닝의 즐거움을 함께 경험하는 특별한 마라톤 대회입니다!",
       "reg_start": "2026-07-21",
-      "reg_end": "2026-08-31"
+      "reg_end": "2026-08-31",
+      "start_time": "9시",
+      "description": "무쓰런은 \"무심천, 쓰레기없는마라톤\"의 줄임말입니다. 다회용기록칩, 다회용컵, 쇼핑백 배번호 등을 사용해 일회용 쓰레기를 최소화하며 달립니다. 환경을 지키는 실천과 러닝의 즐거움을 함께 경험하는 특별한 마라톤 대회입니다!"
     },
     {
       "id": "roadrun-41721",
