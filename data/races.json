@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-08-05T10:23:27",
+  "collected_at": "2026-08-05T15:09:00",
   "source": "http://www.roadrun.co.kr/schedule/list.php",
   "count": 199,
   "races": [
@@ -969,26 +969,6 @@
       "reg_end": "2026-08-14",
       "start_time": "07:30",
       "description": "10km는 아쉽고, 21km는 부담되는 러너들을 위한 15km 레이스!\n2026 히어로레이스\n2026-09-13(일) 여의도공원 문화의마당"
-    },
-    {
-      "id": "roadrun-41648",
-      "name": "2026포항이차전지전국마라톤",
-      "date": "2026-09-13",
-      "events": "하프,10km,5km",
-      "location": "포항운하관주차장",
-      "organizer": "매일신문사",
-      "phone": "054-1600-4525",
-      "homepage": "http://energyrun.co.kr/",
-      "detail_no": "41648",
-      "source": "http://www.roadrun.co.kr/schedule/list.php (발견용)",
-      "source_detail": "http://www.roadrun.co.kr/schedule/view.php?no=41648",
-      "region": "경북",
-      "reg_period": "2026년6월29일~2026년7월20일",
-      "reg_start": "2026-06-29",
-      "reg_end": "2026-07-20",
-      "start_time": "08:00",
-      "description": "이차전지 선두도시 포항에서 펼쳐지는 전국마라톤대회\n해안절경을 달리는코스 완벽한 교통통제\n병목없는 코스설계",
-      "poster": "posters/roadrun-41648.jpg"
     },
     {
       "id": "roadrun-41652",
@@ -2465,7 +2445,7 @@
     },
     {
       "id": "roadrun-41712",
-      "name": "제19회 중랑구청장배마라톤 8월10일 접수시작",
+      "name": "제19회 중랑구청장배 장미 마라톤",
       "date": "2026-10-18",
       "events": "하프,10km,5km",
       "location": "중화체육공원",
@@ -3617,6 +3597,25 @@
       "reg_end": "2026-09-19",
       "start_time": "07:30",
       "description": "11/22(일) 자이스 스마일 레이스 개최!\n아름다운 코스를 달리며 건강한 라이프스타일을 경험하고,\n다양한 프로그램과 풍성한 기념품을 통해 특별한 추억을 만들 수 있습니다.\n자이스 스마일 레이스와 함께 건강한 도전과 즐거운 러닝을 경험해 보세요."
+    },
+    {
+      "id": "roadrun-41774",
+      "name": "2026 서울 억새풀 마라톤대회",
+      "date": "2026-11-22",
+      "events": "하프,10km,5km",
+      "location": "(영등포) 영롱이 억새구장",
+      "organizer": "아시아투데이(사)한국마라톤연맹",
+      "phone": "02-2647-4488",
+      "homepage": "http://ssrun.kr/",
+      "detail_no": "41774",
+      "source": "http://www.roadrun.co.kr/schedule/list.php (발견용)",
+      "source_detail": "http://www.roadrun.co.kr/schedule/view.php?no=41774",
+      "region": "서울",
+      "reg_period": "2026년8월17일~2026년10월30일",
+      "start_time": "08:30",
+      "description": "서울 한강과 안양천의 상징 억새풀 마라톤행사입니다",
+      "reg_start": "2026-08-17",
+      "reg_end": "2026-10-30"
     },
     {
       "id": "roadrun-41763",
