@@ -1,7 +1,7 @@
 {
-  "collected_at": "2026-08-04T23:03:27",
+  "collected_at": "2026-08-05T05:42:10",
   "source": "http://www.roadrun.co.kr/schedule/list.php",
-  "count": 194,
+  "count": 199,
   "races": [
     {
       "id": "roadrun-41504",
@@ -722,6 +722,25 @@
       "description": "러닝이 축제가 되는 순간\n단순한 완주가 아닙니다. 도심의 야경, 라이브 음악, 로컬 푸드, 그리고 함께 뛰는 사람들.\n나이트런은 도심의 밤을 통째로 경험하는 러닝 페스티벌입니다."
     },
     {
+      "id": "roadrun-41772",
+      "name": "제 6회 계란 마라톤",
+      "date": "2026-09-12",
+      "events": "하프,10km,5km",
+      "location": "경인아라뱃길여객터미널 아라타워",
+      "organizer": "계란자조금관리위원회",
+      "phone": "00-1600-3962",
+      "homepage": "http://egg-run.com",
+      "detail_no": "41772",
+      "source": "http://www.roadrun.co.kr/schedule/list.php (발견용)",
+      "source_detail": "http://www.roadrun.co.kr/schedule/view.php?no=41772",
+      "region": "경기",
+      "reg_period": "2026년8월6일~2026년8월26일",
+      "start_time": "오전",
+      "description": "제 6회 계란 마라톤",
+      "reg_start": "2026-08-06",
+      "reg_end": "2026-08-26"
+    },
+    {
       "id": "roadrun-41735",
       "name": "2026 굿네이버스 레이스",
       "date": "2026-09-12",
@@ -739,6 +758,25 @@
       "reg_end": "2026-08-21",
       "start_time": "오전",
       "description": "9월 12일(토) 서울 여의도 한강공원 물빛무대 앞 광장에서 펼쳐지는 기부 러닝 페스티벌, 굿네이버스 레이스 with 띵크어스!"
+    },
+    {
+      "id": "roadrun-41773",
+      "name": "서울올림픽기념 88RUN",
+      "date": "2026-09-12",
+      "events": "10km,5km",
+      "location": "미사경정공원",
+      "organizer": "국민체육진흥공단경륜경정총괄본부",
+      "phone": "00-1600-3962",
+      "homepage": "http://88run.kr",
+      "detail_no": "41773",
+      "source": "http://www.roadrun.co.kr/schedule/list.php (발견용)",
+      "source_detail": "http://www.roadrun.co.kr/schedule/view.php?no=41773",
+      "region": "경기",
+      "reg_period": "2026년8월5일~2026년8월5일",
+      "start_time": "오전",
+      "description": "서울올림픽기념 88RUN",
+      "reg_start": "2026-08-05",
+      "reg_end": "2026-08-05"
     },
     {
       "id": "roadrun-41715",
@@ -1885,6 +1923,25 @@
       "poster": "posters/roadrun-41352.jpg"
     },
     {
+      "id": "roadrun-41771",
+      "name": "제3회서울트레일런 대회",
+      "date": "2026-10-10",
+      "events": "37: 20:11",
+      "location": "시청 덕수궁돌담길",
+      "organizer": "서울울트라랠리",
+      "phone": "02-776-4288",
+      "homepage": "http://www.xn--zl2btb922be3fb2a860c.com/",
+      "detail_no": "41771",
+      "source": "http://www.roadrun.co.kr/schedule/list.php (발견용)",
+      "source_detail": "http://www.roadrun.co.kr/schedule/view.php?no=41771",
+      "region": "서울",
+      "reg_period": "2026년8월5일~2026년8월5일",
+      "start_time": "07시30분출발",
+      "description": "건강한세상을 꿈꾸며",
+      "reg_start": "2026-08-05",
+      "reg_end": "2026-08-05"
+    },
+    {
       "id": "roadrun-41716",
       "name": "제주풍차런",
       "date": "2026-10-10",
@@ -2037,6 +2094,25 @@
       "reg_end": "2026-09-30",
       "start_time": "17:00",
       "description": "깊어가는 가을밤 별과함께 떠나는 진정한 울트라마라톤 여행"
+    },
+    {
+      "id": "roadrun-41769",
+      "name": "2026 인천로봇랜드 퓨처런",
+      "date": "2026-10-11",
+      "events": "10km,5km",
+      "location": "인천로봇랜드 로봇타워",
+      "organizer": "기호일보",
+      "phone": "00-1866-1718",
+      "homepage": "http://futurerun.co.kr/",
+      "detail_no": "41769",
+      "source": "http://www.roadrun.co.kr/schedule/list.php (발견용)",
+      "source_detail": "http://www.roadrun.co.kr/schedule/view.php?no=41769",
+      "region": "인천",
+      "reg_period": "2026년8월7일~2026년9월4일",
+      "start_time": "08:30",
+      "description": "서해구 출범기념\n2026 인천로봇랜드 퓨처런\n8월 7일(금) 오후 2시 접수!",
+      "reg_start": "2026-08-07",
+      "reg_end": "2026-09-04"
     },
     {
       "id": "roadrun-41747",
@@ -2541,6 +2617,25 @@
       "description": "가을 바다를 가르며,\n새로운 나를 만나는 시간.\n바람과 파도가 끝없이 펼쳐진\n탁 트인 해변 도로 위.\n새로운 변화를 갈망하는 러너들과 함께\n가을 바다의 청량한 공기를 느끼며 달립니다."
     },
     {
+      "id": "roadrun-41770",
+      "name": "2026 무쓰런",
+      "date": "2026-10-24",
+      "events": "10km,5km",
+      "location": "무심천체육공원",
+      "organizer": "청주충북환경운동연합",
+      "phone": "043-222-2466",
+      "homepage": "http://forms.gle/ga7gKHnRJB7pfLFY6",
+      "detail_no": "41770",
+      "source": "http://www.roadrun.co.kr/schedule/list.php (발견용)",
+      "source_detail": "http://www.roadrun.co.kr/schedule/view.php?no=41770",
+      "region": "충북",
+      "reg_period": "2026년7월21일~2026년8월31일",
+      "start_time": "9시",
+      "description": "무쓰런은 \"무심천, 쓰레기없는마라톤\"의 줄임말입니다. 다회용기록칩, 다회용컵, 쇼핑백 배번호 등을 사용해 일회용 쓰레기를 최소화하며 달립니다. 환경을 지키는 실천과 러닝의 즐거움을 함께 경험하는 특별한 마라톤 대회입니다!",
+      "reg_start": "2026-07-21",
+      "reg_end": "2026-08-31"
+    },
+    {
       "id": "roadrun-41721",
       "name": "RUN&MUSIC FESTIVAL in 안동",
       "date": "2026-10-24",
@@ -2637,7 +2732,7 @@
     },
     {
       "id": "roadrun-41761",
-      "name": "제14회 정서진아라뱃길 마라톤",
+      "name": "제14회 정서진아라뱃길 전국마라톤대회",
       "date": "2026-10-25",
       "events": "하프,10km,5km",
       "location": "정서진 아라타워",
@@ -3508,7 +3603,7 @@
       "id": "roadrun-41768",
       "name": "자이스 스마일 레이스",
       "date": "2026-11-22",
-      "events": "하프,10km,5km",
+      "events": "10km,5km",
       "location": "여의도공원 문화의 마당",
       "organizer": "ZEISS/런코리아",
       "phone": "00-1566-1936",
