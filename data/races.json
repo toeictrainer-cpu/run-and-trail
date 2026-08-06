@@ -1,7 +1,7 @@
 {
-  "collected_at": "2026-08-06T05:44:10",
+  "collected_at": "2026-08-06T10:25:50",
   "source": "http://www.roadrun.co.kr/schedule/list.php",
-  "count": 198,
+  "count": 199,
   "races": [
     {
       "id": "roadrun-41504",
@@ -1651,13 +1651,13 @@
     },
     {
       "id": "roadrun-41711",
-      "name": "2026 S오일 감동의 마라톤",
+      "name": "S-OIL과 함께하는 감동의 마라톤",
       "date": "2026-10-04",
       "events": "하프,10km,5km",
       "location": "상암동 평화의 광장",
-      "organizer": "더윙, S오일",
-      "phone": "010-2499-6616",
-      "homepage": "http://xn--439ar1m25cg1c810a7ro.com",
+      "organizer": "S-OIL, 한국장애인재활협회",
+      "phone": "010-3482-6615",
+      "homepage": "http://감동의마라톤.com",
       "detail_no": "41711",
       "source": "http://www.roadrun.co.kr/schedule/list.php (발견용)",
       "source_detail": "http://www.roadrun.co.kr/schedule/view.php?no=41711",
@@ -2844,6 +2844,25 @@
       "reg_end": "2026-08-30",
       "start_time": "10시",
       "description": "많은 관심과 참여 부탁드립니다."
+    },
+    {
+      "id": "roadrun-41778",
+      "name": "제21회 사천노을 마라톤대회",
+      "date": "2026-10-31",
+      "events": "하프,10km,5km",
+      "location": "사천 선진거북선공원",
+      "organizer": "경남일보",
+      "phone": "055-751-1085",
+      "homepage": "http://sunset.or.kr",
+      "detail_no": "41778",
+      "source": "http://www.roadrun.co.kr/schedule/list.php (발견용)",
+      "source_detail": "http://www.roadrun.co.kr/schedule/view.php?no=41778",
+      "region": "경남",
+      "reg_period": "2026년8월6일~2026년8월6일",
+      "start_time": "16:40",
+      "description": "제21회 사천노을 마라톤대회",
+      "reg_start": "2026-08-06",
+      "reg_end": "2026-08-06"
     },
     {
       "id": "roadrun-41740",
