@@ -1,7 +1,7 @@
 {
-  "collected_at": "2026-08-05T22:58:43",
+  "collected_at": "2026-08-06T05:44:10",
   "source": "http://www.roadrun.co.kr/schedule/list.php",
-  "count": 199,
+  "count": 198,
   "races": [
     {
       "id": "roadrun-41504",
@@ -3635,25 +3635,6 @@
       "reg_end": "2026-11-15",
       "start_time": "08:00",
       "description": "평화를 향해 달리고 숲길의 내일을 이어갑니다.\n자연과 사람이 어우러진 상암 월드컵공원 평화광장에서\n평화의 의미를 함께 나누는 특별한 하루를 시작합니다."
-    },
-    {
-      "id": "roadrun-41749",
-      "name": "2026 무진장트레일레이스",
-      "date": "2026-11-23",
-      "events": "335km",
-      "location": "장수종합경기장",
-      "organizer": "주식회사 락앤런",
-      "phone": "063-353-2025",
-      "homepage": "http://rocknrun.kr",
-      "detail_no": "41749",
-      "source": "http://www.roadrun.co.kr/schedule/list.php (발견용)",
-      "source_detail": "http://www.roadrun.co.kr/schedule/view.php?no=41749",
-      "region": "전북",
-      "reg_period": "2026년8월31일~2026년10월31일",
-      "reg_start": "2026-08-31",
-      "reg_end": "2026-10-31",
-      "start_time": "07:00",
-      "description": "무진장트레일레이스 본대회 전 프리레이스입니다."
     },
     {
       "id": "roadrun-41766",
