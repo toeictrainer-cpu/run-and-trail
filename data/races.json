@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-08-06T10:25:50",
+  "collected_at": "2026-08-06T15:07:19",
   "source": "http://www.roadrun.co.kr/schedule/list.php",
   "count": 199,
   "races": [
@@ -2859,10 +2859,10 @@
       "source_detail": "http://www.roadrun.co.kr/schedule/view.php?no=41778",
       "region": "경남",
       "reg_period": "2026년8월6일~2026년8월6일",
-      "start_time": "16:40",
-      "description": "제21회 사천노을 마라톤대회",
       "reg_start": "2026-08-06",
-      "reg_end": "2026-08-06"
+      "reg_end": "2026-08-06",
+      "start_time": "16:40",
+      "description": "제21회 사천노을 마라톤대회"
     },
     {
       "id": "roadrun-41740",
