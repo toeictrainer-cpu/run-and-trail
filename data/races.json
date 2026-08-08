@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-08-07T22:34:56",
+  "collected_at": "2026-08-08T04:08:06",
   "source": "http://www.roadrun.co.kr/schedule/list.php",
   "count": 204,
   "races": [
@@ -1791,7 +1791,7 @@
       "date": "2026-10-05",
       "events": "풀,하프,10km,5km",
       "location": "봉은사로 삼성1동 주민센터 앞",
-      "organizer": "강남구",
+      "organizer": "강남구,미8군사령부",
       "phone": "02-3462-7330",
       "homepage": "http://peacemarathon.co.kr",
       "detail_no": "41782",
@@ -3160,7 +3160,7 @@
       "events": "하프,10km,5km",
       "location": "아산시  현충사 은행나무길",
       "organizer": "아산시 마라톤 협회",
-      "phone": "042-543-4592",
+      "phone": "041-543-4592",
       "homepage": "http://asanmarathon.co.kr/",
       "detail_no": "41780",
       "source": "http://www.roadrun.co.kr/schedule/list.php (발견용)",
