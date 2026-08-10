@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-08-10T04:26:35",
+  "collected_at": "2026-08-10T09:05:52",
   "source": "http://www.roadrun.co.kr/schedule/list.php",
   "count": 209,
   "races": [
@@ -716,10 +716,10 @@
       "source_detail": "http://www.roadrun.co.kr/schedule/view.php?no=41791",
       "region": "강원",
       "reg_period": "2026년8월10일~2026년8월23일",
-      "start_time": "05:00",
-      "description": "강릉 경포에서 펼쳐지는 「비포 선라이즈 슬로우 마라톤」은 새벽에 출발해 경포의 아름다운 풍경을 따라 천천히 달리고, 도착지인 경포해변에서 일출을 함께 맞이하는 비경쟁형 마라톤입니다.\n순위 경쟁이나 기록 측정, 시상 없이 참가자 각자의 속도로 걷거나 달리며 경포의 새벽과 일출을 즐기는 특별한 관광형 러닝 프로그램입니다.",
       "reg_start": "2026-08-10",
-      "reg_end": "2026-08-23"
+      "reg_end": "2026-08-23",
+      "start_time": "05:00",
+      "description": "강릉 경포에서 펼쳐지는 「비포 선라이즈 슬로우 마라톤」은 새벽에 출발해 경포의 아름다운 풍경을 따라 천천히 달리고, 도착지인 경포해변에서 일출을 함께 맞이하는 비경쟁형 마라톤입니다.\n순위 경쟁이나 기록 측정, 시상 없이 참가자 각자의 속도로 걷거나 달리며 경포의 새벽과 일출을 즐기는 특별한 관광형 러닝 프로그램입니다."
     },
     {
       "id": "roadrun-41750",
@@ -2165,10 +2165,10 @@
       "source_detail": "http://www.roadrun.co.kr/schedule/view.php?no=41785",
       "region": "서울",
       "reg_period": "2026년8월10일~2026년9월20일",
-      "start_time": "08:30",
-      "description": "독립유공자 후손 기부 러닝\n10km 08:30 출발\n5Km 08:40 출발",
       "reg_start": "2026-08-10",
-      "reg_end": "2026-09-20"
+      "reg_end": "2026-09-20",
+      "start_time": "08:30",
+      "description": "독립유공자 후손 기부 러닝\n10km 08:30 출발\n5Km 08:40 출발"
     },
     {
       "id": "roadrun-41747",
@@ -2992,10 +2992,10 @@
       "source_detail": "http://www.roadrun.co.kr/schedule/view.php?no=41790",
       "region": "서울",
       "reg_period": "2026년8월10일~2026년10월2일",
-      "start_time": "7:30",
-      "description": "깊어가는 가을 이봉주와 함께 안양천을 함께 뛰어요",
       "reg_start": "2026-08-10",
-      "reg_end": "2026-10-02"
+      "reg_end": "2026-10-02",
+      "start_time": "7:30",
+      "description": "깊어가는 가을 이봉주와 함께 안양천을 함께 뛰어요"
     },
     {
       "id": "roadrun-41638",
@@ -3109,10 +3109,10 @@
       "source_detail": "http://www.roadrun.co.kr/schedule/view.php?no=41788",
       "region": "경북",
       "reg_period": "2026년8월12일~2026년10월9일",
-      "start_time": "09:00",
-      "description": "GIVE RUN 2026 구미\n많은 참여 부탁 드립니다.",
       "reg_start": "2026-08-12",
-      "reg_end": "2026-10-09"
+      "reg_end": "2026-10-09",
+      "start_time": "09:00",
+      "description": "GIVE RUN 2026 구미\n많은 참여 부탁 드립니다."
     },
     {
       "id": "roadrun-41767",
@@ -3726,10 +3726,10 @@
       "source_detail": "http://www.roadrun.co.kr/schedule/view.php?no=41789",
       "region": "부산",
       "reg_period": "2026년8월12일~2026년10월16일",
-      "start_time": "09:00",
-      "description": "GIVE RUN 2026 부산\n많은 참여 부탁 드립니다.",
       "reg_start": "2026-08-12",
-      "reg_end": "2026-10-16"
+      "reg_end": "2026-10-16",
+      "start_time": "09:00",
+      "description": "GIVE RUN 2026 부산\n많은 참여 부탁 드립니다."
     },
     {
       "id": "roadrun-41748",
