@@ -1,7 +1,7 @@
 {
-  "collected_at": "2026-08-11T14:13:40",
+  "collected_at": "2026-08-11T22:41:36",
   "source": "http://www.roadrun.co.kr/schedule/list.php",
-  "count": 211,
+  "count": 216,
   "races": [
     {
       "id": "roadrun-41504",
@@ -216,6 +216,25 @@
       "reg_end": "2026-08-20",
       "start_time": "08:00",
       "description": "서울의 랜드마크 로드이자\n자연과 역사가 어우러진 아름다운 한양도성 길을\n탐방하는 트레일런대회를 개최합니다.."
+    },
+    {
+      "id": "roadrun-41786",
+      "name": "2026 교룡산성 백야드",
+      "date": "2026-08-23",
+      "events": "1회전 7K,6회전 42K",
+      "location": "전북 남원시 산곡동 251-2",
+      "organizer": "삼삼이즈",
+      "phone": "010-7469-1526",
+      "homepage": "http://samsamis.com/66",
+      "detail_no": "41786",
+      "source": "http://www.roadrun.co.kr/schedule/list.php (발견용)",
+      "source_detail": "http://www.roadrun.co.kr/schedule/view.php?no=41786",
+      "region": "전북",
+      "reg_period": "2026년8월9일~2026년8월17일",
+      "start_time": "07:00",
+      "description": "🔥 2026 교룡산성 백야드 풀코스 오픈 🔥\n남원의 숨은 명소, 교룡산성의 아름다운 둘레길을 달릴 러너들을 초대합니다!\n단순한 속도 경쟁이 아닙니다. 매 시간 정각에 찾아오는 자신과의 싸움!\n1시간 안에 7km를 들어오면 생존, 못 들어오면 탈락!\n마지막 6번째 바퀴에서 진짜 최강자를 가립니다.\n울창한 숲과 천년의 역사가 숨 쉬는 교룡산성에서당신의 한계를 시험해 보세요!\n[대회 개요]\n일시 : 8월 23일(일) 오전 07:00 출발\n집결 : 오전 06:30까지 (출발 30분 전 집결)\n장소 : 교룡산국민관광단지무료주차장\n전북 남원시",
+      "reg_start": "2026-08-09",
+      "reg_end": "2026-08-17"
     },
     {
       "id": "roadrun-41500",
@@ -545,6 +564,25 @@
       "start_time": "6:00",
       "description": "2026 다이나핏 태백 트레일\n대한민국을 대표하는 트레일 러닝 대회, 2026 다이나핏 태백 트레일이 돌아옵니다! 해발 1,567m의 태백산을 중심으로 펼쳐지는 이번 대회는 아름다운 자연 속에서 극한의 도전과 짜릿한 성취감을 경험할 수 있는 기회입니다.\n2026년 9월 5일 토요일, 강원도 태백시 및 태백산 국립공원 일대에서 개최되며, 50K, 32K-T, 32K-U, 24K, 15K 코스로 구성됩니다. 50K, 32K-T, 32K-U, 24K 코스는 UTMB 및 ITRA INDEX 포인트를 획득할 수 있습니다.\n트레일 러닝을 처음",
       "poster": "posters/roadrun-41564.jpg"
+    },
+    {
+      "id": "roadrun-41787",
+      "name": "2026 문경새재 트레일런",
+      "date": "2026-09-06",
+      "events": "13km",
+      "location": "문경새재도립공원 제1주차장",
+      "organizer": "파브코리아",
+      "phone": "010-3526-9120",
+      "homepage": "http://www.mtrailrun.kr/",
+      "detail_no": "41787",
+      "source": "http://www.roadrun.co.kr/schedule/list.php (발견용)",
+      "source_detail": "http://www.roadrun.co.kr/schedule/view.php?no=41787",
+      "region": "경북",
+      "reg_period": "2026년8월10일~2026년8월10일",
+      "start_time": "08:00",
+      "description": "새들도 쉬어 넘는 곳, 아픈 역사를 간직한 새재의 관문들을 달리며 가을을 맞아 보세요!!",
+      "reg_start": "2026-08-10",
+      "reg_end": "2026-08-10"
     },
     {
       "id": "roadrun-41635",
@@ -1179,10 +1217,10 @@
       "source_detail": "http://www.roadrun.co.kr/schedule/view.php?no=41793",
       "region": "인천",
       "reg_period": "2026년7월28일~2026년9월1일",
-      "start_time": "08:00",
-      "description": "2026년 청년의 날을 기념하여 개최한 남동구 공식 청년의 날 달리기 행사",
       "reg_start": "2026-07-28",
-      "reg_end": "2026-09-01"
+      "reg_end": "2026-09-01",
+      "start_time": "08:00",
+      "description": "2026년 청년의 날을 기념하여 개최한 남동구 공식 청년의 날 달리기 행사"
     },
     {
       "id": "roadrun-41704",
@@ -2233,7 +2271,7 @@
       "date": "2026-10-11",
       "events": "10km,5km",
       "location": "신정교하부육상트랙구장",
-      "organizer": "영등포구육상연맹",
+      "organizer": "서울특별시영등포구체육회",
       "phone": "010-3794-7297",
       "homepage": "http://cafe.naver.com/ydprun1/646",
       "detail_no": "41794",
@@ -2241,10 +2279,10 @@
       "source_detail": "http://www.roadrun.co.kr/schedule/view.php?no=41794",
       "region": "서울",
       "reg_period": "2026년8월10일~2026년10월4일",
-      "start_time": "9시",
-      "description": "대회요강, 참가신청 링크\nhttps://cafe.naver.com/ydprun1/646",
       "reg_start": "2026-08-10",
-      "reg_end": "2026-10-04"
+      "reg_end": "2026-10-04",
+      "start_time": "9시",
+      "description": "대회요강, 참가신청 링크\nhttps://cafe.naver.com/ydprun1/646"
     },
     {
       "id": "roadrun-41727",
@@ -2381,6 +2419,25 @@
       "reg_end": "2026-09-10",
       "start_time": "08:00",
       "description": "대형 산불을 방지하기 위해 산불 방지 활동으로 대회를 비영리로 합니다.\n산불 제로가 될 때까지 지속적으로 합니다.\n사진대금,칩. 메달50% 인상으로 어렵습니다.\n학생 자원봉사를 모집합니다."
+    },
+    {
+      "id": "roadrun-41800",
+      "name": "2026 의정부시 물길마라톤",
+      "date": "2026-10-17",
+      "events": "하프,10km,5km",
+      "location": "동막교인라인광장",
+      "organizer": "의정부체육회",
+      "phone": "031-850-5755",
+      "homepage": "http://ujb.my-race.kr",
+      "detail_no": "41800",
+      "source": "http://www.roadrun.co.kr/schedule/list.php (발견용)",
+      "source_detail": "http://www.roadrun.co.kr/schedule/view.php?no=41800",
+      "region": "경기",
+      "reg_period": "2026년8월12일~2026년9월11일",
+      "start_time": "09:00",
+      "description": "........",
+      "reg_start": "2026-08-12",
+      "reg_end": "2026-09-11"
     },
     {
       "id": "roadrun-41731",
@@ -2692,6 +2749,25 @@
       "description": "선착순 5000명 1차 접수 마감 완료\n(4km 1,000명 / 10km 2,500명 / Half 1,500명)\n감사합니다!"
     },
     {
+      "id": "roadrun-41798",
+      "name": "2026 서울 펫림픽 & 런 위드 고",
+      "date": "2026-10-24",
+      "events": "10km,5km",
+      "location": "서울 월드컵경기장 평화광장",
+      "organizer": "(사)함께하는 사랑밭",
+      "phone": "031-575-7243",
+      "homepage": "http://runwithgo.com",
+      "detail_no": "41798",
+      "source": "http://www.roadrun.co.kr/schedule/list.php (발견용)",
+      "source_detail": "http://www.roadrun.co.kr/schedule/view.php?no=41798",
+      "region": "서울",
+      "reg_period": "2026년8월13일~2026년8월31일",
+      "start_time": "07:30",
+      "description": "안녕하세요?\n2026 서울 펫림픽 & 런 위드 고에 오신 것을 환영합니다.\n홈페이지 내용 및 접수일정은 변동될 수 있습니다.\n감사합니다.",
+      "reg_start": "2026-08-13",
+      "reg_end": "2026-08-31"
+    },
+    {
       "id": "roadrun-41756",
       "name": "2026 뉴시스 바다마라톤",
       "date": "2026-10-24",
@@ -2958,6 +3034,25 @@
       "reg_end": "2026-08-30",
       "start_time": "10시",
       "description": "많은 관심과 참여 부탁드립니다."
+    },
+    {
+      "id": "roadrun-41795",
+      "name": "2026 JUST RUN10 포천",
+      "date": "2026-10-31",
+      "events": "10km,5km",
+      "location": "포천시종합운동장",
+      "organizer": "(주)러닝브레이커,전국러닝협회",
+      "phone": "042-710-2058",
+      "homepage": "http://runten.co.kr",
+      "detail_no": "41795",
+      "source": "http://www.roadrun.co.kr/schedule/list.php (발견용)",
+      "source_detail": "http://www.roadrun.co.kr/schedule/view.php?no=41795",
+      "region": "경기",
+      "reg_period": "2026년8월11일~2026년9월11일",
+      "start_time": "09:00",
+      "description": "PB 달성이 가장 쉬운 확실한 공식대회\n- 병목없는 레이스, 티어별 스타트\n- 업힐 없는 국내 최고의 평지 코스\n- 강변을 따라 달리는 힐링 코스\n- 차량통제 필요없는 안전한 코스\n- 10K, 5K 모두 기록칩 완벽 지원\n- 100명 이상의 경품, 최고 수준의 상금",
+      "reg_start": "2026-08-11",
+      "reg_end": "2026-09-11"
     },
     {
       "id": "roadrun-41781",
