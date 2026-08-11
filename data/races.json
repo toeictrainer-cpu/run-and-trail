@@ -1,7 +1,7 @@
 {
-  "collected_at": "2026-08-11T08:42:27",
+  "collected_at": "2026-08-11T14:13:40",
   "source": "http://www.roadrun.co.kr/schedule/list.php",
-  "count": 209,
+  "count": 211,
   "races": [
     {
       "id": "roadrun-41504",
@@ -1166,6 +1166,25 @@
       "description": "수천만 년 전 백악기 공룡들의 숨결이 그대로 남아있는 공룡 발자국 화석지, 다도해의 푸른 절경을 품은 해안 트레킹 코스, 자연과 문화가 어우러진 천혜의 섬 낭도를 한바퀴 도는 힐링 트레일 런"
     },
     {
+      "id": "roadrun-41793",
+      "name": "2026 청년의날 남동런",
+      "date": "2026-09-19",
+      "events": "10km,5km",
+      "location": "인천대공원",
+      "organizer": "디지틀조선일보C&M",
+      "phone": "032-710-0260",
+      "homepage": "http://namdongrun.kr",
+      "detail_no": "41793",
+      "source": "http://www.roadrun.co.kr/schedule/list.php (발견용)",
+      "source_detail": "http://www.roadrun.co.kr/schedule/view.php?no=41793",
+      "region": "인천",
+      "reg_period": "2026년7월28일~2026년9월1일",
+      "start_time": "08:00",
+      "description": "2026년 청년의 날을 기념하여 개최한 남동구 공식 청년의 날 달리기 행사",
+      "reg_start": "2026-07-28",
+      "reg_end": "2026-09-01"
+    },
+    {
       "id": "roadrun-41704",
       "name": "시포레 RUN & FIT with 디스커버리",
       "date": "2026-09-19",
@@ -1480,7 +1499,7 @@
       "name": "제19회 가평자라섬 전국마라톤",
       "date": "2026-09-20",
       "events": "하프,10km,5km,10Km커플런,5Km 가족런",
-      "location": "가평종합운동장(경기)",
+      "location": "(가평) 자라섬 행사장",
       "organizer": "가평군체육회, 세계일보",
       "phone": "02-2647-4488",
       "homepage": "http://gprun.com/",
@@ -2207,6 +2226,25 @@
       "reg_end": "2026-08-28",
       "start_time": "오전",
       "description": "결제순 선착순 마감"
+    },
+    {
+      "id": "roadrun-41794",
+      "name": "제6회 영등포구청장배 육상대회",
+      "date": "2026-10-11",
+      "events": "10km,5km",
+      "location": "신정교하부육상트랙구장",
+      "organizer": "영등포구육상연맹",
+      "phone": "010-3794-7297",
+      "homepage": "http://cafe.naver.com/ydprun1/646",
+      "detail_no": "41794",
+      "source": "http://www.roadrun.co.kr/schedule/list.php (발견용)",
+      "source_detail": "http://www.roadrun.co.kr/schedule/view.php?no=41794",
+      "region": "서울",
+      "reg_period": "2026년8월10일~2026년10월4일",
+      "start_time": "9시",
+      "description": "대회요강, 참가신청 링크\nhttps://cafe.naver.com/ydprun1/646",
+      "reg_start": "2026-08-10",
+      "reg_end": "2026-10-04"
     },
     {
       "id": "roadrun-41727",
