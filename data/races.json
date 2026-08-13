@@ -1,7 +1,7 @@
 {
-  "collected_at": "2026-08-13T09:01:31",
+  "collected_at": "2026-08-13T14:17:02",
   "source": "http://www.roadrun.co.kr/schedule/list.php",
-  "count": 216,
+  "count": 220,
   "races": [
     {
       "id": "roadrun-41504",
@@ -1300,7 +1300,7 @@
     },
     {
       "id": "roadrun-41693",
-      "name": "제2회 경기신문 씨사이드 마라톤",
+      "name": "제2회 경기신문 씨사이드 마라톤(대회취소)",
       "date": "2026-09-19",
       "events": "하프,10km,5km",
       "location": "영종구 씨사이드파크 일원",
@@ -3960,6 +3960,25 @@
       "description": "평화를 향해 달리고 숲길의 내일을 이어갑니다.\n자연과 사람이 어우러진 상암 월드컵공원 평화광장에서\n평화의 의미를 함께 나누는 특별한 하루를 시작합니다."
     },
     {
+      "id": "roadrun-41803",
+      "name": "2026 김대중마라톤대회",
+      "date": "2026-11-22",
+      "events": "하프,10km,5km",
+      "location": "목포종합경기장",
+      "organizer": "김대중마라톤대회 조직위원회",
+      "phone": "061-375-1201",
+      "homepage": "http://www.djrun.kr/",
+      "detail_no": "41803",
+      "source": "http://www.roadrun.co.kr/schedule/list.php (발견용)",
+      "source_detail": "http://www.roadrun.co.kr/schedule/view.php?no=41803",
+      "region": "전남",
+      "reg_period": "2026년9월1일~2026년10월1일",
+      "start_time": "09:00",
+      "description": "선착순6,000명으로 조기마감될수 있습니다.\n많은관심과 참가 부탁드립니다.",
+      "reg_start": "2026-09-01",
+      "reg_end": "2026-10-01"
+    },
+    {
       "id": "roadrun-41766",
       "name": "2026 평화런",
       "date": "2026-11-28",
@@ -4015,6 +4034,25 @@
       "reg_end": "2026-08-30",
       "start_time": "7:30",
       "description": "행사명\n목욕런 2026\n행사일\n2026. 11. 28(토) 오전 8시 00분\n신청기간\n1차 신청 기간: 2026.8.10(월) ~ 2026.8.16(일)\n2차 신청 기간: 2026.8.24(월) ~ 2026.8.30(일)\n행사장소\n상암 월드컵공원(평화광장 집결)\n코스\n10km(10킬로미터), 5km(5킬로미터)\n참가비\n50,000원(5km), 60,000원(10km)\n참가자 지급품\n콜드플런지, 피니시팩(기념품), 기록칩, 메달, 음료, 간식 등\n* 지급품 목록은 변경될 수 있습니다."
+    },
+    {
+      "id": "roadrun-41804",
+      "name": "가야왕도 김해 전국어울림 마라톤대회",
+      "date": "2026-11-29",
+      "events": "하프,10km,5km",
+      "location": "롯데워터파크 제3주차장",
+      "organizer": "김해시장애인육상연맹",
+      "phone": "010-5397-8890",
+      "homepage": "http://gimhaemarathon.imweb.me/",
+      "detail_no": "41804",
+      "source": "http://www.roadrun.co.kr/schedule/list.php (발견용)",
+      "source_detail": "http://www.roadrun.co.kr/schedule/view.php?no=41804",
+      "region": "경남",
+      "reg_period": "2026년8월13일~2026년10월25일",
+      "start_time": "08ㅣ:40",
+      "description": "2,000년 가야의 역사 위를 달리다\n전설의 땅 장유에서 펼쳐지는 시원한 레이스!\n탁 트인 장유로에서 하프 / 10km / 5km 코스의 매력을 만끽하세요.\n장애인과 비장애인이 함께하는 어울림 마라톤입니다 :)",
+      "reg_start": "2026-08-13",
+      "reg_end": "2026-10-25"
     },
     {
       "id": "roadrun-41759",
@@ -4112,6 +4150,25 @@
       "description": "2026 전국마라톤협회 금산 골드런 마라톤대회"
     },
     {
+      "id": "roadrun-41802",
+      "name": "2026 황영조 로드레이스",
+      "date": "2026-12-06",
+      "events": "하프,10km",
+      "location": "정서진 아라타워",
+      "organizer": "인천광역시육상연맹",
+      "phone": "00-1866-1718",
+      "homepage": "http://roadracing.co.kr/",
+      "detail_no": "41802",
+      "source": "http://www.roadrun.co.kr/schedule/list.php (발견용)",
+      "source_detail": "http://www.roadrun.co.kr/schedule/view.php?no=41802",
+      "region": "인천",
+      "reg_period": "2026년8월14일~2026년10월30일",
+      "start_time": "09:00",
+      "description": "2026 황영조 로드레이스\n2026.8.14 참가접수 시작합니다!\n하반기의 마지막은 정서진에서 안전하게 PB 세우세요!",
+      "reg_start": "2026-08-14",
+      "reg_end": "2026-10-30"
+    },
+    {
       "id": "roadrun-41710",
       "name": "2026 부산브릿지 마라톤",
       "date": "2026-12-06",
@@ -4167,6 +4224,25 @@
       "reg_end": "2026-11-16",
       "start_time": "9:30",
       "description": "시민들이 만드는 풀뿌리 마라톤대회"
+    },
+    {
+      "id": "roadrun-41801",
+      "name": "제2회 청춘 릴레이 마라톤",
+      "date": "2026-12-19",
+      "events": "하프,10km,5km",
+      "location": "상암월드컵공원 평화의광장",
+      "organizer": "(사)재한다문화총연합회",
+      "phone": "02-2636-7775",
+      "homepage": "http://youngrun.kr",
+      "detail_no": "41801",
+      "source": "http://www.roadrun.co.kr/schedule/list.php (발견용)",
+      "source_detail": "http://www.roadrun.co.kr/schedule/view.php?no=41801",
+      "region": "서울",
+      "reg_period": "2026년8월12일~2026년12월9일",
+      "start_time": "08:00",
+      "description": "우리 가슴 속에 살아있는 '청춘'의 에너지를 듬뿍 담아 힘차게 달려보기 위해 이 자리에 모였습니다. 청춘은 나이가 아니라, 어떤 목표를 향해 기분 좋게 땀 흘리고 스스로의 한계에 도전하는 여러분의 그 뜨거운 마음이 아닐까 싶습니다.",
+      "reg_start": "2026-08-12",
+      "reg_end": "2026-12-09"
     }
   ]
 }
