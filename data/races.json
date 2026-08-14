@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-08-14T08:57:11",
+  "collected_at": "2026-08-14T14:09:41",
   "source": "http://www.roadrun.co.kr/schedule/list.php",
   "count": 224,
   "races": [
@@ -1913,10 +1913,10 @@
       "source_detail": "http://www.roadrun.co.kr/schedule/view.php?no=41805",
       "region": "경기",
       "reg_period": "2026년8월19일~2026년10월2일",
-      "start_time": "08시",
-      "description": "전국 최대 규모의 천일홍 단지\n약 13만㎡(약 4만 평) 규모의 드넓은 농원에 보라색, 분홍색, 흰색 등 다채로운 색상의 천일홍이 끝없이 펼쳐집니다. 꽃의 색이 천 일 동안 변하지 않는다고 해서 붙여진 '천일홍'의 화려한 물결과 함께 달려요",
       "reg_start": "2026-08-19",
-      "reg_end": "2026-10-02"
+      "reg_end": "2026-10-02",
+      "start_time": "08시",
+      "description": "전국 최대 규모의 천일홍 단지\n약 13만㎡(약 4만 평) 규모의 드넓은 농원에 보라색, 분홍색, 흰색 등 다채로운 색상의 천일홍이 끝없이 펼쳐집니다. 꽃의 색이 천 일 동안 변하지 않는다고 해서 붙여진 '천일홍'의 화려한 물결과 함께 달려요"
     },
     {
       "id": "roadrun-41677",
@@ -3376,10 +3376,10 @@
       "source_detail": "http://www.roadrun.co.kr/schedule/view.php?no=41808",
       "region": "전남",
       "reg_period": "2026년8월13일~2026년10월14일",
-      "start_time": "08:00",
-      "description": "2026 해남땅끝 전국마라톤대회\n많은 참여 부탁 드립니다.",
       "reg_start": "2026-08-13",
-      "reg_end": "2026-10-14"
+      "reg_end": "2026-10-14",
+      "start_time": "08:00",
+      "description": "2026 해남땅끝 전국마라톤대회\n많은 참여 부탁 드립니다."
     },
     {
       "id": "roadrun-41755",
@@ -4125,10 +4125,10 @@
       "source_detail": "http://www.roadrun.co.kr/schedule/view.php?no=41807",
       "region": "서울",
       "reg_period": "2026년8월17일~2026년11월16일",
-      "start_time": "08시",
-      "description": "백범김구선생 탄생 150주년 유네스코 공식 지정해를 축하하며, 백범김구선생 기념사업협회와 함께 뜻깊은 대회를 개최하게 되었습니다.\n백범김구 선생의 높은 문화의 힘을 위해 다 함께 평화의 길을 달립시다",
       "reg_start": "2026-08-17",
-      "reg_end": "2026-11-16"
+      "reg_end": "2026-11-16",
+      "start_time": "08시",
+      "description": "백범김구선생 탄생 150주년 유네스코 공식 지정해를 축하하며, 백범김구선생 기념사업협회와 함께 뜻깊은 대회를 개최하게 되었습니다.\n백범김구 선생의 높은 문화의 힘을 위해 다 함께 평화의 길을 달립시다"
     },
     {
       "id": "roadrun-41741",
@@ -4315,10 +4315,10 @@
       "source_detail": "http://www.roadrun.co.kr/schedule/view.php?no=41806",
       "region": "서울",
       "reg_period": "2026년8월14일~2026년12월12일",
-      "start_time": "09:00",
-      "description": "달리기를 사랑하는 모든 분들이 함께 어울려 건강과 화합을 나누는 축제의 장",
       "reg_start": "2026-08-14",
-      "reg_end": "2026-12-12"
+      "reg_end": "2026-12-12",
+      "start_time": "09:00",
+      "description": "달리기를 사랑하는 모든 분들이 함께 어울려 건강과 화합을 나누는 축제의 장"
     }
   ]
 }
