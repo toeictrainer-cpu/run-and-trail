@@ -1,7 +1,7 @@
 {
-  "collected_at": "2026-08-14T04:44:54",
+  "collected_at": "2026-08-14T08:57:11",
   "source": "http://www.roadrun.co.kr/schedule/list.php",
-  "count": 220,
+  "count": 224,
   "races": [
     {
       "id": "roadrun-41504",
@@ -1900,6 +1900,25 @@
       "description": "안녕하세요. 시흥시전국하프마라톤대회에 오신 것을 환영합니다."
     },
     {
+      "id": "roadrun-41805",
+      "name": "2026 양주 천일홍 가을 페스타 마라톤",
+      "date": "2026-10-05",
+      "events": "10km,5km,20km코스",
+      "location": "양주시 나리공원",
+      "organizer": "양주시체육회",
+      "phone": "02-556-8879",
+      "homepage": "http://yangjurun.kr",
+      "detail_no": "41805",
+      "source": "http://www.roadrun.co.kr/schedule/list.php (발견용)",
+      "source_detail": "http://www.roadrun.co.kr/schedule/view.php?no=41805",
+      "region": "경기",
+      "reg_period": "2026년8월19일~2026년10월2일",
+      "start_time": "08시",
+      "description": "전국 최대 규모의 천일홍 단지\n약 13만㎡(약 4만 평) 규모의 드넓은 농원에 보라색, 분홍색, 흰색 등 다채로운 색상의 천일홍이 끝없이 펼쳐집니다. 꽃의 색이 천 일 동안 변하지 않는다고 해서 붙여진 '천일홍'의 화려한 물결과 함께 달려요",
+      "reg_start": "2026-08-19",
+      "reg_end": "2026-10-02"
+    },
+    {
       "id": "roadrun-41677",
       "name": "런센스 2026",
       "date": "2026-10-05",
@@ -3344,6 +3363,25 @@
       "poster": "posters/roadrun-41539.jpg"
     },
     {
+      "id": "roadrun-41808",
+      "name": "2026 해남땅끝 전국마라톤대회",
+      "date": "2026-11-08",
+      "events": "풀,하프,10km,5km",
+      "location": "대흥사쉼터 일원",
+      "organizer": "해남군육상연맹",
+      "phone": "00-1600-3949",
+      "homepage": "http://haenammarathon.co.kr",
+      "detail_no": "41808",
+      "source": "http://www.roadrun.co.kr/schedule/list.php (발견용)",
+      "source_detail": "http://www.roadrun.co.kr/schedule/view.php?no=41808",
+      "region": "전남",
+      "reg_period": "2026년8월13일~2026년10월14일",
+      "start_time": "08:00",
+      "description": "2026 해남땅끝 전국마라톤대회\n많은 참여 부탁 드립니다.",
+      "reg_start": "2026-08-13",
+      "reg_end": "2026-10-14"
+    },
+    {
       "id": "roadrun-41755",
       "name": "2026 라운드랩 RUN",
       "date": "2026-11-08",
@@ -4074,6 +4112,25 @@
       "description": "기억을 넘어 실천으로, 달림으로 이어가는 평화의 길!! 함께 달리는 오늘의 한 걸음이 더 나은 내일을 만드는 용기가 되고, 우리 모두의 마음속에 평화를 향한 의지를 오래 남기기를 소망합니다."
     },
     {
+      "id": "roadrun-41807",
+      "name": "2026 새한미디어 마라톤",
+      "date": "2026-11-29",
+      "events": "하프,10km,5km",
+      "location": "평화의공원 평화광장",
+      "organizer": "새한일보",
+      "phone": "02-0000-0000",
+      "homepage": "http://sh-run.co.kr/",
+      "detail_no": "41807",
+      "source": "http://www.roadrun.co.kr/schedule/list.php (발견용)",
+      "source_detail": "http://www.roadrun.co.kr/schedule/view.php?no=41807",
+      "region": "서울",
+      "reg_period": "2026년8월17일~2026년11월16일",
+      "start_time": "08시",
+      "description": "백범김구선생 탄생 150주년 유네스코 공식 지정해를 축하하며, 백범김구선생 기념사업협회와 함께 뜻깊은 대회를 개최하게 되었습니다.\n백범김구 선생의 높은 문화의 힘을 위해 다 함께 평화의 길을 달립시다",
+      "reg_start": "2026-08-17",
+      "reg_end": "2026-11-16"
+    },
+    {
       "id": "roadrun-41741",
       "name": "제2회 천안독립기념관 마라톤대회",
       "date": "2026-11-29",
@@ -4243,6 +4300,25 @@
       "reg_end": "2026-12-09",
       "start_time": "08:00",
       "description": "우리 가슴 속에 살아있는 '청춘'의 에너지를 듬뿍 담아 힘차게 달려보기 위해 이 자리에 모였습니다. 청춘은 나이가 아니라, 어떤 목표를 향해 기분 좋게 땀 흘리고 스스로의 한계에 도전하는 여러분의 그 뜨거운 마음이 아닐까 싶습니다."
+    },
+    {
+      "id": "roadrun-41806",
+      "name": "2026 한강런",
+      "date": "2026-12-28",
+      "events": "10km,5km",
+      "location": "안양천다목적광장",
+      "organizer": "(사)대한생활체육연맹",
+      "phone": "02-888-8805",
+      "homepage": "http://hgrun.kr",
+      "detail_no": "41806",
+      "source": "http://www.roadrun.co.kr/schedule/list.php (발견용)",
+      "source_detail": "http://www.roadrun.co.kr/schedule/view.php?no=41806",
+      "region": "서울",
+      "reg_period": "2026년8월14일~2026년12월12일",
+      "start_time": "09:00",
+      "description": "달리기를 사랑하는 모든 분들이 함께 어울려 건강과 화합을 나누는 축제의 장",
+      "reg_start": "2026-08-14",
+      "reg_end": "2026-12-12"
     }
   ]
 }
