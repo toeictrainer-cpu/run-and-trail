@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-08-15T08:14:09",
+  "collected_at": "2026-08-15T13:23:45",
   "source": "http://www.roadrun.co.kr/schedule/list.php",
   "count": 224,
   "races": [
@@ -3097,7 +3097,7 @@
       "name": "2026 태종대 BEAT ON 좀비레이스",
       "date": "2026-10-31",
       "events": "4km 코스",
-      "location": "부산광역시 영도구 태종대 자동",
+      "location": "부산 영도구 태종대 자동차야외극장(Drive in영도)",
       "organizer": "주식회사 무브네이션",
       "phone": "051-867-0516",
       "homepage": "http://taejongdaezombie.com",
@@ -3106,10 +3106,10 @@
       "source_detail": "http://www.roadrun.co.kr/schedule/view.php?no=41809",
       "region": "부산",
       "reg_period": "2026년8월15일~2026년8월15일",
-      "start_time": "16:44",
-      "description": "태종대에서 펼쳐지는 특별한 러닝 이벤트!\n10월 31일 4시 44분에 좀비 본능이 깨어난다!\n뉴진스님과 함께하는 4K 좀비레이스\n지금 껏 보지 못했던\n특별한 레이스 경험,\n2026 태종대 좀비레이스에서 만나보세요!!",
       "reg_start": "2026-08-15",
-      "reg_end": "2026-08-15"
+      "reg_end": "2026-08-15",
+      "start_time": "16:44",
+      "description": "태종대에서 펼쳐지는 특별한 러닝 이벤트!\n10월 31일 4시 44분에 좀비 본능이 깨어난다!\n뉴진스님과 함께하는 4K 좀비레이스\n지금 껏 보지 못했던\n특별한 레이스 경험,\n2026 태종대 좀비레이스에서 만나보세요!!"
     },
     {
       "id": "roadrun-41740",
