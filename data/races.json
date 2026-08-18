@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-08-17T22:23:50",
+  "collected_at": "2026-08-18T03:40:10",
   "source": "http://www.roadrun.co.kr/schedule/list.php",
   "count": 224,
   "races": [
@@ -3059,7 +3059,7 @@
       "name": "제7회 중소기업 인 기살리기 마라톤 대회",
       "date": "2026-10-31",
       "events": "하프,10km,5km",
-      "location": "구일역 하부 구로 안양천축구장",
+      "location": "구일역(1호선) 하부 구로 안양천축구장",
       "organizer": "(사) 중소기업진흥회",
       "phone": "010-2760-7745",
       "homepage": "http://kasmirun.kr/",
@@ -3965,7 +3965,7 @@
       "date": "2026-11-22",
       "events": "하프,10km,5km",
       "location": "(영등포) 영롱이 억새구장",
-      "organizer": "아시아투데이(사)한국마라톤연맹",
+      "organizer": "세계일보, (사)한국마라톤연맹",
       "phone": "02-2647-4488",
       "homepage": "http://ssrun.kr/",
       "detail_no": "41774",
