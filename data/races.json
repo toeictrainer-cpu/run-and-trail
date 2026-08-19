@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-08-19T03:41:58",
+  "collected_at": "2026-08-19T08:22:48",
   "source": "http://www.roadrun.co.kr/schedule/list.php",
   "count": 228,
   "races": [
@@ -1903,8 +1903,8 @@
       "id": "roadrun-41805",
       "name": "2026 양주 천일홍 가을 페스타 마라톤",
       "date": "2026-10-05",
-      "events": "10km,5km,20km코스",
-      "location": "양주시 나리공원",
+      "events": "하프,10km,5km,걷기",
+      "location": "양주시 나리농원",
       "organizer": "양주시체육회",
       "phone": "02-556-8879",
       "homepage": "http://yangjurun.kr",
