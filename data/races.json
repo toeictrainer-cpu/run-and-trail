@@ -1,7 +1,7 @@
 {
-  "collected_at": "2026-08-20T03:42:09",
+  "collected_at": "2026-08-20T08:23:42",
   "source": "http://www.roadrun.co.kr/schedule/list.php",
-  "count": 232,
+  "count": 233,
   "races": [
     {
       "id": "roadrun-41504",
@@ -2029,10 +2029,10 @@
       "source_detail": "http://www.roadrun.co.kr/schedule/view.php?no=41814",
       "region": "전남",
       "reg_period": "2026년8월19일~2026년9월20일",
-      "start_time": "오전",
-      "description": "선착순 1,500명 신청 및 입금순 마감됩니다.\n조기 마감될 수 있으므로 신청 및 입금을 서둘러주세요.\n많은 관심과 참여 바랍니다. 감사합니다.",
       "reg_start": "2026-08-19",
-      "reg_end": "2026-09-20"
+      "reg_end": "2026-09-20",
+      "start_time": "오전",
+      "description": "선착순 1,500명 신청 및 입금순 마감됩니다.\n조기 마감될 수 있으므로 신청 및 입금을 서둘러주세요.\n많은 관심과 참여 바랍니다. 감사합니다."
     },
     {
       "id": "roadrun-41352",
@@ -3305,6 +3305,25 @@
       "poster": "posters/roadrun-41259.jpg"
     },
     {
+      "id": "roadrun-41819",
+      "name": "SaveRace 2026",
+      "date": "2026-11-07",
+      "events": "10km",
+      "location": "여의도공원 문화의마당",
+      "organizer": "카카오뱅크, 유니셰프",
+      "phone": "02-1566-1936",
+      "homepage": "http://www.saverace.co.kr",
+      "detail_no": "41819",
+      "source": "http://www.roadrun.co.kr/schedule/list.php (발견용)",
+      "source_detail": "http://www.roadrun.co.kr/schedule/view.php?no=41819",
+      "region": "서울",
+      "reg_period": "2026년9월1일~2026년10월25일",
+      "start_time": "07:30",
+      "description": "10km를 달리는\nSave Race 2026에 동참해\n지구와 미래 세대를 지켜주세요.\n카카오뱅크와 유니세프는\nSave Race를 통해 환경부하를 최소화하고\n친환경 문화를 확산시키고자 합니다.\n참가비 전액은 기후변화로 어려움을 겪고 있는\n전 세계의 미래 세대를 위해 사용될 예정입니다.",
+      "reg_start": "2026-09-01",
+      "reg_end": "2026-10-25"
+    },
+    {
       "id": "roadrun-41788",
       "name": "GVIE RUN 2026 구미",
       "date": "2026-11-07",
@@ -3413,10 +3432,10 @@
       "source_detail": "http://www.roadrun.co.kr/schedule/view.php?no=41815",
       "region": "서울",
       "reg_period": "2026년8월26일~2026년9월23일",
-      "start_time": "9시",
-      "description": "푸르메재단 넥슨어린이재활병원 10주년 기념, 넥슨과 함께하는 2026 미라클365 푸르메런",
       "reg_start": "2026-08-26",
-      "reg_end": "2026-09-23"
+      "reg_end": "2026-09-23",
+      "start_time": "9시",
+      "description": "푸르메재단 넥슨어린이재활병원 10주년 기념, 넥슨과 함께하는 2026 미라클365 푸르메런"
     },
     {
       "id": "roadrun-41539",
@@ -3440,7 +3459,7 @@
     },
     {
       "id": "roadrun-41816",
-      "name": "제24회 금성산숲길마라톤",
+      "name": "제24회 전국 나주 금성산숲길마라톤",
       "date": "2026-11-08",
       "events": "하프,6km,11km",
       "location": "나주시 금성산 일원",
@@ -3452,10 +3471,10 @@
       "source_detail": "http://www.roadrun.co.kr/schedule/view.php?no=41816",
       "region": "전남",
       "reg_period": "2026년8월24일~2026년9월10일",
-      "start_time": "09:00",
-      "description": "제24회 금성산숲길마라톤대회 많은 참가 바랍니다.",
       "reg_start": "2026-08-24",
-      "reg_end": "2026-09-10"
+      "reg_end": "2026-09-10",
+      "start_time": "09:00",
+      "description": "제24회 금성산숲길마라톤대회 많은 참가 바랍니다."
     },
     {
       "id": "roadrun-41808",
@@ -3759,10 +3778,10 @@
       "source_detail": "http://www.roadrun.co.kr/schedule/view.php?no=41817",
       "region": "경기",
       "reg_period": "2026년8월24일~2026년9월6일",
-      "start_time": "08:00",
-      "description": "달리고, 즐기고, 나누는 뮤직런",
       "reg_start": "2026-08-24",
-      "reg_end": "2026-09-06"
+      "reg_end": "2026-09-06",
+      "start_time": "08:00",
+      "description": "달리고, 즐기고, 나누는 뮤직런"
     },
     {
       "id": "roadrun-41699",
