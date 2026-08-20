@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-08-20T08:23:42",
+  "collected_at": "2026-08-20T13:38:52",
   "source": "http://www.roadrun.co.kr/schedule/list.php",
   "count": 233,
   "races": [
@@ -199,25 +199,6 @@
       "description": "2026 Happy700평창 대관령 전국 하프마라톤입니다.\n엘리트 선수들과 함께 뛰는 코스 입니다.\n다양한 경품도 준비되어 있으니 많은 관심 부탁 드립니다."
     },
     {
-      "id": "roadrun-41642",
-      "name": "제2회 한양도성길 트레일런",
-      "date": "2026-08-22",
-      "events": "20km",
-      "location": "낙산공원중앙광장(낙산길54)",
-      "organizer": "파브코리아",
-      "phone": "010-3526-9120",
-      "homepage": "http://www.mtrailrun.kr/",
-      "detail_no": "41642",
-      "source": "http://www.roadrun.co.kr/schedule/list.php (발견용)",
-      "source_detail": "http://www.roadrun.co.kr/schedule/view.php?no=41642",
-      "region": "서울",
-      "reg_period": "2026년6월15일~2026년8월20일",
-      "reg_start": "2026-06-15",
-      "reg_end": "2026-08-20",
-      "start_time": "08:00",
-      "description": "서울의 랜드마크 로드이자\n자연과 역사가 어우러진 아름다운 한양도성 길을\n탐방하는 트레일런대회를 개최합니다.."
-    },
-    {
       "id": "roadrun-41786",
       "name": "2026 교룡산성 백야드",
       "date": "2026-08-23",
@@ -332,6 +313,25 @@
       "start_time": "19:00",
       "description": "2026 단양달빛레이스\n선찬순 5,000명 모집합니다.\n많은 참여 부탁 드립니다.",
       "poster": "posters/roadrun-41620.jpg"
+    },
+    {
+      "id": "roadrun-41642",
+      "name": "포항호미반도트레일런",
+      "date": "2026-08-30",
+      "events": "15km,10km",
+      "location": "도구해수욕장",
+      "organizer": "파브코리아",
+      "phone": "010-3526-9120",
+      "homepage": "http://www.mtrailrun.kr/",
+      "detail_no": "41642",
+      "source": "http://www.roadrun.co.kr/schedule/list.php (발견용)",
+      "source_detail": "http://www.roadrun.co.kr/schedule/view.php?no=41642",
+      "region": "서울",
+      "reg_period": "2026년6월15일~2026년8월20일",
+      "reg_start": "2026-06-15",
+      "reg_end": "2026-08-20",
+      "start_time": "08:00",
+      "description": "서울의 랜드마크 로드이자\n자연과 역사가 어우러진 아름다운 한양도성 길을\n탐방하는 트레일런대회를 개최합니다.."
     },
     {
       "id": "roadrun-41581",
@@ -3318,10 +3318,10 @@
       "source_detail": "http://www.roadrun.co.kr/schedule/view.php?no=41819",
       "region": "서울",
       "reg_period": "2026년9월1일~2026년10월25일",
-      "start_time": "07:30",
-      "description": "10km를 달리는\nSave Race 2026에 동참해\n지구와 미래 세대를 지켜주세요.\n카카오뱅크와 유니세프는\nSave Race를 통해 환경부하를 최소화하고\n친환경 문화를 확산시키고자 합니다.\n참가비 전액은 기후변화로 어려움을 겪고 있는\n전 세계의 미래 세대를 위해 사용될 예정입니다.",
       "reg_start": "2026-09-01",
-      "reg_end": "2026-10-25"
+      "reg_end": "2026-10-25",
+      "start_time": "07:30",
+      "description": "10km를 달리는\nSave Race 2026에 동참해\n지구와 미래 세대를 지켜주세요.\n카카오뱅크와 유니세프는\nSave Race를 통해 환경부하를 최소화하고\n친환경 문화를 확산시키고자 합니다.\n참가비 전액은 기후변화로 어려움을 겪고 있는\n전 세계의 미래 세대를 위해 사용될 예정입니다."
     },
     {
       "id": "roadrun-41788",
