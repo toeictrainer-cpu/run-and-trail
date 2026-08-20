@@ -1,7 +1,7 @@
 {
-  "collected_at": "2026-08-19T22:24:14",
+  "collected_at": "2026-08-20T03:42:09",
   "source": "http://www.roadrun.co.kr/schedule/list.php",
-  "count": 228,
+  "count": 232,
   "races": [
     {
       "id": "roadrun-41504",
@@ -2016,6 +2016,25 @@
       "description": "천주교 수원교구에서는 2006년부터 경기도 안성 미리내 성지에서 생명사랑 마라톤/걷기대회를 개최해왔으며, 2026년 17회를 맞이하고있습니다. 2023년 부터는 경기도 종교계 문화에술지원사엄 공모에 매년 선정되어 단축 마라톤 대회 형식을 갖추고 있습니다. 2026년 대회는 아래의 취지로 실시됩니다.\n○ 생태적 대전환 기후 위기 시대에 탄소 중립과 생명 사랑 나눔의 실천으로\n마라톤 걷기에 많은 경기도민(천주교 신자, 비신자)이 참여하여 건강한\n몸과 건전한 여가문화 조성에 기여.\n○ 2027년 7월 개최될 세계청년대회(WYD :Worl"
     },
     {
+      "id": "roadrun-41814",
+      "name": "2026 고흥우주항공배 마라톤",
+      "date": "2026-10-09",
+      "events": "하프,10km,5km",
+      "location": "고흥군 박지성공설운동장",
+      "organizer": "고흥군체육회",
+      "phone": "042-638-1080",
+      "homepage": "http://mara1080.com/event/10fcc153-1bb7-403e-8f57-7571c1c324d5",
+      "detail_no": "41814",
+      "source": "http://www.roadrun.co.kr/schedule/list.php (발견용)",
+      "source_detail": "http://www.roadrun.co.kr/schedule/view.php?no=41814",
+      "region": "전남",
+      "reg_period": "2026년8월19일~2026년9월20일",
+      "start_time": "오전",
+      "description": "선착순 1,500명 신청 및 입금순 마감됩니다.\n조기 마감될 수 있으므로 신청 및 입금을 서둘러주세요.\n많은 관심과 참여 바랍니다. 감사합니다.",
+      "reg_start": "2026-08-19",
+      "reg_end": "2026-09-20"
+    },
+    {
       "id": "roadrun-41352",
       "name": "제26회 홍성마라톤",
       "date": "2026-10-09",
@@ -3381,6 +3400,25 @@
       "description": "● 일시 : 2026년 11월 7일(토) 출발: 오전 8시 30분 (집결: 오전 7시 30분)\n● 장소 : 부여 구드래 나루터 선착장 (충남 부여군 부여읍 구교리 4-1)\n● 종목 : 5km / 10km / Half / Full\n● 주최 : 부여군마라톤연합회\n● 주관 : 전국마라톤협회\n● 후원 : 부여군체육회, 부여군, 부여군의회, 부여군경찰서, 부여군소방서\n● 협력 : 월드런(world run), 전사모, 전사모 페이싱팀\n선착순 5000명 접수 및 입금완료순 마감됩니다."
     },
     {
+      "id": "roadrun-41815",
+      "name": "2026 푸르메런",
+      "date": "2026-11-07",
+      "events": "10km,3km",
+      "location": "상암 월드컵공원 평화광장",
+      "organizer": "푸르메재단",
+      "phone": "02-338-0344",
+      "homepage": "http://purmerun.com/",
+      "detail_no": "41815",
+      "source": "http://www.roadrun.co.kr/schedule/list.php (발견용)",
+      "source_detail": "http://www.roadrun.co.kr/schedule/view.php?no=41815",
+      "region": "서울",
+      "reg_period": "2026년8월26일~2026년9월23일",
+      "start_time": "9시",
+      "description": "푸르메재단 넥슨어린이재활병원 10주년 기념, 넥슨과 함께하는 2026 미라클365 푸르메런",
+      "reg_start": "2026-08-26",
+      "reg_end": "2026-09-23"
+    },
+    {
       "id": "roadrun-41539",
       "name": "2026 영천댐 마라톤",
       "date": "2026-11-07",
@@ -3399,6 +3437,25 @@
       "start_time": "09:40",
       "description": "영천댐의 수려한 경관을 배경으로 달리는 환상적인 레이스에 여러분을 초대합니다.",
       "poster": "posters/roadrun-41539.jpg"
+    },
+    {
+      "id": "roadrun-41816",
+      "name": "제24회 금성산숲길마라톤",
+      "date": "2026-11-08",
+      "events": "하프,6km,11km",
+      "location": "나주시 금성산 일원",
+      "organizer": "나주시체육회",
+      "phone": "061-331-6482",
+      "homepage": "http://www.geumsungsan.co.kr",
+      "detail_no": "41816",
+      "source": "http://www.roadrun.co.kr/schedule/list.php (발견용)",
+      "source_detail": "http://www.roadrun.co.kr/schedule/view.php?no=41816",
+      "region": "전남",
+      "reg_period": "2026년8월24일~2026년9월10일",
+      "start_time": "09:00",
+      "description": "제24회 금성산숲길마라톤대회 많은 참가 바랍니다.",
+      "reg_start": "2026-08-24",
+      "reg_end": "2026-09-10"
     },
     {
       "id": "roadrun-41808",
@@ -3687,6 +3744,25 @@
       "start_time": "09:00",
       "description": "포항마라톤챔피언십은 스피드 위주의 마라톤대회입니다.\n전국최강자들이 모여 가장빠른 10km챔피언을 가리는 대회입니다.\n전국 최고의 대회가 될수 있도록 준비하겠습니다",
       "poster": "posters/roadrun-41528.jpg"
+    },
+    {
+      "id": "roadrun-41817",
+      "name": "2026 나눔레이스 인 용인",
+      "date": "2026-11-15",
+      "events": "10km,15km",
+      "location": "세리박위드용인",
+      "organizer": "나눔레이스조직위원회",
+      "phone": "02-2135-1297",
+      "homepage": "http://nanumrun.or.kr",
+      "detail_no": "41817",
+      "source": "http://www.roadrun.co.kr/schedule/list.php (발견용)",
+      "source_detail": "http://www.roadrun.co.kr/schedule/view.php?no=41817",
+      "region": "경기",
+      "reg_period": "2026년8월24일~2026년9월6일",
+      "start_time": "08:00",
+      "description": "달리고, 즐기고, 나누는 뮤직런",
+      "reg_start": "2026-08-24",
+      "reg_end": "2026-09-06"
     },
     {
       "id": "roadrun-41699",
