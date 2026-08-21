@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-08-21T03:46:32",
+  "collected_at": "2026-08-21T08:25:41",
   "source": "http://www.roadrun.co.kr/schedule/list.php",
   "count": 234,
   "races": [
@@ -4163,10 +4163,10 @@
       "source_detail": "http://www.roadrun.co.kr/schedule/view.php?no=41820",
       "region": "인천",
       "reg_period": "2026년9월21일~2026년9월21일",
-      "start_time": "08:00",
-      "description": "인천아시아드 주경기장 남측광장 집결\n주경기장 옆 봉수대로 출발",
       "reg_start": "2026-09-21",
-      "reg_end": "2026-09-21"
+      "reg_end": "2026-09-21",
+      "start_time": "08:00",
+      "description": "인천아시아드 주경기장 남측광장 집결\n주경기장 옆 봉수대로 출발"
     },
     {
       "id": "roadrun-41766",
