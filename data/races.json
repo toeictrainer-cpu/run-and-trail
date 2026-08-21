@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-08-21T08:25:41",
+  "collected_at": "2026-08-21T13:37:59",
   "source": "http://www.roadrun.co.kr/schedule/list.php",
   "count": 234,
   "races": [
@@ -3420,7 +3420,7 @@
     },
     {
       "id": "roadrun-41815",
-      "name": "2026 푸르메런",
+      "name": "넥슨과 함께하는 2026 푸르메런",
       "date": "2026-11-07",
       "events": "10km,3km",
       "location": "상암 월드컵공원 평화광장",
