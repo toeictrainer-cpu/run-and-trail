@@ -1,7 +1,7 @@
 {
-  "collected_at": "2026-08-24T22:26:22",
+  "collected_at": "2026-08-25T03:43:58",
   "source": "http://www.roadrun.co.kr/schedule/list.php",
-  "count": 233,
+  "count": 235,
   "races": [
     {
       "id": "roadrun-41504",
@@ -2055,6 +2055,25 @@
       "poster": "posters/roadrun-41352.jpg"
     },
     {
+      "id": "roadrun-41822",
+      "name": "2026 하트런",
+      "date": "2026-10-10",
+      "events": "10km,5km",
+      "location": "올림픽공원 피크닉장",
+      "organizer": "하트-하트재단",
+      "phone": "070-4350-5663",
+      "homepage": "http://heartrun.co.kr/",
+      "detail_no": "41822",
+      "source": "http://www.roadrun.co.kr/schedule/list.php (발견용)",
+      "source_detail": "http://www.roadrun.co.kr/schedule/view.php?no=41822",
+      "region": "서울",
+      "reg_period": "2026년8월24일~2026년9월11일",
+      "start_time": "10:00",
+      "description": "시각장애 아동을 위한 2026 하트런",
+      "reg_start": "2026-08-24",
+      "reg_end": "2026-09-11"
+    },
+    {
       "id": "roadrun-41813",
       "name": "카카오프렌즈런 2026",
       "date": "2026-10-10",
@@ -3705,6 +3724,25 @@
       "reg_end": "2026-09-30",
       "start_time": "09:00",
       "description": "제5회 대회입니다.\n알차게 준비 하였습니다."
+    },
+    {
+      "id": "roadrun-41821",
+      "name": "제2회 한강 브릿지 런",
+      "date": "2026-11-14",
+      "events": "65km",
+      "location": "구리한강시민공원 주차장",
+      "organizer": "파브코리아",
+      "phone": "010-3526-9120",
+      "homepage": "http://www.mtrailrun.kr/",
+      "detail_no": "41821",
+      "source": "http://www.roadrun.co.kr/schedule/list.php (발견용)",
+      "source_detail": "http://www.roadrun.co.kr/schedule/view.php?no=41821",
+      "region": "서울",
+      "reg_period": "2026년8월21일~2026년11월13일",
+      "start_time": "08:00",
+      "description": "지난 6월에 이어 두 번째로 한강 브릿지 울트라 대회를 개최합니다\n서울 한강을 가로 지르는 다리 전부를 두다리로 뛰어 건너는 특별한 경험!!\n대한민국의 대동맥 한강 위에 수많은 사연을 품고 서 있는 대교들,\n푸른 강물을 굽이 굽이 안고 뻗은 강변 주로, 하루 종일 늦가을 정취를 마음껏 즐기며 달려 봅시다.\n새처럼 자유롭게 Free As A Bird, FAAB와 명품트레일런이 함께하는 서울 한강다리 22개 완주대회에\n러너들을 초대합니다.",
+      "reg_start": "2026-08-21",
+      "reg_end": "2026-11-13"
     },
     {
       "id": "roadrun-41760",
