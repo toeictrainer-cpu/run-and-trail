@@ -1,7 +1,7 @@
 {
-  "collected_at": "2026-08-26T03:49:56",
+  "collected_at": "2026-08-26T08:29:23",
   "source": "http://www.roadrun.co.kr/schedule/list.php",
-  "count": 235,
+  "count": 237,
   "races": [
     {
       "id": "roadrun-41504",
@@ -409,25 +409,6 @@
       "reg_end": "2026-06-23",
       "start_time": "07:00",
       "description": "https://www.wmac2026.com/kr/\n(위 주소를 꾹 누르면, 열기 화면창 연결됩니다)\n- 개회식 축하콘서트 티켓 1인1매 증정(선착순 8,000명)\n★ K-POP 가수 : 아이브, 우주소녀 다영 등 5개팀, 트로트 : 김용빈, 전유진, 손빈아, 추혁진 ★\n- 대구로페이 2만원권 선불카드 증정\n- 「2027대구마라톤」 참가신청 우선권 제공(하프, 10km 참가자 선착순)\n- 대폭 할인된 국내 참가비 적용(해외선수 대비 30%)\n- 대한육상연맹 승인 태극마크 부착 공식 유니폼 제공\n- 국제대회 참가 기념메달 증정\n- 개"
-    },
-    {
-      "id": "roadrun-41672",
-      "name": "사우나런 in 뚝섬한강공원",
-      "date": "2026-08-31",
-      "events": "10km,5km",
-      "location": "뚝섬한강공원 인근",
-      "organizer": "사우나런",
-      "phone": "070-4571-8805",
-      "homepage": "http://saunarun.com",
-      "detail_no": "41672",
-      "source": "http://www.roadrun.co.kr/schedule/list.php (발견용)",
-      "source_detail": "http://www.roadrun.co.kr/schedule/view.php?no=41672",
-      "region": "서울",
-      "reg_period": "2026년7월6일~2026년8월31일",
-      "reg_start": "2026-07-06",
-      "reg_end": "2026-08-31",
-      "start_time": "상시",
-      "description": "※ 참가비·접수기간·코스 등 자세한 모집요강은 해당 대회 홈페이지에서 확인해 주세요."
     },
     {
       "id": "roadrun-41707",
@@ -2672,6 +2653,25 @@
       "poster": "posters/roadrun-41646.jpg"
     },
     {
+      "id": "roadrun-41823",
+      "name": "2026 하남시 시장기 당정마라톤",
+      "date": "2026-10-18",
+      "events": "10km,5km",
+      "location": "하남스타필드 앞 당정뜰",
+      "organizer": "하남시육상연맹",
+      "phone": "02-515-9033",
+      "homepage": "http://runcop.com/event/hanam",
+      "detail_no": "41823",
+      "source": "http://www.roadrun.co.kr/schedule/list.php (발견용)",
+      "source_detail": "http://www.roadrun.co.kr/schedule/view.php?no=41823",
+      "region": "경기",
+      "reg_period": "2026년9월2일~2026년9월18일",
+      "start_time": "오전",
+      "description": "당정뜰은 덕풍천과 한강이 만나는 삼각형 수변 공간으로, 과거 당정섬과 둔치의 기억을 품고 있습니다. 실제 개최지와 하남의 장소성을 대회명에 담았습니다.",
+      "reg_start": "2026-09-02",
+      "reg_end": "2026-09-18"
+    },
+    {
       "id": "roadrun-41712",
       "name": "제19회 중랑구청장배 장미 마라톤",
       "date": "2026-10-18",
@@ -3726,6 +3726,25 @@
       "description": "제5회 대회입니다.\n알차게 준비 하였습니다."
     },
     {
+      "id": "roadrun-41825",
+      "name": "2026 영종 하늘길 마라톤",
+      "date": "2026-11-14",
+      "events": "하프,10km,5km",
+      "location": "인천, 영종 씨사이드파크 일대",
+      "organizer": "리빗",
+      "phone": "02-852-0077",
+      "homepage": "http://www.leaveit.co.kr/",
+      "detail_no": "41825",
+      "source": "http://www.roadrun.co.kr/schedule/list.php (발견용)",
+      "source_detail": "http://www.roadrun.co.kr/schedule/view.php?no=41825",
+      "region": "인천",
+      "reg_period": "2026년8월24일~2026년10월8일",
+      "start_time": "08:30",
+      "description": "2026 영종 하늘길 마라톤\n장소: 인천, 영종 씨사이드파크 일대\n대회규모: 5,000명\n대회일자: 26.11.14(토) 08:30\n접수기간: 26.08.24 ~ 26.10.08\n(접수 취소 기간: ~ 26.10.08)\n기념품: 완주 메달, 티셔츠, 양말, 화장품, 뉴트리션 젤\n참가비: 45,000원(5K)\n55,000원(10K)\n55,000원(Half)",
+      "reg_start": "2026-08-24",
+      "reg_end": "2026-10-08"
+    },
+    {
       "id": "roadrun-41821",
       "name": "제2회 한강 브릿지 런",
       "date": "2026-11-14",
@@ -4509,6 +4528,25 @@
       "reg_end": "2026-12-09",
       "start_time": "08:00",
       "description": "우리 가슴 속에 살아있는 '청춘'의 에너지를 듬뿍 담아 힘차게 달려보기 위해 이 자리에 모였습니다. 청춘은 나이가 아니라, 어떤 목표를 향해 기분 좋게 땀 흘리고 스스로의 한계에 도전하는 여러분의 그 뜨거운 마음이 아닐까 싶습니다."
+    },
+    {
+      "id": "roadrun-41824",
+      "name": "2026 코리아 시즌 레이스",
+      "date": "2026-12-26",
+      "events": "하프,10km,5km",
+      "location": "상암월드컵공원 평화광장",
+      "organizer": "(사)한국경비원협회중앙회",
+      "phone": "02-888-8875",
+      "homepage": "http://k-run.kr",
+      "detail_no": "41824",
+      "source": "http://www.roadrun.co.kr/schedule/list.php (발견용)",
+      "source_detail": "http://www.roadrun.co.kr/schedule/view.php?no=41824",
+      "region": "서울",
+      "reg_period": "2026년8월25일~2026년12월16일",
+      "start_time": "08:00",
+      "description": "목표와 속도는 달라도 괜찮습니다.자신의 페이스대로 끝까지 달리며 오늘의 순간을 마음껏 즐겨주시기 바랍니다.\n이번 대회가 여러분에게 2026년을 아름답게 마무리하는 특별한 하루가 되기를 바랍니다.\n2026년의 마지막 레이스, 새로운 도약을 향한 첫걸음, 여러분의 힘찬 도전을 진심으로 응원하겠습니다.",
+      "reg_start": "2026-08-25",
+      "reg_end": "2026-12-16"
     },
     {
       "id": "roadrun-41806",
