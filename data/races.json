@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-08-27T13:39:53",
+  "collected_at": "2026-08-27T18:28:47",
   "source": "http://www.roadrun.co.kr/schedule/list.php",
   "count": 237,
   "races": [
@@ -2520,7 +2520,7 @@
       "name": "2026 경청마라톤",
       "date": "2026-10-17",
       "events": "하프,10km,5km",
-      "location": "신정교 하부 영롱이 억새구장",
+      "location": "도림천역 600미터 영롱이 억새구장",
       "organizer": "(사)행복한동행",
       "phone": "02-2636-7775",
       "homepage": "http://storyrun.kr/",
@@ -4550,7 +4550,7 @@
     },
     {
       "id": "roadrun-41806",
-      "name": "2026 한강런",
+      "name": "2026 한강런 준비중",
       "date": "2026-12-28",
       "events": "10km,5km",
       "location": "안양천다목적광장",
