@@ -1,7 +1,7 @@
 {
-  "collected_at": "2026-08-28T05:58:29",
+  "collected_at": "2026-08-28T14:50:03",
   "source": "http://www.roadrun.co.kr/schedule/list.php",
-  "count": 237,
+  "count": 241,
   "races": [
     {
       "id": "roadrun-41504",
@@ -2939,6 +2939,25 @@
       "description": "7월 14일부터 1500명 선착순 접수\n참가자에게는 기부금 영수증 발급\n수익금은 어려운 이웃, 육상 꿈나무에게\n배번호 등은 대회당일 현장에서 지급"
     },
     {
+      "id": "roadrun-41829",
+      "name": "2026 담양 트레일런 데이브레이크",
+      "date": "2026-10-24",
+      "events": "29km,9km",
+      "location": "담양군 일원",
+      "organizer": "담양군",
+      "phone": "070-5088-1180",
+      "homepage": "http://projectruntrip.com",
+      "detail_no": "41829",
+      "source": "http://www.roadrun.co.kr/schedule/list.php (발견용)",
+      "source_detail": "http://www.roadrun.co.kr/schedule/view.php?no=41829",
+      "region": "전남",
+      "reg_period": "2026년8월27일~2026년10월24일",
+      "start_time": "06:30",
+      "description": "2026 담양 트레일런 데이브레이크\n행사일 : 2026.10.24 (토)\n코스 : 9k/ 29k\n핵심 코스 : 추성경기장, 관방제림, 죽녹원, 메타세콰이어길, 금성산성",
+      "reg_start": "2026-08-27",
+      "reg_end": "2026-10-24"
+    },
+    {
       "id": "roadrun-41637",
       "name": "2026 제3회 감성런",
       "date": "2026-10-24",
@@ -3726,6 +3745,25 @@
       "description": "제5회 대회입니다.\n알차게 준비 하였습니다."
     },
     {
+      "id": "roadrun-41831",
+      "name": "2026 통큰런",
+      "date": "2026-11-14",
+      "events": "10km,5km,3km(가족런)",
+      "location": "상암 월드컵공원 평화광장",
+      "organizer": "롯데마트, 롯데슈퍼, 기아대책",
+      "phone": "070-8656-9035",
+      "homepage": "http://tongkeun-run.com",
+      "detail_no": "41831",
+      "source": "http://www.roadrun.co.kr/schedule/list.php (발견용)",
+      "source_detail": "http://www.roadrun.co.kr/schedule/view.php?no=41831",
+      "region": "서울",
+      "reg_period": "2026년9월14일~2026년10월23일",
+      "start_time": "08:00",
+      "description": "희망친구 기아대책과 롯데마트가 주최하고 서울특별시가 후원하는 기부 마라톤 행사입니다. 통큰런에서 조성된 기부금은 희망친구 기아대책의 에너지 취약계층 난방비 지원 사업과 보바스어린이재활센터의 환아 재활 치료에 사용합니다.",
+      "reg_start": "2026-09-14",
+      "reg_end": "2026-10-23"
+    },
+    {
       "id": "roadrun-41825",
       "name": "2026 영종 하늘길 마라톤",
       "date": "2026-11-14",
@@ -4055,6 +4093,25 @@
       "poster": "posters/roadrun-41558.jpg"
     },
     {
+      "id": "roadrun-41830",
+      "name": "제16회 대전서구청장배 마라톤대회",
+      "date": "2026-11-15",
+      "events": "10km,5km,가족코스,건강코스",
+      "location": "대전 유성구  엑스포 다리밑",
+      "organizer": "대전서구육상연맹/중걷마런",
+      "phone": "042-543-5210",
+      "homepage": "http://JGMRUN.COM",
+      "detail_no": "41830",
+      "source": "http://www.roadrun.co.kr/schedule/list.php (발견용)",
+      "source_detail": "http://www.roadrun.co.kr/schedule/view.php?no=41830",
+      "region": "대전",
+      "reg_period": "2026년8월28일~2026년10월28일",
+      "start_time": "09:00",
+      "description": "제16회 대전서구청장배 마라톤대회\n5km / 10km 코스로 진행되며 참가자 전원 기념품 및 완주메달을 제공합니다.\n참가비의 일부는 대전 서구 지역사회에 환원됩니다.\n중요한 건 멈추지 않는 마음!\n함께 달리고, 함께 나누는 러닝축제입니다.\n주관 : 중걷마런(JGMRUN)",
+      "reg_start": "2026-08-28",
+      "reg_end": "2026-10-28"
+    },
+    {
       "id": "roadrun-41522",
       "name": "제24회 대모산,구룡산 트레일런",
       "date": "2026-11-15",
@@ -4129,6 +4186,25 @@
       "reg_end": "2026-11-07",
       "start_time": "08:30",
       "description": "러너의 마음에서 출발하여, 러너의 시선에서 바라보는\n진짜 러너가 만듭니다."
+    },
+    {
+      "id": "roadrun-41832",
+      "name": "2026 인천마라톤",
+      "date": "2026-11-22",
+      "events": "풀,10km,5km",
+      "location": "인천아시아드 주경기장, 운서역",
+      "organizer": "인천시,대한육상경기연맹",
+      "phone": "02-3012-0187",
+      "homepage": "http://incheonmarathon.or.kr",
+      "detail_no": "41832",
+      "source": "http://www.roadrun.co.kr/schedule/list.php (발견용)",
+      "source_detail": "http://www.roadrun.co.kr/schedule/view.php?no=41832",
+      "region": "인천",
+      "reg_period": "2026년9월7일~2026년9월8일",
+      "start_time": "08:00",
+      "description": "풀코스 추랄은 영종구 운서역 일원임을 유의",
+      "reg_start": "2026-09-07",
+      "reg_end": "2026-09-08"
     },
     {
       "id": "roadrun-41768",
