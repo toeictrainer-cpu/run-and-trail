@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-08-28T14:50:03",
+  "collected_at": "2026-08-28T19:44:06",
   "source": "http://www.roadrun.co.kr/schedule/list.php",
   "count": 241,
   "races": [
@@ -2952,10 +2952,10 @@
       "source_detail": "http://www.roadrun.co.kr/schedule/view.php?no=41829",
       "region": "전남",
       "reg_period": "2026년8월27일~2026년10월24일",
-      "start_time": "06:30",
-      "description": "2026 담양 트레일런 데이브레이크\n행사일 : 2026.10.24 (토)\n코스 : 9k/ 29k\n핵심 코스 : 추성경기장, 관방제림, 죽녹원, 메타세콰이어길, 금성산성",
       "reg_start": "2026-08-27",
-      "reg_end": "2026-10-24"
+      "reg_end": "2026-10-24",
+      "start_time": "06:30",
+      "description": "2026 담양 트레일런 데이브레이크\n행사일 : 2026.10.24 (토)\n코스 : 9k/ 29k\n핵심 코스 : 추성경기장, 관방제림, 죽녹원, 메타세콰이어길, 금성산성"
     },
     {
       "id": "roadrun-41637",
@@ -3758,10 +3758,10 @@
       "source_detail": "http://www.roadrun.co.kr/schedule/view.php?no=41831",
       "region": "서울",
       "reg_period": "2026년9월14일~2026년10월23일",
-      "start_time": "08:00",
-      "description": "희망친구 기아대책과 롯데마트가 주최하고 서울특별시가 후원하는 기부 마라톤 행사입니다. 통큰런에서 조성된 기부금은 희망친구 기아대책의 에너지 취약계층 난방비 지원 사업과 보바스어린이재활센터의 환아 재활 치료에 사용합니다.",
       "reg_start": "2026-09-14",
-      "reg_end": "2026-10-23"
+      "reg_end": "2026-10-23",
+      "start_time": "08:00",
+      "description": "희망친구 기아대책과 롯데마트가 주최하고 서울특별시가 후원하는 기부 마라톤 행사입니다. 통큰런에서 조성된 기부금은 희망친구 기아대책의 에너지 취약계층 난방비 지원 사업과 보바스어린이재활센터의 환아 재활 치료에 사용합니다."
     },
     {
       "id": "roadrun-41825",
@@ -4106,10 +4106,10 @@
       "source_detail": "http://www.roadrun.co.kr/schedule/view.php?no=41830",
       "region": "대전",
       "reg_period": "2026년8월28일~2026년10월28일",
-      "start_time": "09:00",
-      "description": "제16회 대전서구청장배 마라톤대회\n5km / 10km 코스로 진행되며 참가자 전원 기념품 및 완주메달을 제공합니다.\n참가비의 일부는 대전 서구 지역사회에 환원됩니다.\n중요한 건 멈추지 않는 마음!\n함께 달리고, 함께 나누는 러닝축제입니다.\n주관 : 중걷마런(JGMRUN)",
       "reg_start": "2026-08-28",
-      "reg_end": "2026-10-28"
+      "reg_end": "2026-10-28",
+      "start_time": "09:00",
+      "description": "제16회 대전서구청장배 마라톤대회\n5km / 10km 코스로 진행되며 참가자 전원 기념품 및 완주메달을 제공합니다.\n참가비의 일부는 대전 서구 지역사회에 환원됩니다.\n중요한 건 멈추지 않는 마음!\n함께 달리고, 함께 나누는 러닝축제입니다.\n주관 : 중걷마런(JGMRUN)"
     },
     {
       "id": "roadrun-41522",
@@ -4201,10 +4201,10 @@
       "source_detail": "http://www.roadrun.co.kr/schedule/view.php?no=41832",
       "region": "인천",
       "reg_period": "2026년9월7일~2026년9월8일",
-      "start_time": "08:00",
-      "description": "풀코스 추랄은 영종구 운서역 일원임을 유의",
       "reg_start": "2026-09-07",
-      "reg_end": "2026-09-08"
+      "reg_end": "2026-09-08",
+      "start_time": "08:00",
+      "description": "풀코스 추랄은 영종구 운서역 일원임을 유의"
     },
     {
       "id": "roadrun-41768",
