@@ -1,7 +1,7 @@
 {
-  "collected_at": "2026-08-30T13:23:38",
+  "collected_at": "2026-08-30T17:04:44",
   "source": "http://www.roadrun.co.kr/schedule/list.php",
-  "count": 241,
+  "count": 242,
   "races": [
     {
       "id": "roadrun-41504",
@@ -2188,6 +2188,25 @@
       "reg_end": "2026-06-23",
       "start_time": "08",
       "description": "솔향, 바다향, 커피향이 가득한 강릉 해안선을 달린다.\n2026경포마라톤대회"
+    },
+    {
+      "id": "roadrun-41835",
+      "name": "제22회  금천구청장배 건강달리기",
+      "date": "2026-10-11",
+      "events": "10km,5km",
+      "location": "안양천 다목적광장",
+      "organizer": "금천구청",
+      "phone": "010-9118-7632",
+      "homepage": "http://www.gcrun.kr/s1p1",
+      "detail_no": "41835",
+      "source": "http://www.roadrun.co.kr/schedule/list.php (발견용)",
+      "source_detail": "http://www.roadrun.co.kr/schedule/view.php?no=41835",
+      "region": "서울",
+      "reg_period": "2026년9월1일~2026년9월11일",
+      "start_time": "08:30",
+      "description": "접수 시간\n구민: 9월 1일 10:00~9월 11일 17:00까지(선착순 300명 마감)\n일반: 9월 7일 10:00~9월 11일 17:00까지(선착순 500명 마감)\n행사 시간\n07:30 대회 알림\n08:30 개식 행사\n09:00 10km 출발\n09:05 5km 출발\n12:00 폐회식",
+      "reg_start": "2026-09-01",
+      "reg_end": "2026-09-11"
     },
     {
       "id": "roadrun-41769",
