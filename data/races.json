@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-08-31T15:37:15",
+  "collected_at": "2026-08-31T19:18:52",
   "source": "http://www.roadrun.co.kr/schedule/list.php",
   "count": 223,
   "races": [
@@ -1987,10 +1987,10 @@
       "source_detail": "http://www.roadrun.co.kr/schedule/view.php?no=41837",
       "region": "충남",
       "reg_period": "2026년8월31일~2026년9월23일",
-      "start_time": "08:00",
-      "description": "황금빛 들녘을 달리며 가을의 정취를 만끽하는 당진 황금들녘 마라톤!\n탁 트인 당진의 풍경 속에서 가족, 친구, 동료와 함께 특별한 추억을 만들어보세요.\n기록에 도전하는 러너부터 즐겁게 달리고 싶은 참가자까지 누구나 함께할 수 있습니다.\n올가을, 황금빛 당진에서 힘찬 레이스를 시작해보세요!",
       "reg_start": "2026-08-31",
-      "reg_end": "2026-09-23"
+      "reg_end": "2026-09-23",
+      "start_time": "08:00",
+      "description": "황금빛 들녘을 달리며 가을의 정취를 만끽하는 당진 황금들녘 마라톤!\n탁 트인 당진의 풍경 속에서 가족, 친구, 동료와 함께 특별한 추억을 만들어보세요.\n기록에 도전하는 러너부터 즐겁게 달리고 싶은 참가자까지 누구나 함께할 수 있습니다.\n올가을, 황금빛 당진에서 힘찬 레이스를 시작해보세요!"
     },
     {
       "id": "roadrun-41546",
@@ -4098,10 +4098,10 @@
       "source_detail": "http://www.roadrun.co.kr/schedule/view.php?no=41833",
       "region": "충남",
       "reg_period": "2026년8월31일~2026년9월20일",
-      "start_time": "10",
-      "description": "2026런던 마라톤 월드 레코드1:59:30 사바스티안 사웨와 함께 할 수 있는 대회",
       "reg_start": "2026-08-31",
-      "reg_end": "2026-09-20"
+      "reg_end": "2026-09-20",
+      "start_time": "10",
+      "description": "2026런던 마라톤 월드 레코드1:59:30 사바스티안 사웨와 함께 할 수 있는 대회"
     },
     {
       "id": "roadrun-41762",
