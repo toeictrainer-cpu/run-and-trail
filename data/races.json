@@ -1,7 +1,7 @@
 {
-  "collected_at": "2026-08-31T00:13:28",
+  "collected_at": "2026-08-31T09:15:24",
   "source": "http://www.roadrun.co.kr/schedule/list.php",
-  "count": 242,
+  "count": 241,
   "races": [
     {
       "id": "roadrun-41504",
@@ -4490,25 +4490,6 @@
       "reg_end": "2026-10-28",
       "start_time": "09:00",
       "description": "제23회 한강시민마라톤대회가 여의도 한강공원 물빛무대 앞 광장에서\n개최됩니다. 한강에서의 2026년 마지막  도전~!!! 많은 참여 바랍니다."
-    },
-    {
-      "id": "roadrun-41676",
-      "name": "2026 전국마라톤협회 금산 골드런 마라톤",
-      "date": "2026-12-05",
-      "events": "5km,12km",
-      "location": "금산 엑스포 주차장",
-      "organizer": "전국마라톤협회",
-      "phone": "042-638-1080",
-      "homepage": "http://mara1080.com/event/df4b4e7d-4fbc-4843-858c-f15c032e92cb",
-      "detail_no": "41676",
-      "source": "http://www.roadrun.co.kr/schedule/list.php (발견용)",
-      "source_detail": "http://www.roadrun.co.kr/schedule/view.php?no=41676",
-      "region": "충남",
-      "reg_period": "2026년7월2일~2026년9월1일",
-      "reg_start": "2026-07-02",
-      "reg_end": "2026-09-01",
-      "start_time": "9시",
-      "description": "2026 전국마라톤협회 금산 골드런 마라톤대회"
     },
     {
       "id": "roadrun-41802",
