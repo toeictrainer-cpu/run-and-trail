@@ -1,7 +1,7 @@
 {
-  "collected_at": "2026-09-02T23:53:07",
+  "collected_at": "2026-09-03T07:41:43",
   "source": "http://www.roadrun.co.kr/schedule/list.php",
-  "count": 232,
+  "count": 235,
   "races": [
     {
       "id": "roadrun-41707",
@@ -3279,6 +3279,25 @@
       "description": "제12회 은행나무길 마라톤대회, 아름다운 은행나무길을 달리며 가을의 정취를 만끽하세요!\n선착순 접수로 진행되니 지금 바로 신청하세요."
     },
     {
+      "id": "roadrun-41853",
+      "name": "강남하프마라톤(제17회강남구청장배육상대회)",
+      "date": "2026-11-08",
+      "events": "하프,10km",
+      "location": "강남구 대치유수지 체육공원",
+      "organizer": "강남구육상연맹",
+      "phone": "010-6364-4749",
+      "homepage": "http://comport11.oopy.io/gangnamhalfmarathon",
+      "detail_no": "41853",
+      "source": "http://www.roadrun.co.kr/schedule/list.php (발견용)",
+      "source_detail": "http://www.roadrun.co.kr/schedule/view.php?no=41853",
+      "region": "서울",
+      "reg_period": "2026년9월3일~2026년10월23일",
+      "start_time": "07:30",
+      "description": "접근성 좋은 강남에서 열리는 명품 하프 및 10K 대회\n기록내기 좋은 대회\n기념품 : 1. 대회용 싱글렛\n2. 컴포트 신제품 아킬레스 프로 또는 쿨핏 코리아 프로 제공",
+      "reg_start": "2026-09-03",
+      "reg_end": "2026-10-23"
+    },
+    {
       "id": "roadrun-41726",
       "name": "경주시육상연맹회장배 마라톤대회",
       "date": "2026-11-08",
@@ -3334,6 +3353,25 @@
       "reg_end": "2026-10-11",
       "start_time": "10:00",
       "description": "삼락 생태공원에서자연과 도시가 만납니다!\n당신의 관심이 더해져 더욱 새롭게 바뀔\n'국가정원 지정 기원' 2026 전국사상에코마라톤이\n8월 11일부터 참가자 접수를 시작합니다.\n달림이 여러분들의 많은 성원 바랍니다!"
+    },
+    {
+      "id": "roadrun-41848",
+      "name": "제3회 자유민주 마라톤대회",
+      "date": "2026-11-08",
+      "events": "10km,6.1km",
+      "location": "서울시청",
+      "organizer": "민주화운동기념사업회",
+      "phone": "031-575-7243",
+      "homepage": "http://www.610run.kr",
+      "detail_no": "41848",
+      "source": "http://www.roadrun.co.kr/schedule/list.php (발견용)",
+      "source_detail": "http://www.roadrun.co.kr/schedule/view.php?no=41848",
+      "region": "서울",
+      "reg_period": "2026년9월7일~2026년9월30일",
+      "start_time": "오전7시30분",
+      "description": "함성이 울려 퍼진 길, 우리의 발걸음으로 이어집니다.\n제3회 자유민주마라톤은 4·19혁명, 전태일 열사의 외침, 5·18민주화운동, 6월민주항쟁 등 대한민국 민주주의의 역사 현장을 직접 달리며 그날의 함성을 기억하고 미래 세대로 이어가는 시민 참여형 마라톤입니다.",
+      "reg_start": "2026-09-07",
+      "reg_end": "2026-09-30"
     },
     {
       "id": "roadrun-41667",
@@ -4072,7 +4110,7 @@
       "events": "하프,10km,5km",
       "location": "무주 등나무운동장",
       "organizer": "무주마라톤협회/평화마라톤조직위",
-      "phone": "010-2116-0148",
+      "phone": "010-7469-1526",
       "homepage": "http://mujumarathon.com",
       "detail_no": "41841",
       "source": "http://www.roadrun.co.kr/schedule/list.php (발견용)",
@@ -4292,6 +4330,25 @@
       "reg_end": "2026-10-28",
       "start_time": "09:00",
       "description": "제23회 한강시민마라톤대회가 여의도 한강공원 물빛무대 앞 광장에서\n개최됩니다. 한강에서의 2026년 마지막  도전~!!! 많은 참여 바랍니다."
+    },
+    {
+      "id": "roadrun-41851",
+      "name": "제20회 양산전국하프마라톤",
+      "date": "2026-12-06",
+      "events": "하프,10km,5km",
+      "location": "양산종합운동장",
+      "organizer": "양산시체육회, 양산육상연맹",
+      "phone": "051-867-0517",
+      "homepage": "http://ysmarathon.kr",
+      "detail_no": "41851",
+      "source": "http://www.roadrun.co.kr/schedule/list.php (발견용)",
+      "source_detail": "http://www.roadrun.co.kr/schedule/view.php?no=41851",
+      "region": "경남",
+      "reg_period": "2026년10월1일~2026년10월20일",
+      "start_time": "09:00",
+      "description": "양산에서 펼쳐지는 제20회 전국 하프마라톤!\n12월 6일, 양산종합운동장에서\n하프·10K·5K 러너들의 힘찬 레이스가 시작됩니다.\n가족, 친구, 동료와 함께 달리며\n건강과 즐거움을 나누는 특별한 하루,\n제20회 양산전국하프마라톤대회에서 만나보세요!",
+      "reg_start": "2026-10-01",
+      "reg_end": "2026-10-20"
     },
     {
       "id": "roadrun-41802",
