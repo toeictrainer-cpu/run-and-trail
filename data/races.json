@@ -1,27 +1,8 @@
 {
-  "collected_at": "2026-09-03T23:48:20",
+  "collected_at": "2026-09-04T07:39:08",
   "source": "http://www.roadrun.co.kr/schedule/list.php",
   "count": 235,
   "races": [
-    {
-      "id": "roadrun-41707",
-      "name": "2026 이일선마라톤",
-      "date": "2026-09-05",
-      "events": "10km,4.4km걷기",
-      "location": "울릉도내 나리분지",
-      "organizer": "이일선기념사업회",
-      "phone": "010-6353-7227",
-      "homepage": "http://forms.gle/6Y88RJqW6QCZkZoE7",
-      "detail_no": "41707",
-      "source": "http://www.roadrun.co.kr/schedule/list.php (발견용)",
-      "source_detail": "http://www.roadrun.co.kr/schedule/view.php?no=41707",
-      "region": "경북",
-      "reg_period": "2026년7월14일~2026년8월18일",
-      "reg_start": "2026-07-14",
-      "reg_end": "2026-08-18",
-      "start_time": "16:30",
-      "description": "슈바이처박사와 동역하시고 울릉도에서 18년간 의사로 목사로 농촌운동가로 봉사, 헌신하신 이일선박사님을 기리며 진행하는 특별한 마라톤대회"
-    },
     {
       "id": "roadrun-41639",
       "name": "제12회 I LOVE 방송대 마라톤",
@@ -1125,6 +1106,25 @@
       "reg_end": "2026-08-31",
       "start_time": "9:00",
       "description": "국가기간뉴스통신사 연합뉴스와 춘천시육상연맹이 공동 주최하는 ‘2026 춘천연합마라톤’이 오는 10월 3일 개천절, 강원 춘천시 남산면 엘리시안 강촌 일원과 북한강변에서 화려하게 개최됩니다.\nICT 전문기업 더픽트와 사단법인 한국스카우트연맹이 공동 주관하는 이번 대회는 ‘하늘을 달리다’라는 슬로건 아래, 강촌 지역에 활력을 불어넣었던 지난 2025년 첫 대회의 성공을 발판 삼아 한층 더 진화한 모습으로 러너들을 맞이합니다.\n2026년 대회의 가장 큰 변화는 첨단 기술을 통한 안전 강화와 실질적인 지역 상생입니다. 올해 대회는 드론과"
+    },
+    {
+      "id": "roadrun-41707",
+      "name": "2026 이일선마라톤",
+      "date": "2026-10-03",
+      "events": "10km,4.4km걷기",
+      "location": "울릉도내 나리분지",
+      "organizer": "이일선기념사업회",
+      "phone": "010-6353-7227",
+      "homepage": "http://forms.gle/6Y88RJqW6QCZkZoE7",
+      "detail_no": "41707",
+      "source": "http://www.roadrun.co.kr/schedule/list.php (발견용)",
+      "source_detail": "http://www.roadrun.co.kr/schedule/view.php?no=41707",
+      "region": "경북",
+      "reg_period": "2026년7월14일~2026년8월18일",
+      "reg_start": "2026-07-14",
+      "reg_end": "2026-08-18",
+      "start_time": "16:30",
+      "description": "슈바이처박사와 동역하시고 울릉도에서 18년간 의사로 목사로 농촌운동가로 봉사, 헌신하신 이일선박사님을 기리며 진행하는 특별한 마라톤대회"
     },
     {
       "id": "roadrun-41700",
