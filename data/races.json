@@ -1,7 +1,7 @@
 {
-  "collected_at": "2026-09-06T23:31:45",
+  "collected_at": "2026-09-07T07:50:43",
   "source": "http://www.roadrun.co.kr/schedule/list.php",
-  "count": 235,
+  "count": 241,
   "races": [
     {
       "id": "roadrun-41639",
@@ -1667,6 +1667,25 @@
       "description": "건강한세상을 꿈꾸며"
     },
     {
+      "id": "roadrun-41747",
+      "name": "진안트레일레이스",
+      "date": "2026-10-10",
+      "events": "16km,6km",
+      "location": "국립진안고원산림치유원",
+      "organizer": "주식회사 락앤런",
+      "phone": "063-353-2025",
+      "homepage": "http://rocknrun.kr",
+      "detail_no": "41747",
+      "source": "http://www.roadrun.co.kr/schedule/list.php (발견용)",
+      "source_detail": "http://www.roadrun.co.kr/schedule/view.php?no=41747",
+      "region": "전북",
+      "reg_period": "2026년8월10일~2026년9월15일",
+      "reg_start": "2026-08-10",
+      "reg_end": "2026-09-15",
+      "start_time": "8:00",
+      "description": "10월 10일, 10월 11일 양일간 동일종목 개최합니다."
+    },
+    {
       "id": "roadrun-41716",
       "name": "제주풍차런",
       "date": "2026-10-10",
@@ -1802,6 +1821,25 @@
       "description": "솔향, 바다향, 커피향이 가득한 강릉 해안선을 달린다.\n2026경포마라톤대회"
     },
     {
+      "id": "roadrun-41852",
+      "name": "함께런 러닝 페스티벌",
+      "date": "2026-10-11",
+      "events": "10km,5km",
+      "location": "미사경정공원 관리동 광장",
+      "organizer": "미사강변종합사회복지관, 진선재",
+      "phone": "02-515-9033",
+      "homepage": "http://runcop.com/event/hamkkerun",
+      "detail_no": "41852",
+      "source": "http://www.roadrun.co.kr/schedule/list.php (발견용)",
+      "source_detail": "http://www.roadrun.co.kr/schedule/view.php?no=41852",
+      "region": "경기",
+      "reg_period": "2026년9월4일~2026년9월20일",
+      "start_time": "오전",
+      "description": "누군가와 함께 달린다는건 정말 행복한 일입니다.\n누군가의 걸음이 느려도 괜찮습니다.\n우리는 같은 길을, 함께 걷고 있으니까요.\n함께라면 더 멀리. 함께Run!\n함께여서 기쁨 두배.\n함께 RUN!\n함께가는 멋진 우리.\n함께 RUN!",
+      "reg_start": "2026-09-04",
+      "reg_end": "2026-09-20"
+    },
+    {
       "id": "roadrun-41835",
       "name": "제22회  금천구청장배 건강달리기",
       "date": "2026-10-11",
@@ -1857,25 +1895,6 @@
       "reg_end": "2026-09-20",
       "start_time": "08:30",
       "description": "독립유공자 후손 기부 러닝\n10km 08:30 출발\n5Km 08:40 출발"
-    },
-    {
-      "id": "roadrun-41747",
-      "name": "진안고원 포레스티벌 Run & Heal",
-      "date": "2026-10-11",
-      "events": "16km,6km",
-      "location": "국립진안고원산림치유원",
-      "organizer": "주식회사 락앤런",
-      "phone": "063-353-2025",
-      "homepage": "http://rocknrun.kr",
-      "detail_no": "41747",
-      "source": "http://www.roadrun.co.kr/schedule/list.php (발견용)",
-      "source_detail": "http://www.roadrun.co.kr/schedule/view.php?no=41747",
-      "region": "전북",
-      "reg_period": "2026년8월10일~2026년9월15일",
-      "reg_start": "2026-08-10",
-      "reg_end": "2026-09-15",
-      "start_time": "8:00",
-      "description": "10월 10일, 10월 11일 양일간 동일종목 개최합니다."
     },
     {
       "id": "roadrun-41742",
@@ -2069,6 +2088,25 @@
       "reg_end": "2026-09-10",
       "start_time": "08:00",
       "description": "대형 산불을 방지하기 위해 산불 방지 활동으로 대회를 비영리로 합니다.\n산불 제로가 될 때까지 지속적으로 합니다.\n사진대금,칩. 메달50% 인상으로 어렵습니다.\n학생 자원봉사를 모집합니다."
+    },
+    {
+      "id": "roadrun-41857",
+      "name": "2026 억새노을마라톤대회",
+      "date": "2026-10-17",
+      "events": "10km,5km",
+      "location": "상무시민공원",
+      "organizer": "전남광주통합특별시 서구",
+      "phone": "061-375-1201",
+      "homepage": "http://xn--o80b37in2b02lesgqqcj12a.kr/index.asp",
+      "detail_no": "41857",
+      "source": "http://www.roadrun.co.kr/schedule/list.php (발견용)",
+      "source_detail": "http://www.roadrun.co.kr/schedule/view.php?no=41857",
+      "region": "광주",
+      "reg_period": "2026년9월8일~2026년9월28일",
+      "start_time": "16:00",
+      "description": "선착순 2,000명 접수 받습니다.\n많은 관심과 접수 부탁드립니다.",
+      "reg_start": "2026-09-08",
+      "reg_end": "2026-09-28"
     },
     {
       "id": "roadrun-41800",
@@ -2416,6 +2454,25 @@
       "reg_end": "2026-06-29",
       "start_time": "오전",
       "description": "선착순 5000명 1차 접수 마감 완료\n(4km 1,000명 / 10km 2,500명 / Half 1,500명)\n감사합니다!"
+    },
+    {
+      "id": "roadrun-41858",
+      "name": "불닭 버닝 트레일런",
+      "date": "2026-10-24",
+      "events": "5km,23K,13K",
+      "location": "대관령 삼양라운드힐",
+      "organizer": "프립, 러너킹",
+      "phone": "070-8843-0320",
+      "homepage": "http://burningfesta.com",
+      "detail_no": "41858",
+      "source": "http://www.roadrun.co.kr/schedule/list.php (발견용)",
+      "source_detail": "http://www.roadrun.co.kr/schedule/view.php?no=41858",
+      "region": "강원",
+      "reg_period": "2026년9월6일~2026년9월6일",
+      "start_time": "11:00",
+      "description": "달리고, 태우고,\n온전히 비워내는 버닝 페스타\n2026.10.24-25\n강원도 평창, 삼양라운드힐\n초원을 달리고, 밤을 불태우고,\n일상은 잠시 OFF\nRUN. BURN. RETREAT\n대관령의 낮과 밤을 통째로 즐기는 아웃도어 페스타.\n600만 평 초원을 달리다\n낮과 밤을 불태우는 에너지\n페포와 함께하는 밤의 절정\n비우고, 쉬고, 채워가는 하루\n23K, 13K, 5K",
+      "reg_start": "2026-09-06",
+      "reg_end": "2026-09-06"
     },
     {
       "id": "roadrun-41798",
@@ -2857,6 +2914,25 @@
       "description": "오티즘 레이스는 오티즘(자폐성 장애) 당사자와 비장애인이 함께 달리며 서로의 다름을 존중하고 이해하는 사회를 만드는 인식개선 캠페인입니다."
     },
     {
+      "id": "roadrun-41854",
+      "name": "2026 당진원런 마라톤",
+      "date": "2026-10-31",
+      "events": "10km,5km",
+      "location": "석문방조제 인근",
+      "organizer": "당진 마라톤 연합회",
+      "phone": "010-4520-2737",
+      "homepage": "http://www.instagram.com/drt_2022",
+      "detail_no": "41854",
+      "source": "http://www.roadrun.co.kr/schedule/list.php (발견용)",
+      "source_detail": "http://www.roadrun.co.kr/schedule/view.php?no=41854",
+      "region": "충남",
+      "reg_period": "2026년9월3일~2026년9월31일",
+      "start_time": "08:30",
+      "description": "당진 지역 러닝 동호인들이 함께 준비한 「당진 원런 2026」입니다.\n2026년 10월 31일(토) 오전 8시 30분, 석문방조제 인근에서 5km·10km 코스로 진행됩니다. 초보 러너부터 숙련된 러너까지 누구나 참여할 수 있으며, 참가자에게는 기록칩, 완주메달, 먹거리, 해나루쌀 및 즉석밥 등이 제공됩니다.\n러너들이 함께 달리고 즐길 수 있는 뜻깊은 축제가 될 수 있도록 정성껏 준비하겠습니다. 많은 관심과 참여 부탁드립니다.",
+      "reg_start": "2026-09-03",
+      "reg_end": "2026-09-30"
+    },
+    {
       "id": "roadrun-41790",
       "name": "26서울동행마라톤대회",
       "date": "2026-11-01",
@@ -2972,6 +3048,25 @@
       "start_time": "08:00",
       "description": "참가비 풀코스 15만원, 10km 10만원",
       "poster": "posters/roadrun-41259.jpg"
+    },
+    {
+      "id": "roadrun-41849",
+      "name": "런텐 13차 레이스 JUST RUN10 대전",
+      "date": "2026-11-07",
+      "events": "10km,5km",
+      "location": "엑스포다리 인근",
+      "organizer": "(주)러닝브레이커,전국러닝협회",
+      "phone": "042-710-2058",
+      "homepage": "http://runten.co.kr",
+      "detail_no": "41849",
+      "source": "http://www.roadrun.co.kr/schedule/list.php (발견용)",
+      "source_detail": "http://www.roadrun.co.kr/schedule/view.php?no=41849",
+      "region": "대전",
+      "reg_period": "2026년9월2일~2026년10월10일",
+      "start_time": "09:00",
+      "description": "PB 달성이 가장 쉬운 확실한 공식대회\n- 병목없는 레이스, 티어별 스타트\n- 업힐 없는 국내 최고의 평지 코스\n- 강변을 따라 달리는 힐링 코스\n- 차량통제 필요없는 안전한 코스\n- 10K, 5K 모두 기록칩 완벽 지원\n- 100명 이상의 경품, 최고 수준의 상금",
+      "reg_start": "2026-09-02",
+      "reg_end": "2026-10-10"
     },
     {
       "id": "roadrun-41819",
@@ -4330,6 +4425,25 @@
       "reg_end": "2026-10-28",
       "start_time": "09:00",
       "description": "제23회 한강시민마라톤대회가 여의도 한강공원 물빛무대 앞 광장에서\n개최됩니다. 한강에서의 2026년 마지막  도전~!!! 많은 참여 바랍니다."
+    },
+    {
+      "id": "roadrun-41856",
+      "name": "사바스티안 사웨 초청기념 월드레코드 마라톤축제",
+      "date": "2026-12-06",
+      "events": "10km",
+      "location": "금산세계인삼엑스포광장",
+      "organizer": "전국마라톤협회",
+      "phone": "042- 638-1080",
+      "homepage": "http://www.mara1080.com/event/ccf77de8-1b14-4170-afcb-c2eeaee1a78d",
+      "detail_no": "41856",
+      "source": "http://www.roadrun.co.kr/schedule/list.php (발견용)",
+      "source_detail": "http://www.roadrun.co.kr/schedule/view.php?no=41856",
+      "region": "충남",
+      "reg_period": "2026년9월8일~2026년10월30일",
+      "start_time": "10",
+      "description": "2026 런던마라톤 월드레코드 사바스티안 사웨 선수와 함께 하는 대회",
+      "reg_start": "2026-09-08",
+      "reg_end": "2026-10-30"
     },
     {
       "id": "roadrun-41851",
