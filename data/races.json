@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-09-08T12:21:23",
+  "collected_at": "2026-09-08T16:56:03",
   "source": "http://www.roadrun.co.kr/schedule/list.php",
   "count": 243,
   "races": [
@@ -4231,10 +4231,10 @@
       "source_detail": "http://www.roadrun.co.kr/schedule/view.php?no=41859",
       "region": "경기",
       "reg_period": "2026년9월9일~2026년9월30일",
-      "start_time": "09:00",
-      "description": "직장인의 건강, 기업의 조직문화, 지역의 활력과 국제 스포츠 교류가 함께 성장하는 지속 가능한 스포츠 생태계를 만들어갑니다.",
       "reg_start": "2026-09-09",
-      "reg_end": "2026-09-30"
+      "reg_end": "2026-09-30",
+      "start_time": "09:00",
+      "description": "직장인의 건강, 기업의 조직문화, 지역의 활력과 국제 스포츠 교류가 함께 성장하는 지속 가능한 스포츠 생태계를 만들어갑니다."
     },
     {
       "id": "roadrun-41766",
@@ -4535,10 +4535,10 @@
       "source_detail": "http://www.roadrun.co.kr/schedule/view.php?no=41860",
       "region": "서울",
       "reg_period": "2026년9월9일~2026년11월8일",
-      "start_time": "AM8:00",
-      "description": "함께 달리는 청춘, 함께 웃는 내일\n2026 청춘런\n청춘RUN 수익금의 일부는 초록우산을 통해\n자립준비청년의 주거, 교육, 취업, 생활 안정 등\n자립 지원 사업에 사용됩니다.\n당신의 한 걸음이 누군가의 새로운 시작이 됩니다.\n함께 달리며, 청춘의 내일을 응원해주세요!",
       "reg_start": "2026-09-09",
-      "reg_end": "2026-11-08"
+      "reg_end": "2026-11-08",
+      "start_time": "AM8:00",
+      "description": "함께 달리는 청춘, 함께 웃는 내일\n2026 청춘런\n청춘RUN 수익금의 일부는 초록우산을 통해\n자립준비청년의 주거, 교육, 취업, 생활 안정 등\n자립 지원 사업에 사용됩니다.\n당신의 한 걸음이 누군가의 새로운 시작이 됩니다.\n함께 달리며, 청춘의 내일을 응원해주세요!"
     },
     {
       "id": "roadrun-41812",
