@@ -1,7 +1,7 @@
 {
-  "collected_at": "2026-09-08T23:52:25",
+  "collected_at": "2026-09-09T07:48:26",
   "source": "http://www.roadrun.co.kr/schedule/list.php",
-  "count": 243,
+  "count": 244,
   "races": [
     {
       "id": "roadrun-41639",
@@ -2817,6 +2817,25 @@
       "reg_end": "2026-08-30",
       "start_time": "10시",
       "description": "많은 관심과 참여 부탁드립니다."
+    },
+    {
+      "id": "roadrun-41861",
+      "name": "2026 마블런",
+      "date": "2026-10-31",
+      "events": "10km,5km,2.5km",
+      "location": "인제스피디움",
+      "organizer": "원유니버스",
+      "phone": "02-338-0344",
+      "homepage": "http://marvelrunkorea2026.com/",
+      "detail_no": "41861",
+      "source": "http://www.roadrun.co.kr/schedule/list.php (발견용)",
+      "source_detail": "http://www.roadrun.co.kr/schedule/view.php?no=41861",
+      "region": "강원",
+      "reg_period": "2026년9월22일~2026년10월30일",
+      "start_time": "부문별",
+      "description": "MARVEL RUN\n달리는 순간부터, 즐기는 순간까지.\n하루 종일 펼쳐지는 MARVEL PLAYGROUND!\n레이싱의 짜릿함이 가득한 인제스피디움이 하루 동안 마블의 세계로 변신합니다.\n서킷 위를 직접 달리는 특별한 러닝부터 마블 히어로를 테마로 한 다양한 체험과 이벤트, 포토존과 엔터테인먼트까지.\n기록을 위해 달리는 러너도, 가족·친구와 특별한 하루를 보내고 싶은 사람도 모두 함께 즐길 수 있는 하루 종일 머물고 싶은 러닝 테마파크가 펼쳐집니다.\n달리는 즐거움과 마블을 경험하는 특별한 순간이 하나로 이어지는 하루.\nRUN. PLA",
+      "reg_start": "2026-09-22",
+      "reg_end": "2026-10-30"
     },
     {
       "id": "roadrun-41795",
