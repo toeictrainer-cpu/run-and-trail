@@ -1,7 +1,7 @@
 {
-  "collected_at": "2026-09-10T07:49:14",
+  "collected_at": "2026-09-10T12:26:59",
   "source": "http://www.roadrun.co.kr/schedule/list.php",
-  "count": 244,
+  "count": 247,
   "races": [
     {
       "id": "roadrun-41639",
@@ -3069,6 +3069,25 @@
       "poster": "posters/roadrun-41259.jpg"
     },
     {
+      "id": "roadrun-41862",
+      "name": "제40회 서봉기단축마라톤",
+      "date": "2026-11-06",
+      "events": "10km,10km, 개인,단체전,지역학생대회",
+      "location": "경북문경시민운동장(시내일원)",
+      "organizer": "문경시육상연맹",
+      "phone": "010-6711-2215",
+      "homepage": "http://cafe.daum.net/seobongmarathon",
+      "detail_no": "41862",
+      "source": "http://www.roadrun.co.kr/schedule/list.php (발견용)",
+      "source_detail": "http://www.roadrun.co.kr/schedule/view.php?no=41862",
+      "region": "경북",
+      "reg_period": "2026년9월10일~2026년11월5일",
+      "start_time": "11시",
+      "description": "10km 개인,단체전 , 지역학생대회",
+      "reg_start": "2026-09-10",
+      "reg_end": "2026-11-05"
+    },
+    {
       "id": "roadrun-41849",
       "name": "런텐 13차 레이스 JUST RUN10 대전",
       "date": "2026-11-07",
@@ -3086,6 +3105,25 @@
       "reg_end": "2026-10-10",
       "start_time": "09:00",
       "description": "PB 달성이 가장 쉬운 확실한 공식대회\n- 병목없는 레이스, 티어별 스타트\n- 업힐 없는 국내 최고의 평지 코스\n- 강변을 따라 달리는 힐링 코스\n- 차량통제 필요없는 안전한 코스\n- 10K, 5K 모두 기록칩 완벽 지원\n- 100명 이상의 경품, 최고 수준의 상금"
+    },
+    {
+      "id": "roadrun-41864",
+      "name": "2026 여수 일레븐브리지마라톤",
+      "date": "2026-11-07",
+      "events": "하프,10km",
+      "location": "여수시 화양면 조발전망대 광장",
+      "organizer": "일레븐브리지마라톤조직위원회",
+      "phone": "061-921-6600",
+      "homepage": "http://marathontest1.s3-website.ap-northeast-2.amazonaws.com/",
+      "detail_no": "41864",
+      "source": "http://www.roadrun.co.kr/schedule/list.php (발견용)",
+      "source_detail": "http://www.roadrun.co.kr/schedule/view.php?no=41864",
+      "region": "전남",
+      "reg_period": "2026년9월14일~2026년9월23일",
+      "start_time": "09:00",
+      "description": "2026 여수 일레븐브리지마라톤",
+      "reg_start": "2026-09-14",
+      "reg_end": "2026-09-23"
     },
     {
       "id": "roadrun-41819",
@@ -4064,6 +4102,25 @@
       "reg_end": "2026-10-30",
       "start_time": "09:00",
       "description": "가을철 산불조심을 대모산 구룡산에서 합니다.\n많은 참여를 당부합니다."
+    },
+    {
+      "id": "roadrun-41863",
+      "name": "2026 전마협 보성녹차 마라톤",
+      "date": "2026-11-21",
+      "events": "풀,하프,10km,5km",
+      "location": "보성군 공설운동장",
+      "organizer": "전국마라톤협회",
+      "phone": "042-638-1080",
+      "homepage": "http://mara1080.com/event/cf5801a7-c7fd-4152-998b-bf11f0ec3e26",
+      "detail_no": "41863",
+      "source": "http://www.roadrun.co.kr/schedule/list.php (발견용)",
+      "source_detail": "http://www.roadrun.co.kr/schedule/view.php?no=41863",
+      "region": "전남",
+      "reg_period": "2026년9월11일~2026년10월16일",
+      "start_time": "오전",
+      "description": "2026 전마협 보성녹차 마라톤대회\n선착순 6,000명 (오전 10시부터 접수예정)\n공인코스 실측완료!\n풀코스 완주자분들께는 공인코스 기록증이 제공됩니다.",
+      "reg_start": "2026-09-11",
+      "reg_end": "2026-10-16"
     },
     {
       "id": "roadrun-41789",
