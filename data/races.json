@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-09-10T12:26:59",
+  "collected_at": "2026-09-10T16:46:34",
   "source": "http://www.roadrun.co.kr/schedule/list.php",
   "count": 247,
   "races": [
@@ -3082,10 +3082,10 @@
       "source_detail": "http://www.roadrun.co.kr/schedule/view.php?no=41862",
       "region": "경북",
       "reg_period": "2026년9월10일~2026년11월5일",
-      "start_time": "11시",
-      "description": "10km 개인,단체전 , 지역학생대회",
       "reg_start": "2026-09-10",
-      "reg_end": "2026-11-05"
+      "reg_end": "2026-11-05",
+      "start_time": "11시",
+      "description": "10km 개인,단체전 , 지역학생대회"
     },
     {
       "id": "roadrun-41849",
@@ -3120,10 +3120,10 @@
       "source_detail": "http://www.roadrun.co.kr/schedule/view.php?no=41864",
       "region": "전남",
       "reg_period": "2026년9월14일~2026년9월23일",
-      "start_time": "09:00",
-      "description": "2026 여수 일레븐브리지마라톤",
       "reg_start": "2026-09-14",
-      "reg_end": "2026-09-23"
+      "reg_end": "2026-09-23",
+      "start_time": "09:00",
+      "description": "2026 여수 일레븐브리지마라톤"
     },
     {
       "id": "roadrun-41819",
@@ -4117,10 +4117,10 @@
       "source_detail": "http://www.roadrun.co.kr/schedule/view.php?no=41863",
       "region": "전남",
       "reg_period": "2026년9월11일~2026년10월16일",
-      "start_time": "오전",
-      "description": "2026 전마협 보성녹차 마라톤대회\n선착순 6,000명 (오전 10시부터 접수예정)\n공인코스 실측완료!\n풀코스 완주자분들께는 공인코스 기록증이 제공됩니다.",
       "reg_start": "2026-09-11",
-      "reg_end": "2026-10-16"
+      "reg_end": "2026-10-16",
+      "start_time": "오전",
+      "description": "2026 전마협 보성녹차 마라톤대회\n선착순 6,000명 (오전 10시부터 접수예정)\n공인코스 실측완료!\n풀코스 완주자분들께는 공인코스 기록증이 제공됩니다."
     },
     {
       "id": "roadrun-41789",
