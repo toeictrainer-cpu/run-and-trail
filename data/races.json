@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-09-09T23:51:20",
+  "collected_at": "2026-09-10T07:49:14",
   "source": "http://www.roadrun.co.kr/schedule/list.php",
   "count": 244,
   "races": [
@@ -2820,9 +2820,9 @@
     },
     {
       "id": "roadrun-41861",
-      "name": "2026 마블런",
+      "name": "마블런 2026",
       "date": "2026-10-31",
-      "events": "10km,5km,2.5km",
+      "events": "10km,5km,2.3km",
       "location": "인제스피디움",
       "organizer": "원유니버스",
       "phone": "02-338-0344",
@@ -4411,7 +4411,7 @@
       "id": "roadrun-41833",
       "name": "사바스티안 사웨 초청기념 월드레코드 마라톤축제",
       "date": "2026-12-05",
-      "events": "14km",
+      "events": "10km,5km",
       "location": "금산세계인삼엑스포광장",
       "organizer": "전국마라톤협회",
       "phone": "042- 638-1080",
