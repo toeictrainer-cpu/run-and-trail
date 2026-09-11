@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-09-11T12:25:00",
+  "collected_at": "2026-09-11T16:49:48",
   "source": "http://www.roadrun.co.kr/schedule/list.php",
   "count": 251,
   "races": [
@@ -4117,10 +4117,10 @@
       "source_detail": "http://www.roadrun.co.kr/schedule/view.php?no=41868",
       "region": "대구",
       "reg_period": "2026년9월11일~2026년10월20일",
-      "start_time": "09:00",
-      "description": "PB 달성이 가장 쉬운 확실한 공식대회\n- 병목없는 레이스, 티어별 스타트\n- 업힐 없는 국내 최고의 평지 코스\n- 강변을 따라 달리는 힐링 코스\n- 차량통제 필요없는 안전한 코스\n- 10K, 5K 모두 기록칩 완벽 지원\n- 100명 이상의 경품, 최고 수준의 상금",
       "reg_start": "2026-09-11",
-      "reg_end": "2026-10-20"
+      "reg_end": "2026-10-20",
+      "start_time": "09:00",
+      "description": "PB 달성이 가장 쉬운 확실한 공식대회\n- 병목없는 레이스, 티어별 스타트\n- 업힐 없는 국내 최고의 평지 코스\n- 강변을 따라 달리는 힐링 코스\n- 차량통제 필요없는 안전한 코스\n- 10K, 5K 모두 기록칩 완벽 지원\n- 100명 이상의 경품, 최고 수준의 상금"
     },
     {
       "id": "roadrun-41863",
@@ -4508,7 +4508,7 @@
       "date": "2026-12-05",
       "events": "하프,10km,5km,마니아",
       "location": "서울 가든파이브라이프 중앙광장",
-      "organizer": "(주)스포테인",
+      "organizer": "국민체육진흥협회",
       "phone": "02-3210-1666",
       "homepage": "http://www.irunman.kr",
       "detail_no": "41867",
