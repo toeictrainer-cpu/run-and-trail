@@ -1,7 +1,7 @@
 {
-  "collected_at": "2026-09-11T07:42:57",
+  "collected_at": "2026-09-11T12:25:00",
   "source": "http://www.roadrun.co.kr/schedule/list.php",
-  "count": 250,
+  "count": 251,
   "races": [
     {
       "id": "roadrun-41639",
@@ -4104,6 +4104,25 @@
       "description": "가을철 산불조심을 대모산 구룡산에서 합니다.\n많은 참여를 당부합니다."
     },
     {
+      "id": "roadrun-41868",
+      "name": "런텐 14차 JUST RUN10 대구",
+      "date": "2026-11-21",
+      "events": "10km,5km",
+      "location": "금호강 러닝성지",
+      "organizer": "(주)러닝브레이커,전국러닝협회",
+      "phone": "042-710-2058",
+      "homepage": "http://runten.co.kr",
+      "detail_no": "41868",
+      "source": "http://www.roadrun.co.kr/schedule/list.php (발견용)",
+      "source_detail": "http://www.roadrun.co.kr/schedule/view.php?no=41868",
+      "region": "대구",
+      "reg_period": "2026년9월11일~2026년10월20일",
+      "start_time": "09:00",
+      "description": "PB 달성이 가장 쉬운 확실한 공식대회\n- 병목없는 레이스, 티어별 스타트\n- 업힐 없는 국내 최고의 평지 코스\n- 강변을 따라 달리는 힐링 코스\n- 차량통제 필요없는 안전한 코스\n- 10K, 5K 모두 기록칩 완벽 지원\n- 100명 이상의 경품, 최고 수준의 상금",
+      "reg_start": "2026-09-11",
+      "reg_end": "2026-10-20"
+    },
+    {
       "id": "roadrun-41863",
       "name": "2026 전마협 보성녹차 Autumn 마라톤",
       "date": "2026-11-21",
@@ -4193,10 +4212,10 @@
       "source_detail": "http://www.roadrun.co.kr/schedule/view.php?no=41865",
       "region": "서울",
       "reg_period": "2026년9월1일~2026년10월21일",
-      "start_time": "07:30",
-      "description": "2026년 11월 21일(토) 서울 여의도공원에서 2026 아식스 서울신문 고프리런마라톤대회가 진행이 됩니다. 하프/10k코스로 운영이 되며\n많은 관심과 신청바랍니다.",
       "reg_start": "2026-09-01",
-      "reg_end": "2026-10-21"
+      "reg_end": "2026-10-21",
+      "start_time": "07:30",
+      "description": "2026년 11월 21일(토) 서울 여의도공원에서 2026 아식스 서울신문 고프리런마라톤대회가 진행이 됩니다. 하프/10k코스로 운영이 되며\n많은 관심과 신청바랍니다."
     },
     {
       "id": "roadrun-41832",
@@ -4497,10 +4516,10 @@
       "source_detail": "http://www.roadrun.co.kr/schedule/view.php?no=41867",
       "region": "서울",
       "reg_period": "2026년9월10일~2026년11월16일",
-      "start_time": "AM",
-      "description": "2026년 12월 5일(토) 제4회 가든파이브 라이프 레이스 마라톤대회를 가든파이브 라이프 중앙광장에서 개최하오니 달림이 및 동호회 여러분의 많은 성원과 참여 바랍니다.",
       "reg_start": "2026-09-10",
-      "reg_end": "2026-11-16"
+      "reg_end": "2026-11-16",
+      "start_time": "AM",
+      "description": "2026년 12월 5일(토) 제4회 가든파이브 라이프 레이스 마라톤대회를 가든파이브 라이프 중앙광장에서 개최하오니 달림이 및 동호회 여러분의 많은 성원과 참여 바랍니다."
     },
     {
       "id": "roadrun-41833",
@@ -4706,10 +4725,10 @@
       "source_detail": "http://www.roadrun.co.kr/schedule/view.php?no=41866",
       "region": "인천",
       "reg_period": "2026년9월11일~2026년11월20일",
-      "start_time": "오전9시",
-      "description": "올해의 마지막, 한 번 더 달립니다.\n차가운 겨울 공기 속에서 한 해의 마지막 레이스를 함께할\n「2026 ONE MORE RUN」이 개최됩니다.\n기록을 위한 도전도,\n즐겁게 달리는 러닝도 모두 좋습니다.\nONE MORE CHALLENGE.\nONE MORE MEMORY.\nONE MORE RUN.\n여러분의 많은 관심과 참여 바랍니다.",
       "reg_start": "2026-09-11",
-      "reg_end": "2026-11-20"
+      "reg_end": "2026-11-20",
+      "start_time": "오전9시",
+      "description": "올해의 마지막, 한 번 더 달립니다.\n차가운 겨울 공기 속에서 한 해의 마지막 레이스를 함께할\n「2026 ONE MORE RUN」이 개최됩니다.\n기록을 위한 도전도,\n즐겁게 달리는 러닝도 모두 좋습니다.\nONE MORE CHALLENGE.\nONE MORE MEMORY.\nONE MORE RUN.\n여러분의 많은 관심과 참여 바랍니다."
     },
     {
       "id": "roadrun-41784",
