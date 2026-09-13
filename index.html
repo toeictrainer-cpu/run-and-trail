@@ -94,6 +94,9 @@ function dday(dateStr) {
 // (new Date("2026-07-27")는 UTC 자정이라 접수 시작일 당일에 상태가 하루 늦게 바뀌는 버그가 있었음)
 const pd = s => new Date(s + "T00:00:00");
 
+// 최근 7일 내 사이트에 새로 등록된 대회
+const isNew = r => r.added_at && (today - pd(r.added_at)) / 86400000 < 7;
+
 function regStatus(r) {
   if (!r.reg_start && !r.reg_end) return null;
   const s = r.reg_start ? pd(r.reg_start) : null;
@@ -110,7 +113,7 @@ function filtered() {
     pd(r.date) >= today &&
     (!eventTests.length || eventTests.some(t => t(r.events, r.name))) &&
     (!regionSel.size || regionSel.has(r.region)) &&
-    (statusFilter === "all" || regStatus(r)?.cls === statusFilter) &&
+    (statusFilter === "all" || (statusFilter === "new" ? isNew(r) : regStatus(r)?.cls === statusFilter)) &&
     (!q || (r.name + r.location + r.events + (r.region || "")).toLowerCase().includes(q))
   );
 }
@@ -149,7 +152,7 @@ function renderCards(shown) {
         <span class="emoji-bg">${coverEmoji(r)}</span>
         <div class="top">
           <span class="datebox"><span class="m">${d.getMonth() + 1}월</span><br><span class="d">${d.getDate()}</span></span>
-          ${st ? `<span class="badge ${st.cls}">${st.label}</span>` : ""}
+          <span>${isNew(r) ? `<span class="badge new">NEW</span> ` : ""}${st ? `<span class="badge ${st.cls}">${st.label}</span>` : ""}</span>
         </div>
         <div class="name">${esc(r.name)}</div>
       </div>
@@ -181,7 +184,7 @@ function renderList(shown) {
             ${dd ? `<div class="dday ${dd==="D-DAY"||parseInt(dd.slice(2))<=7?"soon":""}">${dd}</div>` : ""}
           </div>
           <div class="info">
-            <div class="name">${esc(r.name)}${st ? `<span class="badge ${st.cls}">${st.label}</span>` : ""}</div>
+            <div class="name">${esc(r.name)}${isNew(r) ? `<span class="badge new">NEW</span>` : ""}${st ? `<span class="badge ${st.cls}">${st.label}</span>` : ""}</div>
             <div class="meta">${r.region ? `<span class="region-tag">${esc(r.region)}</span> · ` : ""}📍 ${esc(r.location)}${r.organizer ? ` · ${esc(r.organizer)}` : ""}</div>
             <div class="tags">${r.events.split(/[,/]/).map(e => e.trim()).filter(Boolean).slice(0,6).map(e => `<span class="tag">${esc(e)}</span>`).join("")}</div>
           </div>
@@ -318,6 +321,7 @@ setupChips("status-chips", [
   { key: "open", label: "접수중" },
   { key: "upcoming", label: "접수예정" },
   { key: "closed", label: "접수마감" },
+  { key: "new", label: "🆕 신규등록" },
 ], keys => statusFilter = keys[0] ?? "all");
 
 fetch("data/races.json")

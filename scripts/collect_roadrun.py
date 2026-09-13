@@ -185,6 +185,8 @@ def main() -> None:
             for k in DETAIL_FIELDS:
                 if k in cached:
                     race[k] = cached[k]
+        # 사이트에 처음 등장한 날 기록 (NEW 배지용) — 기존 대회는 기존 값 유지
+        race["added_at"] = cached.get("added_at") or date.today().isoformat()
         # 포스터는 별도 스크립트(fetch_posters.py)가 채우므로 항상 보존
         if cached.get("poster"):
             race["poster"] = cached["poster"]
