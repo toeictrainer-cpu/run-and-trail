@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-09-13T16:45:16",
+  "collected_at": "2026-09-13T23:54:03",
   "source": "http://www.roadrun.co.kr/schedule/list.php",
   "count": 251,
   "races": [
@@ -4318,7 +4318,7 @@
     },
     {
       "id": "roadrun-41868",
-      "name": "런텐 14차 JUST RUN10 대구",
+      "name": "런텐 14차 레이스 JUST RUN10 대구",
       "date": "2026-11-21",
       "events": "10km,5km",
       "location": "금호강 러닝성지",
