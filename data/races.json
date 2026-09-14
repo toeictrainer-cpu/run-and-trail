@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-09-13T23:54:03",
+  "collected_at": "2026-09-14T08:29:30",
   "source": "http://www.roadrun.co.kr/schedule/list.php",
   "count": 251,
   "races": [
@@ -3275,7 +3275,7 @@
       "location": "여수시 화양면 조발전망대 광장",
       "organizer": "일레븐브리지마라톤조직위원회",
       "phone": "061-921-6600",
-      "homepage": "http://marathontest1.s3-website.ap-northeast-2.amazonaws.com/",
+      "homepage": "http://11bridge.com",
       "detail_no": "41864",
       "source": "http://www.roadrun.co.kr/schedule/list.php (발견용)",
       "source_detail": "http://www.roadrun.co.kr/schedule/view.php?no=41864",
@@ -4742,7 +4742,7 @@
       "date": "2026-12-05",
       "events": "하프,10km,5km,마니아",
       "location": "서울 가든파이브라이프 중앙광장",
-      "organizer": "국민체육진흥협회",
+      "organizer": "스포테인",
       "phone": "02-3210-1666",
       "homepage": "http://www.irunman.kr",
       "detail_no": "41867",
