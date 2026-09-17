@@ -1,7 +1,7 @@
 {
-  "collected_at": "2026-09-17T00:09:14",
+  "collected_at": "2026-09-17T08:20:03",
   "source": "http://www.roadrun.co.kr/schedule/list.php",
-  "count": 256,
+  "count": 258,
   "races": [
     {
       "id": "roadrun-41639",
@@ -2623,6 +2623,26 @@
       "added_at": "2026-09-05"
     },
     {
+      "id": "roadrun-41874",
+      "name": "TOUR 5K & Beach Ploggin망상",
+      "date": "2026-10-24",
+      "events": "5km,2K 플로깅",
+      "location": "동해시 망상해수욕장",
+      "organizer": "스포노베이션",
+      "phone": "010-5535-2432",
+      "homepage": "http://mypb.info/competition/666",
+      "detail_no": "41874",
+      "source": "http://www.roadrun.co.kr/schedule/list.php (발견용)",
+      "source_detail": "http://www.roadrun.co.kr/schedule/view.php?no=41874",
+      "region": "강원",
+      "reg_period": "2026년9월16일~2026년10월17일",
+      "start_time": "08:00",
+      "description": "동해시 망상 해수욕장에서 열리는 TOUR 시리즈의 첫번째 대회 입니다.",
+      "reg_start": "2026-09-16",
+      "reg_end": "2026-10-17",
+      "added_at": "2026-09-17"
+    },
+    {
       "id": "roadrun-41858",
       "name": "불닭 버닝 트레일런",
       "date": "2026-10-24",
@@ -4735,6 +4755,26 @@
       "start_time": "7:30",
       "description": "행사명\n목욕런 2026\n행사일\n2026. 11. 28(토) 오전 8시 00분\n신청기간\n1차 신청 기간: 2026.8.10(월) ~ 2026.8.16(일)\n2차 신청 기간: 2026.8.24(월) ~ 2026.8.30(일)\n행사장소\n상암 월드컵공원(평화광장 집결)\n코스\n10km(10킬로미터), 5km(5킬로미터)\n참가비\n50,000원(5km), 60,000원(10km)\n참가자 지급품\n콜드플런지, 피니시팩(기념품), 기록칩, 메달, 음료, 간식 등\n* 지급품 목록은 변경될 수 있습니다.",
       "added_at": "2026-09-05"
+    },
+    {
+      "id": "roadrun-41879",
+      "name": "2026 원주 치악마라톤",
+      "date": "2026-11-29",
+      "events": "하프,10km,5km",
+      "location": "원주종합운동장",
+      "organizer": "강원도민일보, 원주시육상연맹",
+      "phone": "031-821-9951",
+      "homepage": "http://wonju.raceplan.co.kr/",
+      "detail_no": "41879",
+      "source": "http://www.roadrun.co.kr/schedule/list.php (발견용)",
+      "source_detail": "http://www.roadrun.co.kr/schedule/view.php?no=41879",
+      "region": "강원",
+      "reg_period": "2026년9월17일~2026년10월30일",
+      "start_time": "오전",
+      "description": "많은 참여바랍니다\n감사합니다",
+      "reg_start": "2026-09-17",
+      "reg_end": "2026-10-30",
+      "added_at": "2026-09-17"
     },
     {
       "id": "roadrun-41804",
