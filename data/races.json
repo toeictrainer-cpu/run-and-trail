@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-09-17T08:20:03",
+  "collected_at": "2026-09-17T12:51:22",
   "source": "http://www.roadrun.co.kr/schedule/list.php",
   "count": 258,
   "races": [
@@ -755,26 +755,6 @@
       "reg_end": "2026-08-09",
       "start_time": "16:30",
       "description": "경주의 보물을 찾아 달리는 선셋 마라톤\n「2026 무한도전 Run in 경주」\n장소 : 경주시민운동장\n일시 : 9월 19일 (토) 16:30\n컨셉 : 보물찾기 – 포졸과 도적",
-      "added_at": "2026-09-05"
-    },
-    {
-      "id": "roadrun-41744",
-      "name": "2026 여수낭도트레일",
-      "date": "2026-09-19",
-      "events": "13km",
-      "location": "여수 화정면낭도출장소앞 주차장",
-      "organizer": "파브코리아",
-      "phone": "010-3526-9120",
-      "homepage": "http://www.mtrailrun.kr/",
-      "detail_no": "41744",
-      "source": "http://www.roadrun.co.kr/schedule/list.php (발견용)",
-      "source_detail": "http://www.roadrun.co.kr/schedule/view.php?no=41744",
-      "region": "전남",
-      "reg_period": "2026년7월28일~2026년9월18일",
-      "reg_start": "2026-07-28",
-      "reg_end": "2026-09-18",
-      "start_time": "09:00",
-      "description": "수천만 년 전 백악기 공룡들의 숨결이 그대로 남아있는 공룡 발자국 화석지, 다도해의 푸른 절경을 품은 해안 트레킹 코스, 자연과 문화가 어우러진 천혜의 섬 낭도를 한바퀴 도는 힐링 트레일 런",
       "added_at": "2026-09-05"
     },
     {
@@ -2636,10 +2616,10 @@
       "source_detail": "http://www.roadrun.co.kr/schedule/view.php?no=41874",
       "region": "강원",
       "reg_period": "2026년9월16일~2026년10월17일",
-      "start_time": "08:00",
-      "description": "동해시 망상 해수욕장에서 열리는 TOUR 시리즈의 첫번째 대회 입니다.",
       "reg_start": "2026-09-16",
       "reg_end": "2026-10-17",
+      "start_time": "08:00",
+      "description": "동해시 망상 해수욕장에서 열리는 TOUR 시리즈의 첫번째 대회 입니다.",
       "added_at": "2026-09-17"
     },
     {
@@ -4770,10 +4750,10 @@
       "source_detail": "http://www.roadrun.co.kr/schedule/view.php?no=41879",
       "region": "강원",
       "reg_period": "2026년9월17일~2026년10월30일",
-      "start_time": "오전",
-      "description": "많은 참여바랍니다\n감사합니다",
       "reg_start": "2026-09-17",
       "reg_end": "2026-10-30",
+      "start_time": "오전",
+      "description": "많은 참여바랍니다\n감사합니다",
       "added_at": "2026-09-17"
     },
     {
@@ -4794,6 +4774,26 @@
       "reg_end": "2026-10-25",
       "start_time": "08ㅣ:40",
       "description": "2,000년 가야의 역사 위를 달리다\n전설의 땅 장유에서 펼쳐지는 시원한 레이스!\n탁 트인 장유로에서 하프 / 10km / 5km 코스의 매력을 만끽하세요.\n장애인과 비장애인이 함께하는 어울림 마라톤입니다 :)",
+      "added_at": "2026-09-05"
+    },
+    {
+      "id": "roadrun-41744",
+      "name": "2026 대전보문산트레일",
+      "date": "2026-11-29",
+      "events": "15km,10km",
+      "location": "오월드 주차장",
+      "organizer": "명품 파브코리아",
+      "phone": "010-3526-9120",
+      "homepage": "http://www.mtrailrun.kr/",
+      "detail_no": "41744",
+      "source": "http://www.roadrun.co.kr/schedule/list.php (발견용)",
+      "source_detail": "http://www.roadrun.co.kr/schedule/view.php?no=41744",
+      "region": "전남",
+      "reg_period": "2026년7월28일~2026년9월18일",
+      "reg_start": "2026-07-28",
+      "reg_end": "2026-09-18",
+      "start_time": "09:00",
+      "description": "수천만 년 전 백악기 공룡들의 숨결이 그대로 남아있는 공룡 발자국 화석지, 다도해의 푸른 절경을 품은 해안 트레킹 코스, 자연과 문화가 어우러진 천혜의 섬 낭도를 한바퀴 도는 힐링 트레일 런",
       "added_at": "2026-09-05"
     },
     {
