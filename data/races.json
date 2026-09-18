@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-09-18T07:55:51",
+  "collected_at": "2026-09-18T12:26:30",
   "source": "http://www.roadrun.co.kr/schedule/list.php",
   "count": 259,
   "races": [
@@ -3018,10 +3018,10 @@
       "source_detail": "http://www.roadrun.co.kr/schedule/view.php?no=41882",
       "region": "인천",
       "reg_period": "2026년9월1일~2026년10월20일",
-      "start_time": "19:00",
-      "description": "가을밤, 노을과 음악으로 물드는 2026 인천나이트레이스에 초대합니다",
       "reg_start": "2026-09-01",
       "reg_end": "2026-10-20",
+      "start_time": "19:00",
+      "description": "가을밤, 노을과 음악으로 물드는 2026 인천나이트레이스에 초대합니다",
       "added_at": "2026-09-18"
     },
     {
@@ -3178,10 +3178,10 @@
       "source_detail": "http://www.roadrun.co.kr/schedule/view.php?no=41871",
       "region": "서울",
       "reg_period": "2026년9월21일~2026년10월14일",
-      "start_time": "10km_07:30,",
-      "description": "JUSTICE RUN SEOCHO 2026\n정의를 잇고, 미래를 달리다.\n법률신문과 함께하는 제1회 JUSTICE RUN SEOCHO 2026",
       "reg_start": "2026-09-21",
       "reg_end": "2026-10-14",
+      "start_time": "10km_07:30,",
+      "description": "JUSTICE RUN SEOCHO 2026\n정의를 잇고, 미래를 달리다.\n법률신문과 함께하는 제1회 JUSTICE RUN SEOCHO 2026",
       "added_at": "2026-09-18"
     },
     {
