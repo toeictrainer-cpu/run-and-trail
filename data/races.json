@@ -1,7 +1,7 @@
 {
-  "collected_at": "2026-09-17T23:55:42",
+  "collected_at": "2026-09-18T07:55:51",
   "source": "http://www.roadrun.co.kr/schedule/list.php",
-  "count": 258,
+  "count": 259,
   "races": [
     {
       "id": "roadrun-41639",
@@ -3005,6 +3005,26 @@
       "added_at": "2026-09-05"
     },
     {
+      "id": "roadrun-41882",
+      "name": "2026 INCHEON NIGHT RACE",
+      "date": "2026-10-31",
+      "events": "하프,10km,5km,8.15km",
+      "location": "인천 영정구 중산동 하늘구름광",
+      "organizer": "국민건강진흥원/인천광역시걷기협",
+      "phone": "070-4098-1114",
+      "homepage": "http://icnr.kr",
+      "detail_no": "41882",
+      "source": "http://www.roadrun.co.kr/schedule/list.php (발견용)",
+      "source_detail": "http://www.roadrun.co.kr/schedule/view.php?no=41882",
+      "region": "인천",
+      "reg_period": "2026년9월1일~2026년10월20일",
+      "start_time": "19:00",
+      "description": "가을밤, 노을과 음악으로 물드는 2026 인천나이트레이스에 초대합니다",
+      "reg_start": "2026-09-01",
+      "reg_end": "2026-10-20",
+      "added_at": "2026-09-18"
+    },
+    {
       "id": "roadrun-41861",
       "name": "마블런 2026",
       "date": "2026-10-31",
@@ -3143,6 +3163,26 @@
       "start_time": "08:30",
       "description": "당진 지역 러닝 동호인들이 함께 준비한 「당진 원런 2026」입니다.\n2026년 10월 31일(토) 오전 8시 30분, 석문방조제 인근에서 5km·10km 코스로 진행됩니다. 초보 러너부터 숙련된 러너까지 누구나 참여할 수 있으며, 참가자에게는 기록칩, 완주메달, 먹거리, 해나루쌀 및 즉석밥 등이 제공됩니다.\n러너들이 함께 달리고 즐길 수 있는 뜻깊은 축제가 될 수 있도록 정성껏 준비하겠습니다. 많은 관심과 참여 부탁드립니다.",
       "added_at": "2026-09-07"
+    },
+    {
+      "id": "roadrun-41871",
+      "name": "JUSTICE RUN SEOCHO 2026",
+      "date": "2026-11-01",
+      "events": "10km,5km",
+      "location": "반포한강공원 달빛광장",
+      "organizer": "법률신문",
+      "phone": "010-9573-7669",
+      "homepage": "http://justicerun.kr/",
+      "detail_no": "41871",
+      "source": "http://www.roadrun.co.kr/schedule/list.php (발견용)",
+      "source_detail": "http://www.roadrun.co.kr/schedule/view.php?no=41871",
+      "region": "서울",
+      "reg_period": "2026년9월21일~2026년10월14일",
+      "start_time": "10km_07:30,",
+      "description": "JUSTICE RUN SEOCHO 2026\n정의를 잇고, 미래를 달리다.\n법률신문과 함께하는 제1회 JUSTICE RUN SEOCHO 2026",
+      "reg_start": "2026-09-21",
+      "reg_end": "2026-10-14",
+      "added_at": "2026-09-18"
     },
     {
       "id": "roadrun-41790",
@@ -4898,13 +4938,13 @@
     },
     {
       "id": "roadrun-41833",
-      "name": "사바스티안 사웨 초청기념 월드레코드 마라톤축제",
+      "name": "전국마라톤협회 2026 골드런 레이스",
       "date": "2026-12-05",
-      "events": "10km,5km",
+      "events": "하프,10km,5km",
       "location": "금산세계인삼엑스포광장",
       "organizer": "전국마라톤협회",
       "phone": "042- 638-1080",
-      "homepage": "http://mara1080.com/event/ccf77de8-1b14-4170-afcb-c2eeaee1a78d/guide/overview",
+      "homepage": "http://mara1080.com/event/df4b4e7d-4fbc-4843-858c-f15c032e92cb",
       "detail_no": "41833",
       "source": "http://www.roadrun.co.kr/schedule/list.php (발견용)",
       "source_detail": "http://www.roadrun.co.kr/schedule/view.php?no=41833",
@@ -4955,26 +4995,6 @@
       "start_time": "09:00",
       "description": "제23회 한강시민마라톤대회가 여의도 한강공원 물빛무대 앞 광장에서\n개최됩니다. 한강에서의 2026년 마지막  도전~!!! 많은 참여 바랍니다.",
       "added_at": "2026-09-05"
-    },
-    {
-      "id": "roadrun-41856",
-      "name": "사바스티안 사웨 초청기념 월드레코드 마라톤축제",
-      "date": "2026-12-06",
-      "events": "10km",
-      "location": "금산세계인삼엑스포광장",
-      "organizer": "전국마라톤협회",
-      "phone": "042- 638-1080",
-      "homepage": "http://www.mara1080.com/event/ccf77de8-1b14-4170-afcb-c2eeaee1a78d",
-      "detail_no": "41856",
-      "source": "http://www.roadrun.co.kr/schedule/list.php (발견용)",
-      "source_detail": "http://www.roadrun.co.kr/schedule/view.php?no=41856",
-      "region": "충남",
-      "reg_period": "2026년9월8일~2026년10월30일",
-      "reg_start": "2026-09-08",
-      "reg_end": "2026-10-30",
-      "start_time": "10",
-      "description": "2026 런던마라톤 월드레코드 사바스티안 사웨 선수와 함께 하는 대회",
-      "added_at": "2026-09-07"
     },
     {
       "id": "roadrun-41851",
