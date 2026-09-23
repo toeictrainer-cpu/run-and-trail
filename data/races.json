@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-09-23T00:02:46",
+  "collected_at": "2026-09-23T08:13:43",
   "source": "http://www.roadrun.co.kr/schedule/list.php",
   "count": 269,
   "races": [
@@ -2586,7 +2586,7 @@
       "name": "2026 아시아 오픈 마라톤",
       "date": "2026-10-18",
       "events": "하프,10km",
-      "location": "광화문 광장(예정)",
+      "location": "광화문 광장",
       "organizer": "아시아투데이",
       "phone": "02-2647-4488",
       "homepage": "http://asiarun.kr/",
@@ -2649,7 +2649,7 @@
       "events": "5km,2K 플로깅",
       "location": "동해시 망상해수욕장",
       "organizer": "스포노베이션",
-      "phone": "010-5535-2432",
+      "phone": "02-0000-0000",
       "homepage": "http://mypb.info/competition/666",
       "detail_no": "41874",
       "source": "http://www.roadrun.co.kr/schedule/list.php (발견용)",
