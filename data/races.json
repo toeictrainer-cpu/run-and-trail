@@ -1,7 +1,7 @@
 {
-  "collected_at": "2026-09-28T00:18:53",
+  "collected_at": "2026-09-28T09:17:34",
   "source": "http://www.roadrun.co.kr/schedule/list.php",
-  "count": 273,
+  "count": 272,
   "races": [
     {
       "id": "roadrun-41639",
@@ -2012,26 +2012,6 @@
       "reg_end": "2026-09-04",
       "start_time": "08:30",
       "description": "서해구 출범기념\n2026 인천로봇랜드 퓨처런\n8월 7일(금) 오후 2시 접수!",
-      "added_at": "2026-09-05"
-    },
-    {
-      "id": "roadrun-41785",
-      "name": "2026 대학생RUN",
-      "date": "2026-10-11",
-      "events": "10km,5km",
-      "location": "구일역 안양천 축구장",
-      "organizer": "대학문화유니온",
-      "phone": "010-4737-7125",
-      "homepage": "http://www.univrun.co.kr/",
-      "detail_no": "41785",
-      "source": "http://www.roadrun.co.kr/schedule/list.php (발견용)",
-      "source_detail": "http://www.roadrun.co.kr/schedule/view.php?no=41785",
-      "region": "서울",
-      "reg_period": "2026년8월10일~2026년9월20일",
-      "reg_start": "2026-08-10",
-      "reg_end": "2026-09-20",
-      "start_time": "08:30",
-      "description": "독립유공자 후손 기부 러닝\n10km 08:30 출발\n5Km 08:40 출발",
       "added_at": "2026-09-05"
     },
     {
