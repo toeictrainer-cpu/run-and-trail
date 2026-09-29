@@ -1,7 +1,7 @@
 {
-  "collected_at": "2026-09-29T09:24:42",
+  "collected_at": "2026-09-29T14:25:49",
   "source": "http://www.roadrun.co.kr/schedule/list.php",
-  "count": 273,
+  "count": 274,
   "races": [
     {
       "id": "roadrun-41639",
@@ -1960,7 +1960,7 @@
       "date": "2026-10-11",
       "events": "10km,5km",
       "location": "미사경정공원 관리동 광장",
-      "organizer": "미사강변종합사회복지관, 진선재",
+      "organizer": "미사강변사회복지관,진선재단",
       "phone": "02-515-9033",
       "homepage": "http://runcop.com/event/hamkkerun",
       "detail_no": "41852",
@@ -4735,6 +4735,26 @@
       "start_time": "7:00",
       "description": "42km, 30km, 12km\n남해트레일레이스입니다.",
       "added_at": "2026-09-05"
+    },
+    {
+      "id": "roadrun-41899",
+      "name": "K-거상 트레일 러닝 대회",
+      "date": "2026-11-21",
+      "events": "19km,16km,4km",
+      "location": "가례초등학교(경남 의령)",
+      "organizer": "경남관광재단",
+      "phone": "070-4443-4392",
+      "homepage": "http://www.kpioneertrailrun.co.kr/",
+      "detail_no": "41899",
+      "source": "http://www.roadrun.co.kr/schedule/list.php (발견용)",
+      "source_detail": "http://www.roadrun.co.kr/schedule/view.php?no=41899",
+      "region": "경남",
+      "reg_period": "2026년9월28일~2026년11월21일",
+      "start_time": "09:00",
+      "description": "K-거상 트레일 러닝 대회 입니다 많은 관심 부탁 드립니다",
+      "reg_start": "2026-09-28",
+      "reg_end": "2026-11-21",
+      "added_at": "2026-09-29"
     },
     {
       "id": "roadrun-41673",
