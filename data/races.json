@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-09-29T01:30:17",
+  "collected_at": "2026-09-29T09:24:42",
   "source": "http://www.roadrun.co.kr/schedule/list.php",
   "count": 273,
   "races": [
@@ -5010,10 +5010,10 @@
       "source_detail": "http://www.roadrun.co.kr/schedule/view.php?no=41898",
       "region": "서울",
       "reg_period": "2026년9월28일~2026년11월11일",
-      "start_time": "08:30",
-      "description": "중랑천 체육공원 (생활체육 에어로빅장, 중곡동 물놀이장 옆)\n10km 단일종목, 선착순 600명",
       "reg_start": "2026-09-28",
       "reg_end": "2026-11-11",
+      "start_time": "08:30",
+      "description": "중랑천 체육공원 (생활체육 에어로빅장, 중곡동 물놀이장 옆)\n10km 단일종목, 선착순 600명",
       "added_at": "2026-09-29"
     },
     {
