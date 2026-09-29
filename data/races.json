@@ -1,7 +1,7 @@
 {
-  "collected_at": "2026-09-28T19:54:48",
+  "collected_at": "2026-09-29T01:30:17",
   "source": "http://www.roadrun.co.kr/schedule/list.php",
-  "count": 272,
+  "count": 273,
   "races": [
     {
       "id": "roadrun-41639",
@@ -4620,11 +4620,11 @@
       "id": "roadrun-41885",
       "name": "2026 GETR구미 에코 트레일레이스",
       "date": "2026-11-21",
-      "events": "21km,10km",
+      "events": "10km,21km,키즈레이스",
       "location": "구미시 경운대학교",
       "organizer": "구미러닝크루",
       "phone": "010-7152-1910",
-      "homepage": "http://cafe.naver.com/bikewin/12",
+      "homepage": "http://naver.me/59lo1fB8",
       "detail_no": "41885",
       "source": "http://www.roadrun.co.kr/schedule/list.php (발견용)",
       "source_detail": "http://www.roadrun.co.kr/schedule/view.php?no=41885",
@@ -4995,6 +4995,26 @@
       "start_time": "09:00",
       "description": "참가자들이 편하게 달릴수 있는 대회를 만들겠습니다.\n병목없는 마라톤대회",
       "added_at": "2026-09-22"
+    },
+    {
+      "id": "roadrun-41898",
+      "name": "제9회 광진구청장배 육상대회",
+      "date": "2026-11-29",
+      "events": "10km",
+      "location": "중곡동 중랑천 물놀이장 옆",
+      "organizer": "광진구체육회(광진구육상연맹)",
+      "phone": "02-457-0121",
+      "homepage": "http://ksgaaf.co.kr/",
+      "detail_no": "41898",
+      "source": "http://www.roadrun.co.kr/schedule/list.php (발견용)",
+      "source_detail": "http://www.roadrun.co.kr/schedule/view.php?no=41898",
+      "region": "서울",
+      "reg_period": "2026년9월28일~2026년11월11일",
+      "start_time": "08:30",
+      "description": "중랑천 체육공원 (생활체육 에어로빅장, 중곡동 물놀이장 옆)\n10km 단일종목, 선착순 600명",
+      "reg_start": "2026-09-28",
+      "reg_end": "2026-11-11",
+      "added_at": "2026-09-29"
     },
     {
       "id": "roadrun-41879",
