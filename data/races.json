@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-09-29T14:25:49",
+  "collected_at": "2026-09-29T18:23:21",
   "source": "http://www.roadrun.co.kr/schedule/list.php",
   "count": 274,
   "races": [
@@ -4750,10 +4750,10 @@
       "source_detail": "http://www.roadrun.co.kr/schedule/view.php?no=41899",
       "region": "경남",
       "reg_period": "2026년9월28일~2026년11월21일",
-      "start_time": "09:00",
-      "description": "K-거상 트레일 러닝 대회 입니다 많은 관심 부탁 드립니다",
       "reg_start": "2026-09-28",
       "reg_end": "2026-11-21",
+      "start_time": "09:00",
+      "description": "K-거상 트레일 러닝 대회 입니다 많은 관심 부탁 드립니다",
       "added_at": "2026-09-29"
     },
     {
