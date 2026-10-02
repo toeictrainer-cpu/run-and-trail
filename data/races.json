@@ -1,7 +1,7 @@
 {
-  "collected_at": "2026-10-02T01:18:26",
+  "collected_at": "2026-10-02T09:17:11",
   "source": "http://www.roadrun.co.kr/schedule/list.php",
-  "count": 219,
+  "count": 218,
   "races": [
     {
       "id": "roadrun-41722",
@@ -3554,26 +3554,6 @@
       "start_time": "09:00",
       "description": "PB 달성이 가장 쉬운 확실한 공식대회\n- 병목없는 레이스, 티어별 스타트\n- 업힐 없는 국내 최고의 평지 코스\n- 강변을 따라 달리는 힐링 코스\n- 차량통제 필요없는 안전한 코스\n- 10K, 5K 모두 기록칩 완벽 지원\n- 100명 이상의 경품, 최고 수준의 상금",
       "added_at": "2026-09-11"
-    },
-    {
-      "id": "roadrun-41863",
-      "name": "2026 전마협 보성녹차 Autumn 마라톤",
-      "date": "2026-11-21",
-      "events": "풀,하프,10km,5km",
-      "location": "보성군 공설운동장",
-      "organizer": "전국마라톤협회",
-      "phone": "042-638-1080",
-      "homepage": "http://mara1080.com/event/cf5801a7-c7fd-4152-998b-bf11f0ec3e26",
-      "detail_no": "41863",
-      "source": "http://www.roadrun.co.kr/schedule/list.php (발견용)",
-      "source_detail": "http://www.roadrun.co.kr/schedule/view.php?no=41863",
-      "region": "전남",
-      "reg_period": "2026년9월11일~2026년10월16일",
-      "reg_start": "2026-09-11",
-      "reg_end": "2026-10-16",
-      "start_time": "오전",
-      "description": "2026 전마협 보성녹차 마라톤대회\n선착순 6,000명 (오전 10시부터 접수예정)\n공인코스 실측완료!\n풀코스 완주자분들께는 공인코스 기록증이 제공됩니다.",
-      "added_at": "2026-09-10"
     },
     {
       "id": "roadrun-41789",
