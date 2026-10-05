@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-10-05T00:28:18",
+  "collected_at": "2026-10-05T09:56:42",
   "source": "http://www.roadrun.co.kr/schedule/list.php",
   "count": 218,
   "races": [
@@ -915,7 +915,7 @@
     },
     {
       "id": "roadrun-41794",
-      "name": "제6회 영등포구청장배 육상대회",
+      "name": "제6회 영등포구청장배 육상대회 (마감)",
       "date": "2026-10-11",
       "events": "10km,5km",
       "location": "신정교하부육상트랙구장",
