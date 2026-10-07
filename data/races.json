@@ -1,7 +1,7 @@
 {
-  "collected_at": "2026-10-07T01:13:47",
+  "collected_at": "2026-10-07T09:41:59",
   "source": "http://www.roadrun.co.kr/schedule/list.php",
-  "count": 222,
+  "count": 223,
   "races": [
     {
       "id": "roadrun-41722",
@@ -3144,10 +3144,10 @@
       "source_detail": "http://www.roadrun.co.kr/schedule/view.php?no=41906",
       "region": "서울",
       "reg_period": "2026년10월1일~2026년11월8일",
-      "start_time": "09:00",
-      "description": "미래세대를 위한 환경교육 기부 마라톤",
       "reg_start": "2026-10-01",
       "reg_end": "2026-11-08",
+      "start_time": "09:00",
+      "description": "미래세대를 위한 환경교육 기부 마라톤",
       "added_at": "2026-10-07"
     },
     {
@@ -3244,10 +3244,10 @@
       "source_detail": "http://www.roadrun.co.kr/schedule/view.php?no=41903",
       "region": "대구",
       "reg_period": "2026년10월2일~2026년10월30일",
-      "start_time": "09:00",
-      "description": "2026 영남일보 혁신도시 마라톤 많은 참여 부탁 드립니다.",
       "reg_start": "2026-10-02",
       "reg_end": "2026-10-30",
+      "start_time": "09:00",
+      "description": "2026 영남일보 혁신도시 마라톤 많은 참여 부탁 드립니다.",
       "added_at": "2026-10-07"
     },
     {
@@ -3315,7 +3315,7 @@
       "name": "우리함께런 with 빗썸나눔",
       "date": "2026-11-15",
       "events": "10km,5km",
-      "location": "여의도 한강공원 물빛무대앞 광",
+      "location": "여의도한강공원 물빛무대앞광장",
       "organizer": "빗썸나눔 & 이투데이",
       "phone": "070-4350-5663",
       "homepage": "http://bithumbnanumrun.com",
@@ -3324,10 +3324,10 @@
       "source_detail": "http://www.roadrun.co.kr/schedule/view.php?no=41902",
       "region": "서울",
       "reg_period": "2026년10월6일~2026년10월21일",
-      "start_time": "09:00",
-      "description": "빗썸나눔, 이투데이와 함께하는 소외계층 아동을 위한 마라톤",
       "reg_start": "2026-10-06",
       "reg_end": "2026-10-21",
+      "start_time": "09:00",
+      "description": "빗썸나눔, 이투데이와 함께하는 소외계층 아동을 위한 마라톤",
       "added_at": "2026-10-07"
     },
     {
@@ -3714,6 +3714,26 @@
       "start_time": "07:30",
       "description": "2026년 11월 21일(토) 서울 여의도공원에서 2026 아식스 서울신문 고프리런마라톤대회가 진행이 됩니다. 하프/10k코스로 운영이 되며\n많은 관심과 신청바랍니다.",
       "added_at": "2026-09-11"
+    },
+    {
+      "id": "roadrun-41908",
+      "name": "부산항일학생의거86주년기념 부산시민이어달리기",
+      "date": "2026-11-22",
+      "events": "이어달리기16키로",
+      "location": "부산시내 중앙로구덕운동장~초읍",
+      "organizer": "(사)부산항일학생의거기념사업회",
+      "phone": "070-4406-1123",
+      "homepage": "http://i1123.org",
+      "detail_no": "41908",
+      "source": "http://www.roadrun.co.kr/schedule/list.php (발견용)",
+      "source_detail": "http://www.roadrun.co.kr/schedule/view.php?no=41908",
+      "region": "부산",
+      "reg_period": "2026년10월7일~2026년10월7일",
+      "start_time": "09:00",
+      "description": "부산항일학생의거 86주년을 기념하여 매년 개최하던 제 11회 부산시민이어달리기\n구덕운동장을 출발하여 충무동~남포동~중앙동~부산역~부산진역~범일동~범냇골~서면로터리~부암교차로~연지삼거리~초읍으로 이어달리기를 진행함",
+      "reg_start": "2026-10-07",
+      "reg_end": "2026-10-07",
+      "added_at": "2026-10-07"
     },
     {
       "id": "roadrun-41832",
@@ -4289,10 +4309,10 @@
       "source_detail": "http://www.roadrun.co.kr/schedule/view.php?no=41905",
       "region": "경기",
       "reg_period": "2026년10월8일~2026년11월26일",
-      "start_time": "10:00",
-      "description": "[2026 연합뉴스 하남 국제 트레일런 페스티벌]\nMORE THAN RUNNING!\n달리고, 즐기고, 연결되는 새로운 러닝 페스티벌!\n2026년 12월, 하남에서 로드러닝과 트레일런, 스포츠 엑스포와 K-POP 공연 등 다양한 문화 콘텐츠가 함께하는 국제 러닝 페스티벌이 펼쳐집니다.\n미사경정공원을 중심으로 하남의 도심과 자연을 달리는 다양한 코스와 함께 3일간 운영되는 스포츠·러닝 엑스포, 문화예술 공연, K-FOOD 및 다양한 부대프로그램을 한자리에서 만나보세요.\n■ 행사기간 : 2026. 12. 11.(금) ~ 12. 13.(일",
       "reg_start": "2026-10-08",
       "reg_end": "2026-11-26",
+      "start_time": "10:00",
+      "description": "[2026 연합뉴스 하남 국제 트레일런 페스티벌]\nMORE THAN RUNNING!\n달리고, 즐기고, 연결되는 새로운 러닝 페스티벌!\n2026년 12월, 하남에서 로드러닝과 트레일런, 스포츠 엑스포와 K-POP 공연 등 다양한 문화 콘텐츠가 함께하는 국제 러닝 페스티벌이 펼쳐집니다.\n미사경정공원을 중심으로 하남의 도심과 자연을 달리는 다양한 코스와 함께 3일간 운영되는 스포츠·러닝 엑스포, 문화예술 공연, K-FOOD 및 다양한 부대프로그램을 한자리에서 만나보세요.\n■ 행사기간 : 2026. 12. 11.(금) ~ 12. 13.(일",
       "added_at": "2026-10-07"
     },
     {
