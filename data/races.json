@@ -1,7 +1,7 @@
 {
-  "collected_at": "2026-10-06T18:42:15",
+  "collected_at": "2026-10-07T01:13:47",
   "source": "http://www.roadrun.co.kr/schedule/list.php",
-  "count": 218,
+  "count": 222,
   "races": [
     {
       "id": "roadrun-41722",
@@ -3131,6 +3131,26 @@
       "poster": "posters/roadrun-41528.jpg"
     },
     {
+      "id": "roadrun-41906",
+      "name": "2026 에코나우런",
+      "date": "2026-11-15",
+      "events": "5km",
+      "location": "뚝섬한강공원 수변무대 앞 광장",
+      "organizer": "에코나우",
+      "phone": "02-556-3012",
+      "homepage": "http://econow.campaignus.me/econow_run",
+      "detail_no": "41906",
+      "source": "http://www.roadrun.co.kr/schedule/list.php (발견용)",
+      "source_detail": "http://www.roadrun.co.kr/schedule/view.php?no=41906",
+      "region": "서울",
+      "reg_period": "2026년10월1일~2026년11월8일",
+      "start_time": "09:00",
+      "description": "미래세대를 위한 환경교육 기부 마라톤",
+      "reg_start": "2026-10-01",
+      "reg_end": "2026-11-08",
+      "added_at": "2026-10-07"
+    },
+    {
       "id": "roadrun-41847",
       "name": "2026 FILA RUN & ESPRESSO",
       "date": "2026-11-15",
@@ -3211,6 +3231,26 @@
       "added_at": "2026-09-05"
     },
     {
+      "id": "roadrun-41903",
+      "name": "2026 영남일보 혁신도시 마라톤",
+      "date": "2026-11-15",
+      "events": "10km,5km",
+      "location": "대구혁신도시 신서중앙공원",
+      "organizer": "영남일보",
+      "phone": "00-1600-3949",
+      "homepage": "http://inno.ynmarathon.kr",
+      "detail_no": "41903",
+      "source": "http://www.roadrun.co.kr/schedule/list.php (발견용)",
+      "source_detail": "http://www.roadrun.co.kr/schedule/view.php?no=41903",
+      "region": "대구",
+      "reg_period": "2026년10월2일~2026년10월30일",
+      "start_time": "09:00",
+      "description": "2026 영남일보 혁신도시 마라톤 많은 참여 부탁 드립니다.",
+      "reg_start": "2026-10-02",
+      "reg_end": "2026-10-30",
+      "added_at": "2026-10-07"
+    },
+    {
       "id": "roadrun-41699",
       "name": "제28회 부산국제마라톤",
       "date": "2026-11-15",
@@ -3269,6 +3309,26 @@
       "start_time": "09:00",
       "description": "제주감귤마라톤",
       "added_at": "2026-09-05"
+    },
+    {
+      "id": "roadrun-41902",
+      "name": "우리함께런 with 빗썸나눔",
+      "date": "2026-11-15",
+      "events": "10km,5km",
+      "location": "여의도 한강공원 물빛무대앞 광",
+      "organizer": "빗썸나눔 & 이투데이",
+      "phone": "070-4350-5663",
+      "homepage": "http://bithumbnanumrun.com",
+      "detail_no": "41902",
+      "source": "http://www.roadrun.co.kr/schedule/list.php (발견용)",
+      "source_detail": "http://www.roadrun.co.kr/schedule/view.php?no=41902",
+      "region": "서울",
+      "reg_period": "2026년10월6일~2026년10월21일",
+      "start_time": "09:00",
+      "description": "빗썸나눔, 이투데이와 함께하는 소외계층 아동을 위한 마라톤",
+      "reg_start": "2026-10-06",
+      "reg_end": "2026-10-21",
+      "added_at": "2026-10-07"
     },
     {
       "id": "roadrun-41602",
@@ -4214,6 +4274,26 @@
       "start_time": "AM8:00",
       "description": "함께 달리는 청춘, 함께 웃는 내일\n2026 청춘런\n청춘RUN 수익금의 일부는 초록우산을 통해\n자립준비청년의 주거, 교육, 취업, 생활 안정 등\n자립 지원 사업에 사용됩니다.\n당신의 한 걸음이 누군가의 새로운 시작이 됩니다.\n함께 달리며, 청춘의 내일을 응원해주세요!",
       "added_at": "2026-09-08"
+    },
+    {
+      "id": "roadrun-41905",
+      "name": "2026 연합뉴스 하남 국제 트레일런 페스티벌",
+      "date": "2026-12-12",
+      "events": "10km,5km,15km,28km",
+      "location": "미사경정공원 및 하남시 일대",
+      "organizer": "연합뉴스,하남시,한국체육대학교",
+      "phone": "033-264-1365",
+      "homepage": "http://yhitf.co.kr",
+      "detail_no": "41905",
+      "source": "http://www.roadrun.co.kr/schedule/list.php (발견용)",
+      "source_detail": "http://www.roadrun.co.kr/schedule/view.php?no=41905",
+      "region": "경기",
+      "reg_period": "2026년10월8일~2026년11월26일",
+      "start_time": "10:00",
+      "description": "[2026 연합뉴스 하남 국제 트레일런 페스티벌]\nMORE THAN RUNNING!\n달리고, 즐기고, 연결되는 새로운 러닝 페스티벌!\n2026년 12월, 하남에서 로드러닝과 트레일런, 스포츠 엑스포와 K-POP 공연 등 다양한 문화 콘텐츠가 함께하는 국제 러닝 페스티벌이 펼쳐집니다.\n미사경정공원을 중심으로 하남의 도심과 자연을 달리는 다양한 코스와 함께 3일간 운영되는 스포츠·러닝 엑스포, 문화예술 공연, K-FOOD 및 다양한 부대프로그램을 한자리에서 만나보세요.\n■ 행사기간 : 2026. 12. 11.(금) ~ 12. 13.(일",
+      "reg_start": "2026-10-08",
+      "reg_end": "2026-11-26",
+      "added_at": "2026-10-07"
     },
     {
       "id": "roadrun-41812",
