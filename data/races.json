@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-10-08T09:52:23",
+  "collected_at": "2026-10-08T15:02:03",
   "source": "http://www.roadrun.co.kr/schedule/list.php",
   "count": 225,
   "races": [
@@ -3144,10 +3144,10 @@
       "source_detail": "http://www.roadrun.co.kr/schedule/view.php?no=41910",
       "region": "인천",
       "reg_period": "2026년10월9일~2026년11월8일",
-      "start_time": "오전8시",
-      "description": "상쾌한 가을 아침, 송도국제도시의 아름다운 도심을 누비다.\n건강과 활력을 채우는 프리미엄 워킹 & 러닝 페스티벌이 열립니다.\n2026연수구청장배 송도 WALK & RUN 에 오신걸 환영합니다.",
       "reg_start": "2026-10-09",
       "reg_end": "2026-11-08",
+      "start_time": "오전8시",
+      "description": "상쾌한 가을 아침, 송도국제도시의 아름다운 도심을 누비다.\n건강과 활력을 채우는 프리미엄 워킹 & 러닝 페스티벌이 열립니다.\n2026연수구청장배 송도 WALK & RUN 에 오신걸 환영합니다.",
       "added_at": "2026-10-08"
     },
     {
@@ -3184,10 +3184,10 @@
       "source_detail": "http://www.roadrun.co.kr/schedule/view.php?no=41909",
       "region": "서울",
       "reg_period": "2026년10월8일~2026년11월8일",
-      "start_time": "09:00",
-      "description": "신선한 바람이 함께하는 11월\n중랑천에서 나만의 속도로 달리는 즐거움을 만나보세요",
       "reg_start": "2026-10-08",
       "reg_end": "2026-11-08",
+      "start_time": "09:00",
+      "description": "신선한 바람이 함께하는 11월\n중랑천에서 나만의 속도로 달리는 즐거움을 만나보세요",
       "added_at": "2026-10-08"
     },
     {
