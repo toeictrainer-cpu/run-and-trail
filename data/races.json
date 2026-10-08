@@ -1,7 +1,7 @@
 {
-  "collected_at": "2026-10-08T01:35:02",
+  "collected_at": "2026-10-08T09:52:23",
   "source": "http://www.roadrun.co.kr/schedule/list.php",
-  "count": 223,
+  "count": 225,
   "races": [
     {
       "id": "roadrun-41722",
@@ -3131,6 +3131,26 @@
       "poster": "posters/roadrun-41528.jpg"
     },
     {
+      "id": "roadrun-41910",
+      "name": "2026 연수구청장배 송도 WALK & RUN",
+      "date": "2026-11-15",
+      "events": "하프,10km,5km,WALK 5km,WALK 10km",
+      "location": "국립인천대학교 송도캠퍼스 정문",
+      "organizer": "인천광역시연수구걷기협회",
+      "phone": "070-4098-1114",
+      "homepage": "http://walknrun.kr",
+      "detail_no": "41910",
+      "source": "http://www.roadrun.co.kr/schedule/list.php (발견용)",
+      "source_detail": "http://www.roadrun.co.kr/schedule/view.php?no=41910",
+      "region": "인천",
+      "reg_period": "2026년10월9일~2026년11월8일",
+      "start_time": "오전8시",
+      "description": "상쾌한 가을 아침, 송도국제도시의 아름다운 도심을 누비다.\n건강과 활력을 채우는 프리미엄 워킹 & 러닝 페스티벌이 열립니다.\n2026연수구청장배 송도 WALK & RUN 에 오신걸 환영합니다.",
+      "reg_start": "2026-10-09",
+      "reg_end": "2026-11-08",
+      "added_at": "2026-10-08"
+    },
+    {
       "id": "roadrun-41906",
       "name": "2026 에코나우런",
       "date": "2026-11-15",
@@ -3149,6 +3169,26 @@
       "start_time": "09:00",
       "description": "미래세대를 위한 환경교육 기부 마라톤",
       "added_at": "2026-10-07"
+    },
+    {
+      "id": "roadrun-41909",
+      "name": "2026 청춘레이스",
+      "date": "2026-11-15",
+      "events": "하프,10km,5km",
+      "location": "성북구 중랑천 체육공원",
+      "organizer": "(사)행복한가게",
+      "phone": "02-877-3335",
+      "homepage": "http://youngrace.kr",
+      "detail_no": "41909",
+      "source": "http://www.roadrun.co.kr/schedule/list.php (발견용)",
+      "source_detail": "http://www.roadrun.co.kr/schedule/view.php?no=41909",
+      "region": "서울",
+      "reg_period": "2026년10월8일~2026년11월8일",
+      "start_time": "09:00",
+      "description": "신선한 바람이 함께하는 11월\n중랑천에서 나만의 속도로 달리는 즐거움을 만나보세요",
+      "reg_start": "2026-10-08",
+      "reg_end": "2026-11-08",
+      "added_at": "2026-10-08"
     },
     {
       "id": "roadrun-41847",
