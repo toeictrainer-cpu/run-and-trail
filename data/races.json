@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-10-08T15:02:03",
+  "collected_at": "2026-10-08T19:04:40",
   "source": "http://www.roadrun.co.kr/schedule/list.php",
   "count": 225,
   "races": [
@@ -4079,7 +4079,7 @@
       "id": "roadrun-41759",
       "name": "제14회 안중근 평화 마라톤",
       "date": "2026-11-29",
-      "events": "10km,5km",
+      "events": "하프,10km,5km",
       "location": "여의도공원 문화의마당",
       "organizer": "안중근평화재단청년아카데미",
       "phone": "02-336-1588",
@@ -4197,12 +4197,12 @@
     },
     {
       "id": "roadrun-41762",
-      "name": "2026 하남 미사 호수 에너지런",
+      "name": "2026 하남 미사 대회 취소",
       "date": "2026-12-05",
       "events": "10km,5km",
       "location": "하남미사경정공원",
-      "organizer": "(사)행복한가게",
-      "phone": "02-888-8875",
+      "organizer": "하남미사",
+      "phone": "02-000-0000",
       "homepage": "http://energyrun.kr",
       "detail_no": "41762",
       "source": "http://www.roadrun.co.kr/schedule/list.php (발견용)",
