@@ -1,7 +1,7 @@
 {
-  "collected_at": "2026-10-09T01:45:48",
+  "collected_at": "2026-10-09T09:56:20",
   "source": "http://www.roadrun.co.kr/schedule/list.php",
-  "count": 225,
+  "count": 226,
   "races": [
     {
       "id": "roadrun-41722",
@@ -4154,6 +4154,26 @@
       "start_time": "09:30",
       "description": "3회를 맞이하는 정읍 공동체 프리마켓 마라톤대회입니다.\n공동체에서 직접 생산한 제품으로 프리마켓을 열어 지역 공동체를 활성화 시키는 마라톤으로 지속하고 싶은 마라톤대회입니다.\n빠른 승인 부탁드리며 항상 건강하세요.",
       "added_at": "2026-09-05"
+    },
+    {
+      "id": "roadrun-41911",
+      "name": "2026 허그런(HUG RUN)",
+      "date": "2026-12-05",
+      "events": "10km,5km",
+      "location": "상암 월드컵공원 평화광장",
+      "organizer": "동방사회복지회",
+      "phone": "02-332-3997",
+      "homepage": "http://hugrun.kr",
+      "detail_no": "41911",
+      "source": "http://www.roadrun.co.kr/schedule/list.php (발견용)",
+      "source_detail": "http://www.roadrun.co.kr/schedule/view.php?no=41911",
+      "region": "서울",
+      "reg_period": "2026년10월6일~2026년11월8일",
+      "start_time": "08:00",
+      "description": "동방사회복지회에서 학대피해, 유기, 방임 등 위기아동을 위한 기부 마라톤 '허그런(HUG RUN)'을 개최합니다.\n오는 12월 5일(토), 상암 월드컵공원 평화광장에서 진행하오니 아이들을 위해 멈추지 안고(hug) 달려라, 기부 마라톤 '허그런(HUG RUN)' 참여해 주시기 바랍니다.\n• 행사명: 위기아동 지원 기부 마라톤 '2026 허그런(HUG RUN)'\n• 일시: 2026년 12월 5일(토) 07:00-11:00\n- 집결: 07:00, 본행사: 07:30, 출발: 08:00\n• 장소: 상암 월드컵공원 평화광장\n• 인원: 일반",
+      "reg_start": "2026-10-06",
+      "reg_end": "2026-11-08",
+      "added_at": "2026-10-09"
     },
     {
       "id": "roadrun-41867",
