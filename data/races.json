@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-10-10T14:04:04",
+  "collected_at": "2026-10-10T17:32:49",
   "source": "http://www.roadrun.co.kr/schedule/list.php",
   "count": 228,
   "races": [
@@ -483,10 +483,10 @@
       "source_detail": "http://www.roadrun.co.kr/schedule/view.php?no=41916",
       "region": "서울",
       "reg_period": "2026년7월8일~2026년9월10일",
-      "start_time": "08:00",
-      "description": "평화의 광장",
       "reg_start": "2026-07-08",
       "reg_end": "2026-09-10",
+      "start_time": "08:00",
+      "description": "평화의 광장",
       "added_at": "2026-10-10"
     },
     {
