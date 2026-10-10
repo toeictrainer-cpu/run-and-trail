@@ -1,7 +1,7 @@
 {
-  "collected_at": "2026-10-10T09:19:52",
+  "collected_at": "2026-10-10T14:04:04",
   "source": "http://www.roadrun.co.kr/schedule/list.php",
-  "count": 227,
+  "count": 228,
   "races": [
     {
       "id": "roadrun-41722",
@@ -468,6 +468,26 @@
       "description": "지속 가능한 러닝 문화 만들기 일환으로 개최되는 대회",
       "added_at": "2026-09-05",
       "poster": "posters/roadrun-41551.jpg"
+    },
+    {
+      "id": "roadrun-41916",
+      "name": "제11회 수퍼블루마라톤",
+      "date": "2026-10-09",
+      "events": "10km,5km",
+      "location": "상암동 평화의 광장",
+      "organizer": "스페셜올림픽 조직위",
+      "phone": "02-312-1998",
+      "homepage": "http://www.superbluemarathon.kr/",
+      "detail_no": "41916",
+      "source": "http://www.roadrun.co.kr/schedule/list.php (발견용)",
+      "source_detail": "http://www.roadrun.co.kr/schedule/view.php?no=41916",
+      "region": "서울",
+      "reg_period": "2026년7월8일~2026년9월10일",
+      "start_time": "08:00",
+      "description": "평화의 광장",
+      "reg_start": "2026-07-08",
+      "reg_end": "2026-09-10",
+      "added_at": "2026-10-10"
     },
     {
       "id": "roadrun-41664",
