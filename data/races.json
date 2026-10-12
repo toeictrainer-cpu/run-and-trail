@@ -1,7 +1,7 @@
 {
-  "collected_at": "2026-10-12T01:02:40",
+  "collected_at": "2026-10-12T10:08:25",
   "source": "http://www.roadrun.co.kr/schedule/list.php",
-  "count": 228,
+  "count": 227,
   "races": [
     {
       "id": "roadrun-41722",
@@ -3274,7 +3274,7 @@
       "id": "roadrun-41817",
       "name": "2026 나눔레이스 인 용인",
       "date": "2026-11-15",
-      "events": "10km,15km",
+      "events": "10km,5km,15km",
       "location": "세리박위드용인",
       "organizer": "나눔레이스조직위원회",
       "phone": "02-2135-1297",
@@ -4233,26 +4233,6 @@
       "reg_end": "2026-09-20",
       "start_time": "10",
       "description": "2026런던 마라톤 월드 레코드1:59:30 사바스티안 사웨와 함께 할 수 있는 대회",
-      "added_at": "2026-09-05"
-    },
-    {
-      "id": "roadrun-41762",
-      "name": "2026 하남 미사 대회 취소",
-      "date": "2026-12-05",
-      "events": "10km,5km",
-      "location": "하남미사경정공원",
-      "organizer": "하남미사",
-      "phone": "02-000-0000",
-      "homepage": "http://energyrun.kr",
-      "detail_no": "41762",
-      "source": "http://www.roadrun.co.kr/schedule/list.php (발견용)",
-      "source_detail": "http://www.roadrun.co.kr/schedule/view.php?no=41762",
-      "region": "경기",
-      "reg_period": "2026년8월3일~2026년11월26일",
-      "reg_start": "2026-08-03",
-      "reg_end": "2026-11-26",
-      "start_time": "09:00",
-      "description": "기록과 순위를 넘어 서로를 응원하며 즐겁게 달릴 수 있는 축제의 장이 되기를 바라며 참가자 모두 기쁘게 달릴 수 있길 희망합니다.",
       "added_at": "2026-09-05"
     },
     {
