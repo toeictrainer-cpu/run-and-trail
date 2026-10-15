@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-10-15T07:56:50",
+  "collected_at": "2026-10-15T12:55:57",
   "source": "http://www.roadrun.co.kr/schedule/list.php",
   "count": 230,
   "races": [
@@ -1759,26 +1759,6 @@
       "reg_end": "2026-10-24",
       "start_time": "06:30",
       "description": "2026 담양 트레일런 데이브레이크\n행사일 : 2026.10.24 (토)\n코스 : 9k/ 29k\n핵심 코스 : 추성경기장, 관방제림, 죽녹원, 메타세콰이어길, 금성산성",
-      "added_at": "2026-09-05"
-    },
-    {
-      "id": "roadrun-41642",
-      "name": "서울 대모-구룡산트레일런",
-      "date": "2026-10-24",
-      "events": "14.6km",
-      "location": "수서역6번출구",
-      "organizer": "파브코리아",
-      "phone": "010-3526-9120",
-      "homepage": "http://www.mtrailrun.kr/",
-      "detail_no": "41642",
-      "source": "http://www.roadrun.co.kr/schedule/list.php (발견용)",
-      "source_detail": "http://www.roadrun.co.kr/schedule/view.php?no=41642",
-      "region": "서울",
-      "reg_period": "2026년6월15일~2026년8월20일",
-      "reg_start": "2026-06-15",
-      "reg_end": "2026-08-20",
-      "start_time": "08:00",
-      "description": "서울의 랜드마크 로드이자\n자연과 역사가 어우러진 아름다운 한양도성 길을\n탐방하는 트레일런대회를 개최합니다..",
       "added_at": "2026-09-05"
     },
     {
@@ -4414,6 +4394,26 @@
       "start_time": "AM8:00",
       "description": "함께 달리는 청춘, 함께 웃는 내일\n2026 청춘런\n청춘RUN 수익금의 일부는 초록우산을 통해\n자립준비청년의 주거, 교육, 취업, 생활 안정 등\n자립 지원 사업에 사용됩니다.\n당신의 한 걸음이 누군가의 새로운 시작이 됩니다.\n함께 달리며, 청춘의 내일을 응원해주세요!",
       "added_at": "2026-09-08"
+    },
+    {
+      "id": "roadrun-41642",
+      "name": "대전보문산트레일런",
+      "date": "2026-12-06",
+      "events": "15km,10km",
+      "location": "수서역6번출구",
+      "organizer": "파브코리아/명품트레일",
+      "phone": "010-3526-9120",
+      "homepage": "http://www.mtrailrun.kr/",
+      "detail_no": "41642",
+      "source": "http://www.roadrun.co.kr/schedule/list.php (발견용)",
+      "source_detail": "http://www.roadrun.co.kr/schedule/view.php?no=41642",
+      "region": "서울",
+      "reg_period": "2026년6월15일~2026년8월20일",
+      "reg_start": "2026-06-15",
+      "reg_end": "2026-08-20",
+      "start_time": "08:00",
+      "description": "서울의 랜드마크 로드이자\n자연과 역사가 어우러진 아름다운 한양도성 길을\n탐방하는 트레일런대회를 개최합니다..",
+      "added_at": "2026-09-05"
     },
     {
       "id": "roadrun-41905",
