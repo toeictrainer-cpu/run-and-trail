@@ -1,7 +1,7 @@
 {
-  "collected_at": "2026-10-16T00:06:06",
+  "collected_at": "2026-10-16T07:50:43",
   "source": "http://www.roadrun.co.kr/schedule/list.php",
-  "count": 230,
+  "count": 231,
   "races": [
     {
       "id": "roadrun-41722",
@@ -3556,7 +3556,7 @@
     },
     {
       "id": "roadrun-41558",
-      "name": "제3회 무등산더블하트국제트레일런대회",
+      "name": "제3회 무등산더블하트국제트레일런대회 추가접수",
       "date": "2026-11-15",
       "events": "16km/36km,51.8km",
       "location": "조선대학교",
@@ -3954,6 +3954,26 @@
       "start_time": "09:00",
       "description": "직장인의 건강, 기업의 조직문화, 지역의 활력과 국제 스포츠 교류가 함께 성장하는 지속 가능한 스포츠 생태계를 만들어갑니다.",
       "added_at": "2026-09-08"
+    },
+    {
+      "id": "roadrun-41927",
+      "name": "2026 착한서구 공부방 기부앤런",
+      "date": "2026-11-28",
+      "events": "10km,5km",
+      "location": "영산강 자전거길(극락교~서창교",
+      "organizer": "전남광주통합특별시 서구",
+      "phone": "063-535-0495",
+      "homepage": "http://기부앤런.kr",
+      "detail_no": "41927",
+      "source": "http://www.roadrun.co.kr/schedule/list.php (발견용)",
+      "source_detail": "http://www.roadrun.co.kr/schedule/view.php?no=41927",
+      "region": "광주",
+      "reg_period": "2026년10월15일~2026년11월17일",
+      "start_time": "09:00",
+      "description": "처음으로 진행하는 공부방 아이들에게 안전하고 쾌적한 공부방을 만들어 주는 기부마라톤입니다\n늦게 승인되어 기간이 촉박하게 올린 점 죄송합니다.\n빠른 승인 부탁드리며, 건강하세요.",
+      "reg_start": "2026-10-15",
+      "reg_end": "2026-11-17",
+      "added_at": "2026-10-16"
     },
     {
       "id": "roadrun-41766",
