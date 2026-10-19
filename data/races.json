@@ -1,7 +1,7 @@
 {
-  "collected_at": "2026-10-19T08:25:23",
+  "collected_at": "2026-10-19T15:05:47",
   "source": "http://www.roadrun.co.kr/schedule/list.php",
-  "count": 231,
+  "count": 232,
   "races": [
     {
       "id": "roadrun-41722",
@@ -2968,6 +2968,26 @@
       "description": "양산 배내골 사과축제와 함께하는 마라톤 축제입니다.",
       "added_at": "2026-09-05",
       "poster": "posters/roadrun-41634.jpg"
+    },
+    {
+      "id": "roadrun-41933",
+      "name": "83타워 업힐런 챌린지",
+      "date": "2026-11-08",
+      "events": "1.8Km+77층 계단",
+      "location": "이월드",
+      "organizer": "이월드 / 페스티벌잼",
+      "phone": "070-7549-8112",
+      "homepage": "http://eworld83toweruphillrun.lovable.app/",
+      "detail_no": "41933",
+      "source": "http://www.roadrun.co.kr/schedule/list.php (발견용)",
+      "source_detail": "http://www.roadrun.co.kr/schedule/view.php?no=41933",
+      "region": "대구",
+      "reg_period": "2026년10월19일~2026년10월31일",
+      "start_time": "07:00",
+      "description": "83타워 업힐런 챌린지는 대구 이월드의 오르막길을 달리고, 83타워 계단을 올라 77층 전망대까지 완주하는 이색 수직 러닝 페스티벌입니다.\n이번 2회차에는 기록칩을 도입하여 개인별 완주 기록을 측정하고, 기존의 체험형 러닝에서 기록에 도전하는 스포츠 챌린지로 확대 운영합니다.",
+      "reg_start": "2026-10-19",
+      "reg_end": "2026-10-31",
+      "added_at": "2026-10-19"
     },
     {
       "id": "roadrun-41658",
