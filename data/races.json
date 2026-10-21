@@ -1,7 +1,7 @@
 {
-  "collected_at": "2026-10-21T08:13:27",
+  "collected_at": "2026-10-21T13:17:53",
   "source": "http://www.roadrun.co.kr/schedule/list.php",
-  "count": 232,
+  "count": 234,
   "races": [
     {
       "id": "roadrun-41722",
@@ -4536,6 +4536,26 @@
       "added_at": "2026-09-11"
     },
     {
+      "id": "roadrun-41936",
+      "name": "2026 성남 헤리티지 런",
+      "date": "2026-12-12",
+      "events": "10km,5km",
+      "location": "탄천종합운동장",
+      "organizer": "채널A",
+      "phone": "031-821-9940",
+      "homepage": "http://charun.co.kr",
+      "detail_no": "41936",
+      "source": "http://www.roadrun.co.kr/schedule/list.php (발견용)",
+      "source_detail": "http://www.roadrun.co.kr/schedule/view.php?no=41936",
+      "region": "경기",
+      "reg_period": "2026년10월21일~2026년11월20일",
+      "start_time": "08:30",
+      "description": "손기정 세계 제패 90주년\n1936년 베를린의 감동을 2026년 성남에서 이어갑니다.\n1936년 베를린 올림픽 마라톤, 배번 382를 달고 가장 먼저 결승선을 통과한 손기정.\n그로부터 90년, 그 감동을 이어받아 탄천을 따라 달리는 2026 성남 헤리티지 마라톤이 열립니다.\n한 걸음 한 걸음에 담긴 역사를, 이제 여러분의 기록으로 이어 주세요.\n2026 SEONGNAM HERITAGE RUN",
+      "reg_start": "2026-10-21",
+      "reg_end": "2026-11-20",
+      "added_at": "2026-10-21"
+    },
+    {
       "id": "roadrun-41914",
       "name": "제2회 일자산TRAL RUNNING",
       "date": "2026-12-13",
@@ -4594,6 +4614,26 @@
       "start_time": "9:30",
       "description": "시민들이 만드는 풀뿌리 마라톤대회",
       "added_at": "2026-09-05"
+    },
+    {
+      "id": "roadrun-41935",
+      "name": "2026 시즌마감마라톤대회",
+      "date": "2026-12-13",
+      "events": "하프,10km,5km",
+      "location": "인천아사이드 경기장 북측 광장",
+      "organizer": "기호일보, 로드스포츠",
+      "phone": "00-1600-3962",
+      "homepage": "http://42195race.com/",
+      "detail_no": "41935",
+      "source": "http://www.roadrun.co.kr/schedule/list.php (발견용)",
+      "source_detail": "http://www.roadrun.co.kr/schedule/view.php?no=41935",
+      "region": "인천",
+      "reg_period": "2026년10월20일~2026년11월23일",
+      "start_time": "9시",
+      "description": "",
+      "reg_start": "2026-10-20",
+      "reg_end": "2026-11-23",
+      "added_at": "2026-10-21"
     },
     {
       "id": "roadrun-41801",
