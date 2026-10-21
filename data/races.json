@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-10-21T13:17:53",
+  "collected_at": "2026-10-21T17:47:24",
   "source": "http://www.roadrun.co.kr/schedule/list.php",
   "count": 234,
   "races": [
@@ -4549,10 +4549,10 @@
       "source_detail": "http://www.roadrun.co.kr/schedule/view.php?no=41936",
       "region": "경기",
       "reg_period": "2026년10월21일~2026년11월20일",
-      "start_time": "08:30",
-      "description": "손기정 세계 제패 90주년\n1936년 베를린의 감동을 2026년 성남에서 이어갑니다.\n1936년 베를린 올림픽 마라톤, 배번 382를 달고 가장 먼저 결승선을 통과한 손기정.\n그로부터 90년, 그 감동을 이어받아 탄천을 따라 달리는 2026 성남 헤리티지 마라톤이 열립니다.\n한 걸음 한 걸음에 담긴 역사를, 이제 여러분의 기록으로 이어 주세요.\n2026 SEONGNAM HERITAGE RUN",
       "reg_start": "2026-10-21",
       "reg_end": "2026-11-20",
+      "start_time": "08:30",
+      "description": "손기정 세계 제패 90주년\n1936년 베를린의 감동을 2026년 성남에서 이어갑니다.\n1936년 베를린 올림픽 마라톤, 배번 382를 달고 가장 먼저 결승선을 통과한 손기정.\n그로부터 90년, 그 감동을 이어받아 탄천을 따라 달리는 2026 성남 헤리티지 마라톤이 열립니다.\n한 걸음 한 걸음에 담긴 역사를, 이제 여러분의 기록으로 이어 주세요.\n2026 SEONGNAM HERITAGE RUN",
       "added_at": "2026-10-21"
     },
     {
@@ -4629,10 +4629,10 @@
       "source_detail": "http://www.roadrun.co.kr/schedule/view.php?no=41935",
       "region": "인천",
       "reg_period": "2026년10월20일~2026년11월23일",
-      "start_time": "9시",
-      "description": "",
       "reg_start": "2026-10-20",
       "reg_end": "2026-11-23",
+      "start_time": "9시",
+      "description": "",
       "added_at": "2026-10-21"
     },
     {
