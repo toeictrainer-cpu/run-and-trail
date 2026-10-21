@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-10-21T00:23:43",
+  "collected_at": "2026-10-21T08:13:27",
   "source": "http://www.roadrun.co.kr/schedule/list.php",
   "count": 232,
   "races": [
@@ -4657,7 +4657,7 @@
     },
     {
       "id": "roadrun-41806",
-      "name": "2026 한강런 준비중",
+      "name": "2026 한강런 (대회취소)",
       "date": "2026-12-28",
       "events": "10km,5km",
       "location": "안양천다목적광장",
