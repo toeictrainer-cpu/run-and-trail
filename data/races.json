@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-11-04T10:21:19",
+  "collected_at": "2026-11-04T15:50:35",
   "source": "http://www.roadrun.co.kr/schedule/list.php",
   "count": 131,
   "races": [
@@ -1889,10 +1889,10 @@
       "source_detail": "http://www.roadrun.co.kr/schedule/view.php?no=41947",
       "region": "서울",
       "reg_period": "2026년10월28일~2026년11월9일",
-      "start_time": "8:00",
-      "description": "~11/9 월요일까지 추가 모집 됩니다. 접수중으로 변경해주세요!",
       "reg_start": "2026-10-28",
       "reg_end": "2026-11-09",
+      "start_time": "8:00",
+      "description": "~11/9 월요일까지 추가 모집 됩니다. 접수중으로 변경해주세요!",
       "added_at": "2026-11-04"
     },
     {
@@ -1929,10 +1929,10 @@
       "source_detail": "http://www.roadrun.co.kr/schedule/view.php?no=41952",
       "region": "경기",
       "reg_period": "2026년11월1일~2026년11월15일",
-      "start_time": "오후",
-      "description": "많은 참여바랍니다",
       "reg_start": "2026-11-01",
       "reg_end": "2026-11-15",
+      "start_time": "오후",
+      "description": "많은 참여바랍니다",
       "added_at": "2026-11-04"
     },
     {
@@ -2549,10 +2549,10 @@
       "source_detail": "http://www.roadrun.co.kr/schedule/view.php?no=41951",
       "region": "충남",
       "reg_period": "2026년11월3일~2026년12월2일",
-      "start_time": "08:30",
-      "description": "이순신 장군의 호국정신과 도전정신을 생활체육으로 계승하고, 시민들이 함께 달리며 건강과 화합의 가치를 나누기 위해 마련된 \"축제형마라톤\"행사입니다.",
       "reg_start": "2026-11-03",
       "reg_end": "2026-12-02",
+      "start_time": "08:30",
+      "description": "이순신 장군의 호국정신과 도전정신을 생활체육으로 계승하고, 시민들이 함께 달리며 건강과 화합의 가치를 나누기 위해 마련된 \"축제형마라톤\"행사입니다.",
       "added_at": "2026-11-04"
     },
     {
