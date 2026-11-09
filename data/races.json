@@ -1,7 +1,7 @@
 {
-  "collected_at": "2026-11-09T01:27:32",
+  "collected_at": "2026-11-09T10:49:46",
   "source": "http://www.roadrun.co.kr/schedule/list.php",
-  "count": 131,
+  "count": 132,
   "races": [
     {
       "id": "roadrun-41871",
@@ -2434,6 +2434,26 @@
       "start_time": "07:30",
       "description": "2026 소년소녀 가장 돕기 기부런\n12월 12일(토), 서울 월드컵공원에서 함께 달리고 나누는 따뜻한 기부런이 열립니다. 10km·5km 참가자를 모집하며, 10km 남녀 입상자에게 총상금 300만원과 100% 캐시미어 장갑 특별 부상이 제공됩니다. 참가자를 위한 특별한 캐시미어 겨울 기념품도 준비 중입니다. 올겨울, 아이들에게 희망을 전하는 따뜻한 레이스에 함께해 주세요!",
       "added_at": "2026-09-05"
+    },
+    {
+      "id": "roadrun-41966",
+      "name": "화성레이스",
+      "date": "2026-12-12",
+      "events": "10km,5km",
+      "location": "봉담2생태체육공원",
+      "organizer": "화성시러닝크루연맹",
+      "phone": "010-9805-4983",
+      "homepage": "http://hwaseongrace.com",
+      "detail_no": "41966",
+      "source": "http://www.roadrun.co.kr/schedule/list.php (발견용)",
+      "source_detail": "http://www.roadrun.co.kr/schedule/view.php?no=41966",
+      "region": "경기",
+      "reg_period": "2026년11월4일~2026년11월14일",
+      "start_time": "오전",
+      "description": "함께 달리는 더 큰 내일!!!\nRUN TO A BRIGHTER TOMORROW\n경기도 화성시 봉담생태공원에서 2026 화성레이스'가 개최됩니 다!!!!\nRUN TO A BRIGHTER TOMORROW (더 밝은 내일을 향해 달리다)라는 슬로건 아래, 달리기를 통해 시민들의 건강한 일상을 응원하고 지역사회에 새로운 활력을 불어넣기 위해 개최되는 화성 레이스 마라톤대회에 여러분들을 초대합니다.",
+      "reg_start": "2026-11-04",
+      "reg_end": "2026-11-14",
+      "added_at": "2026-11-09"
     },
     {
       "id": "roadrun-41866",
