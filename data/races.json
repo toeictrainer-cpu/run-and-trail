@@ -1,7 +1,7 @@
 {
-  "collected_at": "2026-11-18T03:20:09",
+  "collected_at": "2026-11-18T11:00:38",
   "source": "http://www.roadrun.co.kr/schedule/list.php",
-  "count": 132,
+  "count": 134,
   "races": [
     {
       "id": "roadrun-41871",
@@ -1696,6 +1696,26 @@
       "added_at": "2026-10-15"
     },
     {
+      "id": "roadrun-41972",
+      "name": "마르 백야드울트라6",
+      "date": "2026-11-22",
+      "events": "풀,하프,10km,5km,6.704km 루프",
+      "location": "제주시 월각로 783",
+      "organizer": "(주)마르어드벤처",
+      "phone": "010-8691-2251",
+      "homepage": "http://events.maar-adv.com/backyardultra",
+      "detail_no": "41972",
+      "source": "http://www.roadrun.co.kr/schedule/list.php (발견용)",
+      "source_detail": "http://www.roadrun.co.kr/schedule/view.php?no=41972",
+      "region": "제주",
+      "reg_period": "2026년11월1일~2026년11월20일",
+      "start_time": "12:00",
+      "description": "한국에서 개최되는 백야드 울트라!\n그 6라운드를 처음으로 선보입니다.",
+      "reg_start": "2026-11-01",
+      "reg_end": "2026-11-20",
+      "added_at": "2026-11-18"
+    },
+    {
       "id": "roadrun-41908",
       "name": "부산항일학생의거86주년기념 부산시민이어달리기",
       "date": "2026-11-22",
@@ -2214,6 +2234,26 @@
       "start_time": "10",
       "description": "2026런던 마라톤 월드 레코드1:59:30 사바스티안 사웨와 함께 할 수 있는 대회",
       "added_at": "2026-09-05"
+    },
+    {
+      "id": "roadrun-41982",
+      "name": "2026 유관순 평화 마라톤",
+      "date": "2026-12-05",
+      "events": "10km,5km",
+      "location": "천안 독립기념관 겨레의 큰 마",
+      "organizer": "천안시체육회, 대전일보사",
+      "phone": "042-335-2543",
+      "homepage": "http://ryugwansun.co.kr/",
+      "detail_no": "41982",
+      "source": "http://www.roadrun.co.kr/schedule/list.php (발견용)",
+      "source_detail": "http://www.roadrun.co.kr/schedule/view.php?no=41982",
+      "region": "충남",
+      "reg_period": "2026년11월17일~2026년11월23일",
+      "start_time": "9시",
+      "description": "2026 유관순 평화 마라톤 대회\n2026년 12월 5일 토요일 08:00 ~ 13:00\n천안 독립기념관 겨레의 큰 마당\n참가종목\n10km · 5km\n참가비\n10km 30,000원 / 5km 20,000원\n입금계좌\n농협은행 301-0274-8024-11 (예금주 천안시체육회)",
+      "reg_start": "2026-11-17",
+      "reg_end": "2026-11-23",
+      "added_at": "2026-11-18"
     },
     {
       "id": "roadrun-41720",
