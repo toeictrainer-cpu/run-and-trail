@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-11-18T11:00:38",
+  "collected_at": "2026-11-18T16:47:36",
   "source": "http://www.roadrun.co.kr/schedule/list.php",
   "count": 134,
   "races": [
@@ -1709,10 +1709,10 @@
       "source_detail": "http://www.roadrun.co.kr/schedule/view.php?no=41972",
       "region": "제주",
       "reg_period": "2026년11월1일~2026년11월20일",
-      "start_time": "12:00",
-      "description": "한국에서 개최되는 백야드 울트라!\n그 6라운드를 처음으로 선보입니다.",
       "reg_start": "2026-11-01",
       "reg_end": "2026-11-20",
+      "start_time": "12:00",
+      "description": "한국에서 개최되는 백야드 울트라!\n그 6라운드를 처음으로 선보입니다.",
       "added_at": "2026-11-18"
     },
     {
@@ -2249,10 +2249,10 @@
       "source_detail": "http://www.roadrun.co.kr/schedule/view.php?no=41982",
       "region": "충남",
       "reg_period": "2026년11월17일~2026년11월23일",
-      "start_time": "9시",
-      "description": "2026 유관순 평화 마라톤 대회\n2026년 12월 5일 토요일 08:00 ~ 13:00\n천안 독립기념관 겨레의 큰 마당\n참가종목\n10km · 5km\n참가비\n10km 30,000원 / 5km 20,000원\n입금계좌\n농협은행 301-0274-8024-11 (예금주 천안시체육회)",
       "reg_start": "2026-11-17",
       "reg_end": "2026-11-23",
+      "start_time": "9시",
+      "description": "2026 유관순 평화 마라톤 대회\n2026년 12월 5일 토요일 08:00 ~ 13:00\n천안 독립기념관 겨레의 큰 마당\n참가종목\n10km · 5km\n참가비\n10km 30,000원 / 5km 20,000원\n입금계좌\n농협은행 301-0274-8024-11 (예금주 천안시체육회)",
       "added_at": "2026-11-18"
     },
     {
