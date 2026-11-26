@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-11-26T03:57:51",
+  "collected_at": "2026-11-26T11:49:38",
   "source": "http://www.roadrun.co.kr/schedule/list.php",
   "count": 135,
   "races": [
@@ -2669,10 +2669,10 @@
       "source_detail": "http://www.roadrun.co.kr/schedule/view.php?no=41994",
       "region": "충남",
       "reg_period": "2026년11월24일~2026년12월11일",
-      "start_time": "9:00",
-      "description": "2026금산 송년 무료 초청 마라톤 축제",
       "reg_start": "2026-11-24",
       "reg_end": "2026-12-11",
+      "start_time": "9:00",
+      "description": "2026금산 송년 무료 초청 마라톤 축제",
       "added_at": "2026-11-26"
     },
     {
